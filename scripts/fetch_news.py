@@ -20,6 +20,14 @@ QUERIES = [
     "2026 midterm elections House",
     "2026 Senate race",
 ]
+
+# Direct RSS feeds from specific outlets you always want included,
+# regardless of whether Google News happens to surface them.
+# Add more as {"name": "...", "url": "..."} entries.
+RSS_FEEDS = [
+    {"name": "Votebeat", "url": "https://www.votebeat.org/rss/latest-news/index.xml"},
+]
+
 MAX_ITEMS = 20
 OUTPUT_PATH = "news.json"
 # --------------------------------------------------------------------------
@@ -69,6 +77,42 @@ def fetch_query(query: str):
     return items
 
 
+def fetch_rss_feed(name: str, url: str):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        raw = resp.read()
+
+    root = ET.fromstring(raw)
+    items = []
+    for item in root.findall(".//item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        pub_date = (item.findtext("pubDate") or "").strip()
+
+        published_iso = None
+        if pub_date:
+            try:
+                dt = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %Z")
+                published_iso = dt.replace(tzinfo=timezone.utc).isoformat()
+            except ValueError:
+                try:
+                    dt = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %z")
+                    published_iso = dt.astimezone(timezone.utc).isoformat()
+                except ValueError:
+                    published_iso = None
+
+        if title and link:
+            items.append(
+                {
+                    "title": title,
+                    "link": link,
+                    "source": name,
+                    "published": published_iso,
+                }
+            )
+    return items
+
+
 def dedupe(items):
     seen = set()
     out = []
@@ -89,6 +133,12 @@ def main():
         except Exception as exc:  # noqa: BLE001 - keep the workflow resilient
             print(f"Warning: query '{q}' failed: {exc}")
 
+    for feed in RSS_FEEDS:
+        try:
+            all_items.extend(fetch_rss_feed(feed["name"], feed["url"]))
+        except Exception as exc:  # noqa: BLE001 - keep the workflow resilient
+            print(f"Warning: feed '{feed['name']}' failed: {exc}")
+
     all_items = dedupe(all_items)
     all_items.sort(key=lambda x: x["published"] or "", reverse=True)
     all_items = all_items[:MAX_ITEMS]
@@ -96,6 +146,7 @@ def main():
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "queries": QUERIES,
+        "feeds": [f["name"] for f in RSS_FEEDS],
         "items": all_items,
     }
 
