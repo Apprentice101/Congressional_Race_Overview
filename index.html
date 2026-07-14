@@ -42,7 +42,7 @@
     font-family:'Courier New',monospace;
     letter-spacing:.14em;
     text-transform:uppercase;
-    font-size:12px;
+    font-size:14px;
     color:var(--teal);
     display:flex;
     justify-content:space-between;
@@ -56,13 +56,13 @@
     font-weight:bold;
   }
   h1.title{
-    font-size:clamp(32px,5vw,52px);
+    font-size:clamp(36px,5.5vw,58px);
     margin:0;
     font-weight:700;
     letter-spacing:-.01em;
   }
   .subtitle{
-    font-size:15px;
+    font-size:17px;
     color:var(--ink-soft);
     margin-top:8px;
     max-width:640px;
@@ -73,7 +73,7 @@
     font-family:'Courier New',monospace;
     text-transform:uppercase;
     letter-spacing:.12em;
-    font-size:12px;
+    font-size:14px;
     color:var(--brass-dark);
     border-bottom:1px solid var(--rule);
     padding-bottom:8px;
@@ -85,9 +85,14 @@
   /* ---------- Dashboard cards ---------- */
   .cards{
     display:grid;
-    grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+    grid-template-columns:3fr 2fr;
     gap:16px;
     margin-bottom:56px;
+  }
+  @media (max-width:640px){
+    .cards{
+      grid-template-columns:1fr;
+    }
   }
   a.card{
     display:block;
@@ -106,19 +111,19 @@
   }
   a.card .card-eyebrow{
     font-family:'Courier New',monospace;
-    font-size:11px;
+    font-size:13px;
     letter-spacing:.08em;
     text-transform:uppercase;
     color:var(--ink-soft);
     margin-bottom:6px;
   }
   a.card .card-title{
-    font-size:19px;
+    font-size:22px;
     font-weight:700;
     margin-bottom:6px;
   }
   a.card .card-desc{
-    font-size:13.5px;
+    font-size:15.5px;
     color:var(--ink-soft);
     font-family:Georgia,serif;
   }
@@ -131,18 +136,21 @@
   }
   a.card.tint-green .card-eyebrow{
     color:#f0f7ec;
+    font-size:14px;
   }
   a.card.tint-green .card-title{
     color:#ffffff;
+    font-size:28px;
   }
   a.card.tint-green .card-desc{
     color:#eef6e9;
+    font-size:17px;
   }
   a.card.tint-green .card-cta{
     display:block;
     margin-top:10px;
     font-family:'Courier New',monospace;
-    font-size:12px;
+    font-size:14px;
     font-weight:bold;
     letter-spacing:.04em;
     text-transform:uppercase;
@@ -156,7 +164,7 @@
     align-items:center;
     justify-content:center;
     font-family:'Courier New',monospace;
-    font-size:12.5px;
+    font-size:14px;
     text-align:center;
   }
   .card.static-message{
@@ -165,12 +173,13 @@
     border-left:4px solid var(--rule);
     padding:0;
     overflow:hidden;
+    align-self:start;
   }
   .preview-img{
     display:block;
     width:100%;
-    height:100%;
-    min-height:150px;
+    height:auto;
+    aspect-ratio:1934/704;
     object-fit:cover;
     object-position:top;
   }
@@ -181,7 +190,7 @@
     border-bottom:1px dashed var(--rule);
     padding:16px 4px;
     font-family:Georgia,serif;
-    font-size:15px;
+    font-size:17px;
     color:var(--ink-soft);
     text-align:center;
     margin:8px 0 22px;
@@ -198,7 +207,7 @@
   .district-filter{
     flex:1 1 260px;
     font-family:'Courier New',monospace;
-    font-size:13px;
+    font-size:15px;
     color:var(--ink);
     background:var(--paper-dim);
     border:1px solid var(--rule);
@@ -210,7 +219,7 @@
   }
   .map-legend{
     font-family:'Courier New',monospace;
-    font-size:11.5px;
+    font-size:13px;
     color:var(--ink-soft);
     display:flex;
     align-items:center;
@@ -261,7 +270,7 @@
     align-items:center;
     margin-bottom:14px;
     font-family:'Courier New',monospace;
-    font-size:13px;
+    font-size:15px;
     text-transform:uppercase;
     letter-spacing:.08em;
     color:var(--teal);
@@ -269,7 +278,7 @@
   .state-panel-header button{
     background:none;
     border:none;
-    font-size:20px;
+    font-size:22px;
     line-height:1;
     color:var(--ink-soft);
     cursor:pointer;
@@ -302,17 +311,17 @@
   }
   a.district-tile .d-code{
     font-family:'Courier New',monospace;
-    font-size:14px;
+    font-size:16px;
     font-weight:bold;
     margin-bottom:2px;
   }
   a.district-tile .d-state{
-    font-size:12px;
+    font-size:14px;
     color:var(--ink-soft);
   }
   .no-results{
     font-family:Georgia,serif;
-    font-size:14px;
+    font-size:16px;
     color:var(--ink-soft);
     padding:8px 0;
   }
@@ -349,14 +358,14 @@
   }
   .dispatch .stamp-time{
     font-family:'Courier New',monospace;
-    font-size:11.5px;
+    font-size:13px;
     letter-spacing:.04em;
     color:var(--brass-dark);
     text-transform:uppercase;
   }
   .dispatch a.headline{
     display:block;
-    font-size:17px;
+    font-size:19px;
     font-weight:700;
     color:var(--ink);
     text-decoration:none;
@@ -367,7 +376,7 @@
     text-decoration:underline;
   }
   .dispatch .source{
-    font-size:12.5px;
+    font-size:14px;
     color:var(--ink-soft);
     font-family:Georgia,serif;
     font-style:italic;
@@ -389,12 +398,12 @@
   }
   .well-meta{
     font-family:'Courier New',monospace;
-    font-size:11.5px;
+    font-size:13px;
     color:var(--ink-soft);
   }
   .well-empty, .well-error{
     font-family:Georgia,serif;
-    font-size:14px;
+    font-size:16px;
     color:var(--ink-soft);
     padding:14px 0;
   }
@@ -404,7 +413,7 @@
     padding-top:16px;
     border-top:1px solid var(--rule);
     font-family:'Courier New',monospace;
-    font-size:11.5px;
+    font-size:13px;
     color:var(--ink-soft);
     display:flex;
     justify-content:space-between;
