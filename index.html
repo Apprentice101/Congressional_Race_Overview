@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026 Congressional Race Hub</title>
+<style>
+  :root{
+    --paper:#F1EEE3;
+    --paper-dim:#e7e2d2;
+    --ink:#1D2B38;
+    --ink-soft:#4b5a67;
+    --brass:#A9782E;
+    --brass-dark:#8a611f;
+    --teal:#33564F;
+    --stamp:#A23E2D;
+    --rule:#c9c1ac;
+    --dash-yellow:#F1AA32;
+    --dash-yellow-hover:#d6941f;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Iowan Old Style','Georgia',serif;
+    line-height:1.5;
+  }
+  .wrap{
+    max-width:1040px;
+    margin:0 auto;
+    padding:0 24px 80px;
+  }
+
+  /* ---------- Masthead ---------- */
+  header.masthead{
+    border-bottom:3px solid var(--ink);
+    padding:36px 0 18px;
+    margin-bottom:40px;
+  }
+  .eyebrow{
+    font-family:'Courier New',monospace;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    font-size:12px;
+    color:var(--teal);
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    margin-bottom:10px;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .eyebrow .stamp{
+    color:var(--stamp);
+    font-weight:bold;
+  }
+  h1.title{
+    font-size:clamp(32px,5vw,52px);
+    margin:0;
+    font-weight:700;
+    letter-spacing:-.01em;
+  }
+  .subtitle{
+    font-size:15px;
+    color:var(--ink-soft);
+    margin-top:8px;
+    max-width:640px;
+  }
+
+  /* ---------- Section labels ---------- */
+  .section-label{
+    font-family:'Courier New',monospace;
+    text-transform:uppercase;
+    letter-spacing:.12em;
+    font-size:12px;
+    color:var(--brass-dark);
+    border-bottom:1px solid var(--rule);
+    padding-bottom:8px;
+    margin-bottom:20px;
+    display:flex;
+    justify-content:space-between;
+  }
+
+  /* ---------- Dashboard cards ---------- */
+  .cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+    gap:16px;
+    margin-bottom:56px;
+  }
+  a.card{
+    display:block;
+    background:var(--paper-dim);
+    border:1px solid var(--rule);
+    border-left:4px solid var(--teal);
+    padding:18px 20px;
+    text-decoration:none;
+    color:var(--ink);
+    transition:transform .15s ease, border-left-color .15s ease, box-shadow .15s ease;
+  }
+  a.card:hover{
+    transform:translateY(-2px);
+    border-left-color:var(--brass);
+    box-shadow:0 6px 14px rgba(29,43,56,.12);
+  }
+  a.card .card-eyebrow{
+    font-family:'Courier New',monospace;
+    font-size:11px;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin-bottom:6px;
+  }
+  a.card .card-title{
+    font-size:19px;
+    font-weight:700;
+    margin-bottom:6px;
+  }
+  a.card .card-desc{
+    font-size:13.5px;
+    color:var(--ink-soft);
+    font-family:Georgia,serif;
+  }
+  a.card.tint-green{
+    background:#6AA950;
+    border-left-color:#3d6b2c;
+  }
+  a.card.tint-green:hover{
+    border-left-color:#2e5121;
+  }
+  a.card.tint-green .card-eyebrow{
+    color:#f0f7ec;
+  }
+  a.card.tint-green .card-title{
+    color:#ffffff;
+  }
+  a.card.tint-green .card-desc{
+    color:#eef6e9;
+  }
+  a.card.tint-green .card-cta{
+    display:block;
+    margin-top:10px;
+    font-family:'Courier New',monospace;
+    font-size:12px;
+    font-weight:bold;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    color:#ffffff;
+  }
+  a.card.add-link{
+    border-left-style:dashed;
+    border-left-color:var(--rule);
+    color:var(--ink-soft);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:'Courier New',monospace;
+    font-size:12.5px;
+    text-align:center;
+  }
+  .card.static-message{
+    background:var(--paper-dim);
+    border:1px solid var(--rule);
+    border-left:4px solid var(--rule);
+    padding:0;
+    overflow:hidden;
+  }
+  .preview-img{
+    display:block;
+    width:100%;
+    height:100%;
+    min-height:150px;
+    object-fit:cover;
+    object-position:top;
+  }
+  .info-tile{
+    background:transparent;
+    border:none;
+    border-top:1px dashed var(--rule);
+    border-bottom:1px dashed var(--rule);
+    padding:16px 4px;
+    font-family:Georgia,serif;
+    font-size:15px;
+    color:var(--ink-soft);
+    text-align:center;
+    margin:8px 0 22px;
+  }
+
+  /* ---------- District map + panel ---------- */
+  .map-controls{
+    display:flex;
+    align-items:center;
+    gap:16px;
+    flex-wrap:wrap;
+    margin-bottom:20px;
+  }
+  .district-filter{
+    flex:1 1 260px;
+    font-family:'Courier New',monospace;
+    font-size:13px;
+    color:var(--ink);
+    background:var(--paper-dim);
+    border:1px solid var(--rule);
+    padding:10px 12px;
+  }
+  .district-filter:focus{
+    outline:none;
+    border-color:var(--brass);
+  }
+  .map-legend{
+    font-family:'Courier New',monospace;
+    font-size:11.5px;
+    color:var(--ink-soft);
+    display:flex;
+    align-items:center;
+    gap:6px;
+    white-space:nowrap;
+  }
+  .legend-swatch{
+    display:inline-block;
+    width:12px;
+    height:12px;
+    background:var(--dash-yellow);
+    border:1px solid var(--brass-dark);
+  }
+  .us-map{
+    margin-bottom:20px;
+  }
+  .us-map svg{
+    width:100%;
+    height:auto;
+    display:block;
+  }
+  .us-map path.state{
+    fill:var(--paper-dim);
+    stroke:var(--paper);
+    stroke-width:1;
+  }
+  .us-map path.state.has-dash{
+    fill:var(--dash-yellow);
+    cursor:pointer;
+  }
+  .us-map path.state.has-dash:hover{
+    fill:var(--dash-yellow-hover);
+  }
+  .us-map path.state.selected{
+    stroke:var(--stamp);
+    stroke-width:2;
+  }
+  .state-panel{
+    background:var(--paper-dim);
+    border:1px solid var(--rule);
+    border-left:4px solid var(--stamp);
+    padding:18px 20px;
+    margin-bottom:20px;
+  }
+  .state-panel-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:14px;
+    font-family:'Courier New',monospace;
+    font-size:13px;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    color:var(--teal);
+  }
+  .state-panel-header button{
+    background:none;
+    border:none;
+    font-size:20px;
+    line-height:1;
+    color:var(--ink-soft);
+    cursor:pointer;
+    padding:0 2px;
+  }
+  .state-panel-header button:hover{
+    color:var(--stamp);
+  }
+  .district-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(150px,1fr));
+    gap:10px;
+  }
+  a.district-tile{
+    display:block;
+    background:var(--paper);
+    border:1px solid var(--rule);
+    border-left:3px solid var(--brass);
+    padding:10px 12px;
+    text-decoration:none;
+    color:var(--ink);
+  }
+  a.district-tile:hover{
+    border-left-color:var(--stamp);
+    background:#ece6d6;
+  }
+  a.district-tile.flash{
+    border-left-color:var(--stamp);
+    background:#f4e2c9;
+  }
+  a.district-tile .d-code{
+    font-family:'Courier New',monospace;
+    font-size:14px;
+    font-weight:bold;
+    margin-bottom:2px;
+  }
+  a.district-tile .d-state{
+    font-size:12px;
+    color:var(--ink-soft);
+  }
+  .no-results{
+    font-family:Georgia,serif;
+    font-size:14px;
+    color:var(--ink-soft);
+    padding:8px 0;
+  }
+
+  /* ---------- News Well (wire dispatch) ---------- */
+  .wire{
+    position:relative;
+    padding-left:26px;
+  }
+  .wire::before{
+    content:"";
+    position:absolute;
+    left:6px;
+    top:4px;
+    bottom:4px;
+    width:2px;
+    background:var(--rule);
+  }
+  .dispatch{
+    position:relative;
+    padding:0 0 22px 20px;
+  }
+  .dispatch::before{
+    content:"";
+    position:absolute;
+    left:-4px;
+    top:5px;
+    width:9px;
+    height:9px;
+    border-radius:50%;
+    background:var(--teal);
+    border:2px solid var(--paper);
+    box-shadow:0 0 0 1px var(--rule);
+  }
+  .dispatch .stamp-time{
+    font-family:'Courier New',monospace;
+    font-size:11.5px;
+    letter-spacing:.04em;
+    color:var(--brass-dark);
+    text-transform:uppercase;
+  }
+  .dispatch a.headline{
+    display:block;
+    font-size:17px;
+    font-weight:700;
+    color:var(--ink);
+    text-decoration:none;
+    margin:3px 0 3px;
+  }
+  .dispatch a.headline:hover{
+    color:var(--brass-dark);
+    text-decoration:underline;
+  }
+  .dispatch .source{
+    font-size:12.5px;
+    color:var(--ink-soft);
+    font-family:Georgia,serif;
+    font-style:italic;
+  }
+  .live-dot{
+    display:inline-block;
+    width:8px;height:8px;
+    border-radius:50%;
+    background:var(--stamp);
+    margin-right:6px;
+    animation:pulse 1.8s infinite;
+    position:relative;
+    top:-1px;
+  }
+  @keyframes pulse{
+    0%{opacity:1;}
+    50%{opacity:.25;}
+    100%{opacity:1;}
+  }
+  .well-meta{
+    font-family:'Courier New',monospace;
+    font-size:11.5px;
+    color:var(--ink-soft);
+  }
+  .well-empty, .well-error{
+    font-family:Georgia,serif;
+    font-size:14px;
+    color:var(--ink-soft);
+    padding:14px 0;
+  }
+
+  footer{
+    margin-top:60px;
+    padding-top:16px;
+    border-top:1px solid var(--rule);
+    font-family:'Courier New',monospace;
+    font-size:11.5px;
+    color:var(--ink-soft);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .live-dot{animation:none;}
+    a.card{transition:none;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="eyebrow">
+      <span>Field Operations Desk</span>
+      <span class="stamp">2026 Election Cycle</span>
+    </div>
+    <h1 class="title">Congressional Race Hub</h1>
+    <p class="subtitle">A working index of race-tracking dashboards, outreach boards, and district research — with a live wire of headlines below.</p>
+  </header>
+
+  <section>
+    <div class="section-label">
+      <span>Dashboards &amp; Tools</span>
+      <span>01</span>
+    </div>
+    <div class="cards" id="dashboard-cards">
+
+      <a class="card tint-green" href="https://apprentice101.github.io/Race-tracker/" target="_blank" rel="noopener">
+        <div class="card-eyebrow">Race Tracker</div>
+        <div class="card-title">2026 Competitive Race Tracker</div>
+        <div class="card-desc">Live-updated dashboard of competitive Congressional districts.</div>
+        <span class="card-cta">Click here &rarr;</span>
+      </a>
+
+      <!--
+        Add more cards here as you publish more GitHub Pages.
+        Copy the block above and edit the href, eyebrow, title, and desc.
+      -->
+
+      <div class="card static-message">
+        <img src="assets/race-tracker-preview.png" alt="Preview of the 2026 Congressional Race Tracker dashboard" class="preview-img">
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label">
+      <span>Congressional District Dashboards</span>
+      <span>02</span>
+    </div>
+    <p class="info-tile">
+      Explore the voting procedures in key Congressional districts by clicking on a highlighted state and selecting a district.
+    </p>
+
+    <div class="map-controls">
+      <input
+        type="text"
+        id="district-filter"
+        list="quick-jump-options"
+        class="district-filter"
+        placeholder="Jump to a state or district (e.g. PA or PA-07)"
+        autocomplete="off"
+      >
+      <datalist id="quick-jump-options"></datalist>
+      <span class="map-legend"><span class="legend-swatch"></span>States with dashboards</span>
+    </div>
+
+    <div id="us-map" class="us-map">
+      <p class="well-empty">Loading map…</p>
+    </div>
+
+    <div class="state-panel" id="state-panel" hidden>
+      <div class="state-panel-header">
+        <span id="state-panel-title"></span>
+        <button type="button" id="state-panel-close" aria-label="Close">&times;</button>
+      </div>
+      <div class="district-grid" id="state-panel-districts"></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label">
+      <span><span class="live-dot"></span>News Well — Congressional &amp; Election Wire</span>
+      <span id="well-count">03</span>
+    </div>
+    <div class="wire" id="news-well">
+      <div class="well-empty">Loading wire…</div>
+    </div>
+    <div class="well-meta" id="well-updated"></div>
+  </section>
+
+  <footer>
+    <span>Auto-refreshed by a scheduled GitHub Action &mdash; see /scripts/fetch_news.py</span>
+    <span id="build-year"></span>
+  </footer>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson@3"></script>
+<script>
+document.getElementById('build-year').textContent = new Date().getFullYear();
+
+/* ------------------------------------------------------------------
+   District dashboards — one entry per repo. To add a new district,
+   add a row to the matching state's `districts` array (or a new
+   state block). `code` is the short label (e.g. "AZ-01"), `repo` is
+   the exact GitHub repo name.
+------------------------------------------------------------------- */
+const DISTRICTS = [
+  { state: "Alaska", districts: [
+    { code: "AK", repo: "ak-dashboard" },
+  ]},
+  { state: "Arizona", districts: [
+    { code: "AZ-01", repo: "az01-dashboard" },
+    { code: "AZ-06", repo: "az06-dashboard" },
+  ]},
+  { state: "California", districts: [
+    { code: "CA-22", repo: "ca22-dashboard" },
+  ]},
+  { state: "Colorado", districts: [
+    { code: "CO-08", repo: "co08-dashboard" },
+  ]},
+  { state: "Florida", districts: [
+    { code: "FL-22", repo: "fl22-dashboard" },
+    { code: "FL-23", repo: "fl23-dashboard" },
+    { code: "FL-26", repo: "fl26-dashboard" },
+  ]},
+  { state: "Georgia", districts: [
+    { code: "GA-02", repo: "ga02-dashboard" },
+  ]},
+  { state: "Iowa", districts: [
+    { code: "IA-01", repo: "ia01-dashboard" },
+    { code: "IA-02", repo: "ia02-dashboard" },
+    { code: "IA-03", repo: "ia03-dashboard" },
+  ]},
+  { state: "Maine", districts: [
+    { code: "ME-02", repo: "me02-dashboard" },
+  ]},
+  { state: "Michigan", districts: [
+    { code: "MI-07", repo: "mi07-dashboard" },
+    { code: "MI-10", repo: "mi10-dashboard" },
+  ]},
+  { state: "Montana", districts: [
+    { code: "MT-01", repo: "mt01-dashboard" },
+  ]},
+  { state: "Nebraska", districts: [
+    { code: "NE-02", repo: "ne02-dashboard" },
+  ]},
+  { state: "New Jersey", districts: [
+    { code: "NJ-07", repo: "nj07-dashboard" },
+  ]},
+  { state: "New York", districts: [
+    { code: "NY-17", repo: "ny17-dashboard" },
+  ]},
+  { state: "North Carolina", districts: [
+    { code: "NC-01", repo: "nc01-dashboard" },
+    { code: "NC-11", repo: "nc11-dashboard" },
+  ]},
+  { state: "Ohio", districts: [
+    { code: "OH-01", repo: "oh01-dashboard" },
+    { code: "OH-09", repo: "oh09-dashboard" },
+  ]},
+  { state: "Pennsylvania", districts: [
+    { code: "PA-07", repo: "pa07-dashboard" },
+    { code: "PA-08", repo: "pa08-dashboard" },
+    { code: "PA-10", repo: "pa10-dashboard" },
+  ]},
+  { state: "Texas", districts: [
+    { code: "TX-34", repo: "tx34-dashboard" },
+  ]},
+  { state: "Virginia", districts: [
+    { code: "VA-02", repo: "va02-dashboard" },
+  ]},
+  { state: "Washington", districts: [
+    { code: "WA-03", repo: "wa03-dashboard" },
+  ]},
+  { state: "Wisconsin", districts: [
+    { code: "WI-03", repo: "wi03-dashboard" },
+  ]},
+];
+
+const GITHUB_USER = "apprentice101";
+const DASHBOARD_STATES = new Set(DISTRICTS.map(g => g.state));
+const STATE_LOOKUP = Object.fromEntries(DISTRICTS.map(g => [g.state, g]));
+const CODE_LOOKUP = {};
+DISTRICTS.forEach(g => g.districts.forEach(d => { CODE_LOOKUP[d.code.toLowerCase()] = { ...d, state: g.state }; }));
+
+function districtUrl(repo){
+  return `https://${GITHUB_USER}.github.io/${repo}/`;
+}
+
+function openStatePanel(stateName, highlightCode){
+  const group = STATE_LOOKUP[stateName];
+  const panel = document.getElementById('state-panel');
+  if(!group){ panel.hidden = true; return; }
+
+  document.getElementById('state-panel-title').textContent = stateName;
+  document.getElementById('state-panel-districts').innerHTML = group.districts.map(d => `
+    <a class="district-tile${highlightCode === d.code.toLowerCase() ? ' flash' : ''}" href="${districtUrl(d.repo)}" target="_blank" rel="noopener">
+      <div class="d-code">${d.code}</div>
+      <div class="d-state">${stateName}</div>
+    </a>
+  `).join('');
+  panel.hidden = false;
+
+  document.querySelectorAll('.us-map path.state').forEach(p => {
+    p.classList.toggle('selected', p.dataset.name === stateName);
+  });
+
+  panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+document.getElementById('state-panel-close').addEventListener('click', () => {
+  document.getElementById('state-panel').hidden = true;
+  document.querySelectorAll('.us-map path.state.selected').forEach(p => p.classList.remove('selected'));
+});
+
+function populateQuickJump(){
+  const datalist = document.getElementById('quick-jump-options');
+  const options = [];
+  DISTRICTS.forEach(g => {
+    options.push(g.state);
+    g.districts.forEach(d => options.push(d.code));
+  });
+  datalist.innerHTML = options.map(o => `<option value="${o}">`).join('');
+}
+populateQuickJump();
+
+document.getElementById('district-filter').addEventListener('change', (e) => {
+  const q = e.target.value.trim().toLowerCase();
+  if(!q) return;
+  const codeMatch = CODE_LOOKUP[q];
+  if(codeMatch){
+    openStatePanel(codeMatch.state, q);
+    return;
+  }
+  const stateMatch = DISTRICTS.find(g => g.state.toLowerCase() === q);
+  if(stateMatch){
+    openStatePanel(stateMatch.state);
+  }
+});
+
+function renderMap(){
+  const mapContainer = document.getElementById('us-map');
+  if(typeof d3 === 'undefined' || typeof topojson === 'undefined'){
+    mapContainer.innerHTML = '<p class="well-error">Map libraries failed to load. Check your internet connection and reload.</p>';
+    return;
+  }
+
+  d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-albers-10m.json').then(us => {
+    mapContainer.innerHTML = '';
+    const svg = d3.select('#us-map').append('svg').attr('viewBox', '0 0 975 610');
+    const features = topojson.feature(us, us.objects.states).features;
+
+    svg.selectAll('path')
+      .data(features)
+      .join('path')
+      .attr('class', d => 'state' + (DASHBOARD_STATES.has(d.properties.name) ? ' has-dash' : ''))
+      .attr('data-name', d => d.properties.name)
+      .attr('d', d3.geoPath())
+      .on('click', (event, d) => {
+        if(DASHBOARD_STATES.has(d.properties.name)){
+          openStatePanel(d.properties.name);
+        }
+      });
+  }).catch(() => {
+    mapContainer.innerHTML = '<p class="well-error">Couldn\'t load the map. Check your internet connection and reload.</p>';
+  });
+}
+
+renderMap();
+
+async function loadNewsWell(){
+  const well = document.getElementById('news-well');
+  const updated = document.getElementById('well-updated');
+  try{
+    const res = await fetch('news.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('news.json not found');
+    const data = await res.json();
+    const items = data.items || [];
+
+    if(items.length === 0){
+      well.innerHTML = '<div class="well-empty">No dispatches yet. The wire updates on its next scheduled run.</div>';
+      return;
+    }
+
+    well.innerHTML = items.map(item => {
+      const d = item.published ? new Date(item.published) : null;
+      const stamp = d ? d.toLocaleString('en-US', {month:'short', day:'numeric', hour:'numeric', minute:'2-digit'}) : '';
+      return `
+        <div class="dispatch">
+          <div class="stamp-time">${stamp}</div>
+          <a class="headline" href="${item.link}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>
+          <div class="source">${escapeHtml(item.source || '')}</div>
+        </div>
+      `;
+    }).join('');
+
+    if(data.generated_at){
+      const gen = new Date(data.generated_at);
+      updated.textContent = 'Wire last updated ' + gen.toLocaleString('en-US', {month:'short', day:'numeric', year:'numeric', hour:'numeric', minute:'2-digit'});
+    }
+  }catch(err){
+    well.innerHTML = '<div class="well-error">Couldn\'t load the news well (' + err.message + '). Check that news.json exists at the site root.</div>';
+  }
+}
+
+function escapeHtml(str){
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+loadNewsWell();
+</script>
+</body>
+</html>
