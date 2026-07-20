@@ -148,13 +148,14 @@
   }
   a.card.tint-green .card-cta{
     display:block;
-    margin-top:10px;
+    margin-top:18px;
     font-family:'Courier New',monospace;
-    font-size:14px;
+    font-size:22px;
     font-weight:bold;
-    letter-spacing:.04em;
+    letter-spacing:.06em;
     text-transform:uppercase;
     color:#ffffff;
+    text-align:center;
   }
   a.card.add-link{
     border-left-style:dashed;
@@ -173,6 +174,11 @@
     border-left:4px solid var(--rule);
     padding:0;
     overflow:hidden;
+    display:block;
+    transition:border-left-color .15s ease;
+  }
+  .card.static-message:hover{
+    border-left-color:var(--brass);
   }
   .preview-img{
     display:block;
@@ -457,9 +463,9 @@
         Copy the block above and edit the href, eyebrow, title, and desc.
       -->
 
-      <div class="card static-message">
+      <a class="card static-message" href="https://apprentice101.github.io/Race-tracker/" target="_blank" rel="noopener">
         <img src="assets/race-tracker-preview.png" alt="Preview of the 2026 Congressional Race Tracker dashboard" class="preview-img">
-      </div>
+      </a>
 
     </div>
   </section>
