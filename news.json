@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:07:59.677935+00:00",
+  "generated_at": "2026-07-21T13:17:10.590641+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,16 +10,64 @@
   ],
   "items": [
     {
+      "title": "Schweikert Exits House for 2026 Arizona Governor Race",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pdlZRVTJYV3VHT2puejMzXzVTNHZINFdZSDFtVVlFZ1diUUpiYko5MFhJaElWZUZuSXhBTmJHc21GZEdVajlWekdOZk5EMmFDOXhQVEUxTy15NmYzUjgwRDFPclFJX1dBdTJ3NU5OZUR0RnRWclZvMW1mbWk?oc=5",
+      "source": "Legis1",
+      "published": "2026-07-21T12:29:48+00:00"
+    },
+    {
+      "title": "Shomari Figures outraises GOP rivals in Alabama congressional race",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa01aSVJvZC1LNUlucUluOWJIeEx4ZmU1YkRZRGZuazNrOTlVVzJFblRGalpJZG5LSVpET0ZHd253UGFaQjUwYlZ0VXV3amo1LUFQTnRvYjFpdHZwZFVMX2wzYzdBOW1BWFowUV9Uc1RJYXNieG5MWnZQSWJCWHF1SFVWSFh3TDFBNGpWbU94TzdDUXNqZGN3dWxjNEVfQnoxSVNmX2xn0gG6AUFVX3lxTE05c1Y1QkRqbnIyb1RtZy1kaDJJckN4bEdocHVVeXpWaVZfdUloU2tnSVllNjBRTFBLVVQwLVlNMXJpM0o4b3p5OHdXaDAwbjhHNlVCMVdTbGRBd1Boa05qZ2FTNGxHaHJ0ZUd6N1NseHZ6YnRwUGNKb1FaR1h2WURCcUpLQndEMHBSaWlLa182R3ZjcDlocFl5Q21zRlh5VHItdmxIWmNUeTlGQ0pxc0VQZUZYVHk3bjFWQQ?oc=5",
+      "source": "AL.com",
+      "published": "2026-07-21T11:00:00+00:00"
+    },
+    {
+      "title": "Uncertain congressional map hangs over Missouri’s crowded 5th District GOP primary",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMUdYNVk5N0VMbHZsTlAwZERiWTRSd09uQjVENGVnRjR6WnpzX1M0LWRnMjk4UzZTd3dDVVJBTDVyOWhuNFBJdmhfYXpSSUlQVnFXS0ZMU05ra2NuMklGRUV4ckpZb1pZUXAzTWQ2WWE3OVBKRmNfMXltTnBhTW95ZGRNejJXeHNfRmZRWU55QXpRNHN1MkljMElFN2hvYVhJN0Z2WDdDazVxZGNKZ0xnUUQ1eDViMEc2Q3V0Wld0SkNWQkU?oc=5",
+      "source": "Missouri Independent",
+      "published": "2026-07-21T10:59:42+00:00"
+    },
+    {
+      "title": "The primaries to watch today in Arizona",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcTVfd0JnckNfLVRCNE9vY0N5OVNFSDN4bk9NVlhtYUJUUnBSSEJZQ3Vva0ZzZkZHVGFYYkFsOWJkNUY4U2toNWlDV19kcmlLWHc5RDE2TjB4WnlzOGkwRl9LUFpHT0R1MlFFMm1od1REQmk1eW8zaUtySTBTeUVwaVJOb2pUYW55cGtzLXZsSnp0Y1k?oc=5",
+      "source": "Politico",
+      "published": "2026-07-21T10:03:00+00:00"
+    },
+    {
+      "title": "Meet the Democratic candidates in the 2026 Assembly District 9 race",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcE4yLW8wZGlyaVRhRzN3TWllZmhKSERVb1RBYzUxQV95TlZXYnZMT092Tng4SGZvR0xqNTNydzR3UmY1VlJYMTd0Y2dCSWJlWkVUbVJjaG1jeXBTRjF2N0JXY2V3THNiRXVxV1RWeDJENTJBMk5UOWlpSVZ3NTdqSUFNMHYydkdzNWR1czVLS2Q1TVlxcnNBOHhzeXlUVksxQ3FIUUxIdHBEVFFyUWpxckZyU2FFWDZoTjBOSnpKa2g3eWh0TzdPTWRJX0drQlhtaE53NnJ6UQ?oc=5",
+      "source": "Milwaukee Journal Sentinel",
+      "published": "2026-07-21T10:03:00+00:00"
+    },
+    {
+      "title": "Arizona primaries set the stage for contested fall races in a swing state",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaW1BUjJkaDl6S05uQmxEcFd6TDJjN2liSkV6eDd0dk5GNHVtVzloeThvWVliSjlPWkkzZER5REg1dDRoMkJzLWlNN3pLVVkyTzdReVNicWJsNkhlaW9pektvTUpBWHZ2UVVsc0J1OVgtWDR5THQ4VVNGd1lGSzNsM0dGMjBxTlph?oc=5",
+      "source": "NPR",
+      "published": "2026-07-21T09:00:00+00:00"
+    },
+    {
       "title": "ANCA endorses Rep. Mike Lawler for re-election to Congress",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0x3eC1qYWduWmxqcG5RcldnT0NVV0U5M3lMM2NMRlJYYXI0czFZbzViMU5ITTV3S2ZPdmMyXzNVN2ItR1FGUk9MbEZvcWdsWlRSQmlMelIxZFI2d2pRX21YNmdZWGhTc08ybDhtcTg0T1c3YkNfM2dONUI5M0ZaZnZCZXJGVGJPdGdUWlBPdEdXOWN6TC1KWjNFTHE?oc=5",
       "source": "The Armenian Weekly",
-      "published": "2026-07-21T04:02:34+00:00"
+      "published": "2026-07-21T04:02:54+00:00"
+    },
+    {
+      "title": "Bernie Sanders headlines First Avenue rally for Peggy Flanagan in contentious Senate race",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFVrTWdKU3JKNXJFVWZnYWxIMkVJNHR5VDVwaEU0dlNEZktXRk1LZmVZd0RyMHViV3NQZlM5dkVRYkpPZURsVFNHMWR0ck1vVWlQOVdvdWlvbElZd0dQbkhMY25JM0x0NnlwTnZRVVlleWxHdXpXLVNQRGdneDN4TFA3R0NYRXdJNjRTcV9LSjV4MTJYU01zUS1taXlxbEJ6YWtSdExfaWhMZEN5c25LeWVuSi11em5qRzMtb3UwR0lrZGY4ZGdkb09ud01NSG8?oc=5",
+      "source": "Minnesota Reformer",
+      "published": "2026-07-21T02:40:06+00:00"
     },
     {
       "title": "Pro-Trump Super Pac Maga Inc builds $400mn war chest ahead of midterms",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnVKZHBiTUVzVFh5djJVQ2xUQ3B2Qk54am5DdWRlbVhjS3VsQ1VsN1ZYUlM0QkFlaG5Fa21WU1lmckNfN1AzSm5keVRnby0tbEJBVkNGQWVzeEJDMjhoOFp5UVJtWnpRNmdZRkZHaTN2VEkwWDRwVFd3OEVlUzlSRExxV3I?oc=5",
       "source": "Financial Times",
-      "published": "2026-07-21T01:44:18+00:00"
+      "published": "2026-07-21T01:43:31+00:00"
+    },
+    {
+      "title": "Maine Democratic Senate frontrunner faces scrutiny over alleged anger outbursts",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXh0QW5MbTI4SFlJcm42c0MzSW1aSXlwbjY0NWR5RU9DNUpLOUNHbVZKQlR3eVN2dlFaZ3FTMDNGMERvbk5rMXE3LWxOQzZsYUxpUWptSG1vaEVDdTJfRHQ0SkJ3NHd1SmNTR19MMjAtT1ZqcFNIR2hLbmVCUmk2Q0I1U2NERkZpdmRTYVdISFZjdw?oc=5",
+      "source": "CNN",
+      "published": "2026-07-21T00:58:00+00:00"
     },
     {
       "title": "2026 Midterm Primary Election Calendar",
@@ -28,28 +76,10 @@
       "published": "2026-07-21T00:52:28+00:00"
     },
     {
-      "title": "Gov. Shapiro lends political capital to launch coordinated campaign to help elect Pennsylvania Democrats",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLUVpLUNfT2NRejBCekVWblJnSzZGcUJINER4YUlHY3J5Y20xSHZjUmozc2NlUG54bU44ZHlQb1VxcWdmMlBPVktzMnVmeEVaQzFSX2pVLVk0cVRPZWlsZ0xHb1N5NjZJLWUzUkxXeVVqMlQ1emdGMS05WVRHVmNhTUJVcXBwYXlTMHRpTGs1cGtUT1ZpcUlWUUpGaW9QMGRha0ZDdzNzNmZYUEk?oc=5",
-      "source": "WHYY",
-      "published": "2026-07-21T00:07:21+00:00"
-    },
-    {
-      "title": "Live Results: Arizona midterm primary elections",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnFKSTdpOWt3UUp1TFJseS00bVI1emdkc2FXU3Rjb1FVLXBEX3I2ejltSFVrRTF1bEVmTjJIRUVOX1Nua2planQ1MTN0dGVncnhJY2lJT1FlZXZ5SHRLTFM1MzJYbHc0MGdrcUZSTDJlUjNvcEg4SXFTTENmMWhHa1VPcUNndkVpQm9pcNIBkgFBVV95cUxQZUE4RnFTbmJYbzFmVU8taEY4Njk0cGpwRWZDeWZoRG0tM1diR3QwcmxVb3BzTm1VektJalQ5ZGZSamtMZE00NmQ1czMtc05QdVlyNG5Ra2RTcUZQcWFKc3hxSWRWeDlGc3VONVBIcTZzQ2dkVUxoS254S0RHdDYtakE5Sm9JcTRaYUVoT29BTlNTdw?oc=5",
-      "source": "PBS",
-      "published": "2026-07-20T23:44:00+00:00"
-    },
-    {
       "title": "'Ground Zero': National Republicans expand its campaign for more US House seats in Florida",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzBxbFlxUHNmX1VONnkycjZHczk2OUs0OW9HT0VqakItQWhYT1U5Mnd2S1M0RXVtWEUwQ3BaV2l1RWVnbmtzOVhCb2tvSEd2RjJWRmZDdkNrNGJoYTdyVnN4Q1FQQnhYb1F4b0I4RHYtQjVmazc3d05ra21JQWdwZmxjbGY1R25jaWV5NkhkNlhueHNLQnI2eEMxRVJ4YTVOSlg4THc0TmRYUFNNdVpRVzh4V2Q3VXJfenk0a3AyTWNTQ1VmanUwV0laNWdzck5o?oc=5",
       "source": "WUSF",
       "published": "2026-07-20T22:12:00+00:00"
-    },
-    {
-      "title": "Colorado Senate Primary Election 2026 Live Results: Hickenlooper, Gonzales and More",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHF2T21YSW9wOG9aVGxtS0ZLd29OVVBieGIwU0U3M0lEOTMzUFVFejF4eDV0cUxDUWMyX2VjWXNvMW1icTFrdC1sOEIxdi1Id2tFbXFpQjNnVW0zeWV6SWdFY1IzMG1oTmxVdWE1ZmM0WlNrTndQb3pwbzJPMXpGcnYyZ2lLUQ?oc=5",
-      "source": "NBC News",
-      "published": "2026-07-20T21:38:51+00:00"
     },
     {
       "title": "Sen. Darline Graham says she’s running for a full 6-year term after Trump urged her to jump into the race",
@@ -70,12 +100,6 @@
       "published": "2026-07-20T20:51:00+00:00"
     },
     {
-      "title": "Trump succession plan wrecked as Republicans jump into race to replace Lindsey Graham in Senate",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFdxRklYRmwyR1VCLUV1YUw2X3dLenZrUzVjX3l3aGxsOW5EZElmcXpmNmo5SVpXUDRKY3lpeGtwTlFmR2U5TmNLWDNRWkcyalBGQkFWR2NnZG52Y0R5WmxvVmxVSlc3MXVicENYTHFESzIwenhWVkNMNE1jSXhzYnNLaVNLaVA5VnJoVHNhNVRTX1dJdW5nWDJUU20tVTFJcV9xYnFCTXdNUUNYTGRQa0ozbTlWVVdQOERIcDJ4QnNteGxiT0t1eFhHbDc4d3BNODh1SEhNUdIB6wFBVV95cUxQamVHVWRhUlRLaVJyZ1VxNE1CaS1GVTNfSWhhamMtcGl5Tm56bVVQZzd6TGxxNldTajdaaWpPUVVxeUFYbDNDWl9RM19RUUdYa3pTOUtZLW5MeEVEZWFSR3liUWt1b0lVeUNSNmtVZ1J4VXExZlFzTUFvbkQyUGtTdHI0U1hqTjhCVjVad0xWOGhQMkhzVGF2Q1FmNkZ0MFl3bU10dTFvbkFvOGlvV0hWRFNJalhGOVRXeUF5MHpkSk10b3RnWG53NHBaNEI0aTJFaGFhNVRtTF9GVWNfX0xCNkJTVEZucFRydWVN?oc=5",
-      "source": "SILive.com",
-      "published": "2026-07-20T20:19:00+00:00"
-    },
-    {
       "title": "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaThRVzVUOEs3MWJoQjBUTDJOVlVxbzZzUGtSUmszY0lEb3hSRU53enk4dWpzNnlYT1JtQnZoejRNY05EaHN1b2dwTHh6N1RQMVBicTdOUklQb2RzY2VXaC1qWTRlRkdDRWlxYk9BdE1OQWFuTHNEVi1pR0thNjFkLXp1dVBPQ0ZZUWgtZEJQdVhrcjliT2JKSkVHT3ZHRUN2eVAtNlZzOHBpb2VkTGdHcURkY0txMGlVdG1mZ0Zuc2otU0ZuMTMyQWYtUk5UaG5faFFqb3B3Z01meDczLUHSAeYBQVVfeXFMUEZlS3F4TFZ6YnA0UGNOWmp0ZExJZE00OUhBdXhCMk5QZDNuTUZaRTMxNUV4N0pkemx4UjlPb2szdndKVU9QaEJ1TFdvMHdTUFVRdlVRMTRpcFFhdms5UzZSMy1TVGlvdlpWdTBHTnpOU0pjZ3d5Vzhzd1I5QWlOSlRLZ0NJUEM4U1lFSU45QUpJMXlJemw0SDBWS0J1LWtVWVdjd1VoM2N3alBqRUxSbXBFTk4xZ19nWndTY3VwcmRaN244OVFwTlhkRUdIaVRBNU4zN2tYRllRTE5xYjdYaVNacS1QaEE?oc=5",
       "source": "Houston Public Media",
@@ -88,46 +112,22 @@
       "published": "2026-07-20T20:00:00+00:00"
     },
     {
-      "title": "Who Is Ahead in Florida's 24th Congressional District?",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLUdFcXVZRVY5aHNIVUNzMktDQTg3STZ3LXl3XzhBS2YzX09yenJLRzlLend4REpMbUNwdmZHSHp6NFJ5OWJCNG53eHk3bzlCMW5jX3ZZZUQ3WTc1WXM4T1ZRQWRVYmRzVkU5OHZOWGRTUHk3SXR6dWxZeUtwM0lkbU1MTQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-20T19:35:50+00:00"
-    },
-    {
       "title": "New York 12th Congressional District 2026: Latest Polls",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTRjVkttMVhkMjk3b0NJMU9fdHQ0anZGM21GVzAya2JHbVdob3AzTkZDTzBKbWRSdTJNV25DbmtfcDdXQzRBbkxkSHV4UlRkRFQ4RU14dGZDbmx6U0p3UEh2NzI0UXNyeFFJXzk4Y1EwT1hCbENYemRwS1Y0bjJ3TzZ3OG0?oc=5",
       "source": "The New York Times",
       "published": "2026-07-20T19:31:33+00:00"
     },
     {
-      "title": "Nebraska 2nd Congressional District 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWtCTl92RHlGbC03Z2RKNmUweTFnZnFUVUhRVlNfUF9zMHRrSTJmYlJVSEtsNGYyMldJSUNhNXFLVEZ2Q0FLZWtMVXRRam9TaXJpNk5tdHpFYnkxNk1CODlmNUg5ZzZ5QVk3WC13LURBb1BpTzlJY05VUFNLYzdlN0NDQQ?oc=5",
+      "title": "Maine 2nd Congressional District 2026: Latest Polls",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfOFBRQzJ3REZKZmQyVFlCNmFsOU92WHdNSUFpcGpxMkpyLWVuckxvcW1YbWhmcDdSOTNsdUUyX2lQbkFpMmZGZ0dYMndZSFY3ZmJqOGZvSDZJR2pZaktLQnoxbkJfUnh5ZFl5T3NEdXRQbDFrQWw0NWpEMUhwNmc?oc=5",
       "source": "The New York Times",
-      "published": "2026-07-20T19:29:34+00:00"
+      "published": "2026-07-20T19:31:09+00:00"
     },
     {
-      "title": "Nebraska U.S. Senate Election 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQai04b2VObzBCUm05bjZ0NHNWY1YxbXlPR0t6cktsdkRaeUpRaHVBbzVsc2xILU1fRTNQY0xvT01SalZNQU9LTDQ0bVBLbnF6aGg0VUxXa0hPSG1NdGd5UWZOWUVhUjhqRXdQU2tEWnhIcWNQYm4tNWR1eHotczVvQmFUejZJbTFpR3NCdUhR?oc=5",
+      "title": "New Mexico U.S. Senate Election 2026: Latest Polls",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjZ4N2RGYUZ3Tm1hU3dUdzVNQm00S29wT2lNMWlIVGNTbGVpQXZNckhwMGllLXBjMXNSel9hSUpEb24tRjhVYmJqTzhlSExNS2NXVS1XX2MtQWFsb1BoYTk0UktvaklzYjl5c0tLd2g4a1A2LTNBeFAtZUJSTy1kX2wxYy1wUTBldS1xVHB3X3E?oc=5",
       "source": "The New York Times",
-      "published": "2026-07-20T19:29:14+00:00"
-    },
-    {
-      "title": "In Arizona’s Primaries, Democrats Fight Over a House Seat They Need Badly",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEpDZC1jOURhS2pmLUl6WkQ5dTFaTF9iN1JzOVJXNEk4UkM4RkVRMTEzd3ROMXZZaTFBT0NqRjFzZ0dPcUxoT3JudkhFam9sSlNYamFic1hvbnpfb1h3TnUtc1ZvRnNtUWs1SF9aOEtCVkZWZC1rdWJDV3BEQjlOWjVyZlRJdkVTOEhpUWhkdXlBUk1Ta1N1RmpCMlQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-20T19:28:00+00:00"
-    },
-    {
-      "title": "Michigan U.S. Senate Election 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXg4R2RiNm5LQjloa25FZEFhY2tCX2k3U0ExVEJnNzVWeW1Ba21fbkRxYlFFX3M2TDdLeGlQUnViWGNfbFZWdlBiVHhNNUFqZE5ISjhsdlB5dGRPZ3ZaRVlpd24ybWMyX0dXUFFIWUFhbnM0c05DX1JLVmVYT0NFT1pFcHBGYU9hLXAyOXRR?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-20T19:26:03+00:00"
-    },
-    {
-      "title": "‘Iowa is acting different’: Political expert discusses Democrats’ chances in Iowa",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ3NhWFctVnZtS2xFOTZtWjMzeTVwY3pkVnhxNFdLRmREVi1OeXBQOVN3ZmRLbEgxemVWRUIxcVZ3S1NoNGZjQ29KMGxlQ21Uek52Y240NlhrSzd5WnZISFdETkYzODFpMXFxdXBaSGNYX1IwX3E3cm5QR00yWjNYcU44QldScDk5N3VQU3ZsVGo1bU42eVlfcXVmXzJXRVNwYXFjNVZ1SGtabXc2SUZablppT241SjQ5Q05RU1F3?oc=5",
-      "source": "Iowa Capital Dispatch",
-      "published": "2026-07-20T19:25:22+00:00"
+      "published": "2026-07-20T19:30:45+00:00"
     }
   ]
 }
