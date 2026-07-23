@@ -81,6 +81,129 @@
   .feedback-line a:hover{
     color:var(--brass-dark);
   }
+  .feedback-btn{
+    font: inherit;
+    font-weight: 700;
+    color:var(--ink-soft);
+    background:none;
+    border:none;
+    padding:0;
+    text-decoration:underline;
+    text-underline-offset:2px;
+    cursor:pointer;
+  }
+  .feedback-btn:hover{
+    color:var(--brass-dark);
+  }
+
+  /* ---------- Feedback modal ---------- */
+  .modal-overlay{
+    position:fixed;
+    inset:0;
+    background:rgba(29,43,56,.45);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:20px;
+    z-index:100;
+  }
+  .modal{
+    background:var(--paper);
+    border:1px solid var(--rule);
+    border-top:4px solid var(--stamp);
+    max-width:440px;
+    width:100%;
+    box-shadow:0 12px 32px rgba(29,43,56,.25);
+  }
+  .modal-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:16px 20px;
+    border-bottom:1px solid var(--rule);
+    font-family:'Courier New',monospace;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    font-size:15px;
+    color:var(--teal);
+  }
+  .modal-header button{
+    background:none;
+    border:none;
+    font-size:22px;
+    line-height:1;
+    color:var(--ink-soft);
+    cursor:pointer;
+    padding:0 2px;
+  }
+  .modal-header button:hover{
+    color:var(--stamp);
+  }
+  .modal-body{
+    padding:20px;
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+  }
+  .modal-field{
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+    font-size:14px;
+    color:var(--ink-soft);
+  }
+  .modal-field input,
+  .modal-field textarea{
+    font-family:'Iowan Old Style','Georgia',serif;
+    font-size:15px;
+    color:var(--ink);
+    background:var(--paper-dim);
+    border:1px solid var(--rule);
+    padding:9px 11px;
+    resize:vertical;
+  }
+  .modal-field input:focus,
+  .modal-field textarea:focus{
+    outline:none;
+    border-color:var(--brass);
+  }
+  .modal-actions{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:12px;
+    margin-top:4px;
+  }
+  .modal-note{
+    font-size:12px;
+    color:var(--ink-soft);
+  }
+  .modal-note-success{
+    color:var(--teal);
+    font-weight:700;
+  }
+  .modal-note-error{
+    color:var(--stamp);
+    font-weight:700;
+  }
+  .modal-submit{
+    font-family:'Courier New',monospace;
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    font-size:13px;
+    background:var(--teal);
+    color:var(--paper);
+    border:none;
+    padding:10px 18px;
+    cursor:pointer;
+  }
+  .modal-submit:hover{
+    background:var(--brass-dark);
+  }
+  .modal-submit:disabled{
+    background:var(--rule);
+    cursor:default;
+  }
 
   /* ---------- Section labels ---------- */
   .section-label{
@@ -456,8 +579,35 @@
     </div>
     <h1 class="title">Congressional Race Hub</h1>
     <p class="subtitle">A working index of race-tracking dashboards, outreach boards, and district research — with a live wire of headlines below.</p>
-    <p class="feedback-line">Feedback? Suggestions? Questions? Drop us a note: <a id="feedback-email" href="#">(loading&hellip;)</a></p>
+    <p class="feedback-line">Feedback? Suggestions? Questions? <button type="button" id="feedback-open" class="feedback-btn">Drop us a note &rarr;</button></p>
   </header>
+
+  <div class="modal-overlay" id="feedback-overlay" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="feedback-modal-title">
+      <div class="modal-header">
+        <span id="feedback-modal-title">Send Feedback</span>
+        <button type="button" id="feedback-close" aria-label="Close">&times;</button>
+      </div>
+      <form id="feedback-form" class="modal-body">
+        <label class="modal-field">
+          <span>Your email</span>
+          <input type="email" id="feedback-from" placeholder="you@example.com" required>
+        </label>
+        <label class="modal-field">
+          <span>Subject</span>
+          <input type="text" id="feedback-subject" value="Hub Feedback: ">
+        </label>
+        <label class="modal-field">
+          <span>Comment</span>
+          <textarea id="feedback-comment" rows="5" placeholder="What's on your mind?" required></textarea>
+        </label>
+        <div class="modal-actions">
+          <span class="modal-note" id="feedback-status"></span>
+          <button type="submit" class="modal-submit" id="feedback-submit">Send</button>
+        </div>
+      </form>
+    </div>
+  </div>
 
   <section>
     <div class="section-label">
@@ -543,15 +693,74 @@
 <script>
 document.getElementById('build-year').textContent = new Date().getFullYear();
 
-/* Feedback email is assembled here rather than written in the HTML,
-   so simple bots that only read the page source can't harvest it. */
+const FEEDBACK_ENDPOINT = "https://formspree.io/f/mnjegdvq";
+
 (function(){
-  var user = "feedback";
-  var domain = ["letsvotelab", "org"].join(".");
-  var address = user + "@" + domain;
-  var link = document.getElementById('feedback-email');
-  link.textContent = address;
-  link.href = "mailto:" + address;
+  const overlay = document.getElementById('feedback-overlay');
+  const openBtn = document.getElementById('feedback-open');
+  const closeBtn = document.getElementById('feedback-close');
+  const form = document.getElementById('feedback-form');
+  const submitBtn = document.getElementById('feedback-submit');
+  const status = document.getElementById('feedback-status');
+
+  function openModal(){
+    overlay.hidden = false;
+    document.getElementById('feedback-from').focus();
+  }
+  function closeModal(){
+    overlay.hidden = true;
+  }
+  function resetForm(){
+    form.reset();
+    document.getElementById('feedback-subject').value = 'Hub Feedback: ';
+    status.textContent = '';
+    status.className = 'modal-note';
+    submitBtn.disabled = false;
+    submitBtn.textContent = 'Send';
+  }
+
+  openBtn.addEventListener('click', openModal);
+  closeBtn.addEventListener('click', closeModal);
+  overlay.addEventListener('click', (e) => { if(e.target === overlay) closeModal(); });
+  document.addEventListener('keydown', (e) => { if(e.key === 'Escape' && !overlay.hidden) closeModal(); });
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const from = document.getElementById('feedback-from').value.trim();
+    const subject = document.getElementById('feedback-subject').value.trim() || 'Hub Feedback';
+    const comment = document.getElementById('feedback-comment').value.trim();
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending…';
+    status.textContent = '';
+    status.className = 'modal-note';
+
+    try{
+      const res = await fetch(FEEDBACK_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Accept': 'application/json' },
+        body: new URLSearchParams({
+          email: from,
+          subject: subject,
+          message: comment,
+          _replyto: from
+        })
+      });
+
+      if(res.ok){
+        status.textContent = 'Sent — thanks for the note!';
+        status.className = 'modal-note modal-note-success';
+        setTimeout(() => { closeModal(); resetForm(); }, 1200);
+      } else {
+        throw new Error('Formspree returned an error');
+      }
+    } catch(err){
+      status.textContent = "Couldn't send that — try again, or email feedback@letsvotelab.org directly.";
+      status.className = 'modal-note modal-note-error';
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Send';
+    }
+  });
 })();
 
 /* ------------------------------------------------------------------
@@ -640,6 +849,14 @@ const STATE_LOOKUP = Object.fromEntries(DISTRICTS.map(g => [g.state, g]));
 const CODE_LOOKUP = {};
 DISTRICTS.forEach(g => g.districts.forEach(d => { CODE_LOOKUP[d.code.toLowerCase()] = { ...d, state: g.state }; }));
 
+/* USPS abbreviations, derived from each district code's state prefix,
+   so "PA" resolves the same as "Pennsylvania". */
+const STATE_ABBR_LOOKUP = {};
+DISTRICTS.forEach(g => {
+  const abbr = g.districts[0].code.split('-')[0].toLowerCase();
+  STATE_ABBR_LOOKUP[abbr] = g.state;
+});
+
 function districtUrl(repo){
   return `https://${GITHUB_USER}.github.io/${repo}/`;
 }
@@ -674,25 +891,42 @@ function populateQuickJump(){
   const datalist = document.getElementById('quick-jump-options');
   const options = [];
   DISTRICTS.forEach(g => {
+    const abbr = g.districts[0].code.split('-')[0];
     options.push(g.state);
+    if(abbr !== g.state) options.push(abbr);
     g.districts.forEach(d => options.push(d.code));
   });
   datalist.innerHTML = options.map(o => `<option value="${o}">`).join('');
 }
 populateQuickJump();
 
+function resolveJump(raw){
+  const q = raw.trim().toLowerCase();
+  if(!q) return null;
+
+  // Exact district code, e.g. "pa-07"
+  if(CODE_LOOKUP[q]) return { state: CODE_LOOKUP[q].state, code: q };
+
+  // Exact state name, e.g. "pennsylvania"
+  const byName = DISTRICTS.find(g => g.state.toLowerCase() === q);
+  if(byName) return { state: byName.state };
+
+  // Exact USPS abbreviation, e.g. "pa"
+  if(STATE_ABBR_LOOKUP[q]) return { state: STATE_ABBR_LOOKUP[q] };
+
+  // Fallback: unambiguous partial match against state name or abbreviation
+  const partial = DISTRICTS.filter(g => {
+    const abbr = g.districts[0].code.split('-')[0].toLowerCase();
+    return g.state.toLowerCase().startsWith(q) || abbr.startsWith(q);
+  });
+  if(partial.length === 1) return { state: partial[0].state };
+
+  return null;
+}
+
 document.getElementById('district-filter').addEventListener('change', (e) => {
-  const q = e.target.value.trim().toLowerCase();
-  if(!q) return;
-  const codeMatch = CODE_LOOKUP[q];
-  if(codeMatch){
-    openStatePanel(codeMatch.state, q);
-    return;
-  }
-  const stateMatch = DISTRICTS.find(g => g.state.toLowerCase() === q);
-  if(stateMatch){
-    openStatePanel(stateMatch.state);
-  }
+  const result = resolveJump(e.target.value);
+  if(result) openStatePanel(result.state, result.code);
 });
 
 function renderMap(){
@@ -707,7 +941,7 @@ function renderMap(){
     const svg = d3.select('#us-map').append('svg').attr('viewBox', '0 0 975 610');
     const features = topojson.feature(us, us.objects.states).features;
 
-    svg.selectAll('path')
+    const paths = svg.selectAll('path')
       .data(features)
       .join('path')
       .attr('class', d => 'state' + (DASHBOARD_STATES.has(d.properties.name) ? ' has-dash' : ''))
@@ -718,6 +952,13 @@ function renderMap(){
           openStatePanel(d.properties.name);
         }
       });
+
+    paths.append('title').text(d => {
+      const group = STATE_LOOKUP[d.properties.name];
+      if(!group) return d.properties.name;
+      const n = group.districts.length;
+      return `${d.properties.name} — ${n} district dashboard${n === 1 ? '' : 's'}`;
+    });
   }).catch(() => {
     mapContainer.innerHTML = '<p class="well-error">Couldn\'t load the map. Check your internet connection and reload.</p>';
   });
