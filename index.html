@@ -67,6 +67,20 @@
     margin-top:8px;
     max-width:640px;
   }
+  .feedback-line{
+    font-size:17px;
+    font-weight:700;
+    color:var(--ink-soft);
+    margin-top:1.2em;
+    max-width:640px;
+  }
+  .feedback-line a{
+    color:var(--ink-soft);
+    text-decoration:underline;
+  }
+  .feedback-line a:hover{
+    color:var(--brass-dark);
+  }
 
   /* ---------- Section labels ---------- */
   .section-label{
@@ -442,6 +456,7 @@
     </div>
     <h1 class="title">Congressional Race Hub</h1>
     <p class="subtitle">A working index of race-tracking dashboards, outreach boards, and district research — with a live wire of headlines below.</p>
+    <p class="feedback-line">Feedback? Suggestions? Questions? Drop us a note: <a id="feedback-email" href="#">(loading&hellip;)</a></p>
   </header>
 
   <section>
@@ -527,6 +542,17 @@
 <script src="https://cdn.jsdelivr.net/npm/topojson@3"></script>
 <script>
 document.getElementById('build-year').textContent = new Date().getFullYear();
+
+/* Feedback email is assembled here rather than written in the HTML,
+   so simple bots that only read the page source can't harvest it. */
+(function(){
+  var user = "feedback";
+  var domain = ["letsvotelab", "org"].join(".");
+  var address = user + "@" + domain;
+  var link = document.getElementById('feedback-email');
+  link.textContent = address;
+  link.href = "mailto:" + address;
+})();
 
 /* ------------------------------------------------------------------
    District dashboards — one entry per repo. To add a new district,
