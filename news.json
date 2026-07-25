@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T01:48:43.806825+00:00",
+  "generated_at": "2026-07-25T07:50:36.182470+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,16 +10,52 @@
   ],
   "items": [
     {
+      "title": "'Main event': Michigan Senate primary is a Democratic grudge match",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWlYtaVNnTFJaYU9MMUd4blI4c3pUSU84R1JkWFZvVXdnSUoyNXlsSU93dlNidGo3RGJjcDV1R0hmaXJPTEg3WG96Y0NNQUM4Wjg3TC1EaTBNUC1GN1J6RWFlUktFNlZVNXB6M1NPekpHcHp6TzhxbXJxZEJ3Y2pOUVVCWG5sQkt3Um9uNUJlSWhnc2tlaExZb3M5bGZ6ZzE0X2RPTW01SHI0V2tvZlRONkVQdHBUXzBwajU1Y2lTMm5UcjZiT1ZYUE9n?oc=5",
+      "source": "USA Today",
+      "published": "2026-07-25T07:07:30+00:00"
+    },
+    {
+      "title": "House Dem Leader Hakeem Jeffries Marks 100 Days Until Midterm Elections",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkRRU0xMVWlFZ0hFVUNZQW9nUERXN0lXN1ZpM1BRdmR4NWZaSXRvOXRaUUpiOEhOM19SU3RteWRQcnlDZm1PNmlVZXpkYnU3LWhwYU1sRlE3REd1bjZ4aEpUb2dMZUF3OGlsMWNXWkcyU1BicUdONXJXVlRlazhzRkl5QThGT1dXTWJNTDhWd08tMl94Y2JBUGgwTGZ2c0pPMjFjTnZoVm5HS2k5RGlHV3g0Z2J1RlJ5enJKbEl3?oc=5",
+      "source": "C-SPAN",
+      "published": "2026-07-25T07:02:10+00:00"
+    },
+    {
+      "title": "Maine Democrats are meeting to pick a new Senate nominee to face Republican Sen. Susan Collins",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUFmTUNfMVU2SVFBVVNhdHRrdllHQkdiR1l5RVZlM1dOeHYtTTltWjdaTUpYeElvX3dZSEhUUWhMMk5NTDZKNEdZc3F6U1FMRkF6OXhvcnJvQUNKcm45S0F6NFMzSC1wOG55NWphTEx0Sy0tU2NiMXdVNDNwNzFIQ3VRZ21CVUNVU0VweHFtcTBDTFI4V0HSAaoBQVVfeXFMUFY1d3U5SlpsMG1RYkRvR2s0YjV3dHhGMHlaaWZGSnlncEhtczhpWXdIS2x4QmZmTVE1WElLYmhpWWpfbHJtcE1RdzlJLXktc3VIS1g3Yk1aMGhhTEtwRW00ZzBCYnplWm0wOVNIUFdTSGRjbWRvemdaSEQxQW9WbVV3LWtuUDZsYnJhRF85b0J0MlM3TGx4LVpBR3NSWWpoTzlWTGFjaEJiaEE?oc=5",
+      "source": "Action News Jax",
+      "published": "2026-07-25T04:00:34+00:00"
+    },
+    {
+      "title": "Whitmer endorses Stevens in Senate race",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oMldoM3pOV05URTBuc0tPTWVPNjZGcTlwbHd3TzNqZ043YlJYV3ZNRUVTQ2U0cV9GQnVOZXE3MldqbHNNeEJtZE5PdUFjTGVmRzRsNE5ORDhVeU05TDdGdTJtZGhkT21hQkR6MVZhenBicXVubnJFeFR2YzM?oc=5",
+      "source": "News/Talk/Sports 94.9 WSJM",
+      "published": "2026-07-25T01:37:38+00:00"
+    },
+    {
+      "title": "2026 Midterm Primary Election Calendar",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGNpVG94WTFTeEtVaGJwSEZEMEQ2UEpSS1pJd2p4R3FkRVBwVU9vOUFnSmxRMkNQRHd6eUxJeXFPZjZYdVlCc2tjS1ZsWTNRN2thOEZQWmxYN2VtUDFHZTNQaXlRTzFOZC1VV0JIVThnbk5PQlhZN0RNZG9URVpwY2E5cUJsQzRF?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-25T00:52:58+00:00"
+    },
+    {
+      "title": "Chicago Tonight | Week in Review: Cyclosporiasis Outbreak; 4th District Congressional Race | Season 2026",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVHdqZ09HQnFwTzhsUEh1NDY0clY3bVRvbmVqUU5tQXEzd0VBUzk1Vm5TTUJzNm4tOEFLaHVtRWRHNy0wbzVhT1VpcnM1c1ExQ2FBUG9Vd2NMSHBXLVc2cU9BaFIxdWNKLWlIbGVjQmkyNHN4eWxDcEZISHBYZjZ1Q3A1NzIzNGx5MUhjQkpCMEFBd1d1U0pJWk9FTHBmX2hHenluWnI2WQ?oc=5",
+      "source": "PBS",
+      "published": "2026-07-24T23:52:50+00:00"
+    },
+    {
       "title": "Whitmer backs Haley Stevens in hotly contested Michigan Senate race",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVM2MW9SR2V2c3FFSjJhSkRYMHl5dTRtVlRVNmozMUZFT0hta1h6Y1kwdkZaSmQyRVk1SmkxRkpjSGJQWHZUTmkwQUtUZVJUWHlXYkN5N1dxYTAwZWhyck02bXZVN0dYcnc3cTN2eDZENVpLSDF4N08wWEV2UndnYWVpSEZ4QjlKSHhkWmtYUE40OWFzdUREVURCcW1tdWRGYVE5SGRhaS1hZktFZHBtSy1GdmRGbE1SYTBCTE9R?oc=5",
       "source": "Washington Examiner",
       "published": "2026-07-24T22:32:00+00:00"
     },
     {
-      "title": "Unaffiliated candidate Shimon Blau will face Melat Kiros in congressional race",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSThOQi1Wd3VHbTJCNE9Cc2t6Nng4TGIwUG5MQ3Q1aWg1d3pwQUc1ZThSZkJ1dDhkd1hRT19VZ3U2QjlVMXJUcWxsenBSdzlaR0ZDb1BoVGRwb3AxLXhybEl1bENxRGtwMHZXRFlCbjR3OUdSTmtwOEN5VG5EOVcxOWg1S1phVE1jT1BQSVM2RGpoLTJkNXAxY0ZROGlLRXIxVTFEZGpBcjJmbzBEVmw0SGxTd1h1RzIzS25WVFNZc0E?oc=5",
-      "source": "Colorado Politics",
-      "published": "2026-07-24T22:21:18+00:00"
+      "title": "Missouri congressional map veto petition deadline falls on Election Day, setting up likely court battle",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX01FZTJHeE9VS3lhempEM0t6YkkwY19ydUx0MlVSLUtYVXRZWF9DamFNTGtiUVN4MnlydGVyLWM3ZzRDc0RDYXl4TG0xbENoQ1VpcHJ0RUgwNlBFSGtBaU1RaWZ1VDlKSGRUanVVS3J4TEEyQkJDWFpYYjRJRWF4RlhyVlJsWm9vYjlCNXp3cVR2NW9FRTMtOU81UGdrVG43ZVNLN0dOQUNsaExmZjhSbWJ2ZGZkdTZzT01Hc0pHZG5GUVJseThBZUtZRDVpUdIB4gFBVV95cUxOZk9PMlpzMHVRZzlZRFE2akFrd19JN0VvU24wYVVCQjA2OFg4Q0ZTYnhvMWM2Q2lXSFZtTDd2azB6WGNnRVJ4TVZUalN4UENVdkt6d3FZVU02RjlfNzZNUzV5OTJxeFdBSERRTFZJMDhZeWdvenpEVXVNRkVjZjVselpuRjNGVFRmRTJOaG5vZXZIU25QcHg0WHVpNG1pV2tKZERxcHZ3Y0g5TVNQaXZxLW9kTUwzVjRHSkVGWXFGcGhzOExfaHFIT3ZWRXRMQUVDODVXYk45bUR6Y1lzUXA2Mk9R?oc=5",
+      "source": "KCTV",
+      "published": "2026-07-24T22:03:00+00:00"
     },
     {
       "title": "Michigan Gov. Gretchen Whitmer backs Haley Stevens in contested Democratic Senate primary",
@@ -32,6 +68,12 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MQjFFSFpxRGJ3VUlIUEx3OWpnc0p0LWlvOUhYUEhNZms5VVFocHR1T2JOQVREbTN1R0FUQXFNVG83NElTcUxXQlQ2OFI2QklVc1BRZUFqclVoeHZBWlVPaTZwbmh6X1d4NUpzSlhlU2kydlBvRi1uOXNR?oc=5",
       "source": "Decision Desk HQ | Substack",
       "published": "2026-07-24T21:18:52+00:00"
+    },
+    {
+      "title": "What to watch in Washington state's 2026 primary election",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3h4MUxzMm8yVnVVTFVYZWl4eVM4eUpXWTFvR0I4SGFQUHhZV2llMVhlY1RSSzJKODBTMWJwVjAzX0FQUWh1QW1FcUtjd1JOS3BJWXdnRkFfVTVrYzFjZmJuNE9SVS1JY1B5amVJcFNkbTM2VGdlcVZXMXJTcm5qQ3ZOV2dsTFU3TEEzd1AzbXlER3RQaV8waEFqc3lEMjA?oc=5",
+      "source": "KUOW",
+      "published": "2026-07-24T20:38:00+00:00"
     },
     {
       "title": "Gretchen Whitmer Endorses Haley Stevens in Michigan Senate Race",
@@ -56,12 +98,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVl1OHZfVlBGOXdfUkxHMDMydG5RN3diRVJ6Y1h3Z3JkenhCSnBHdmNpX2dyUHhJajlTR1hQYmxSaUp5dnZaNmZuOGNpMk5sVThPN0NuRUY1SV9vUGs1Ym4yZm9IYVRqY3J1WXcwTEtScXU4MEFQbmdHeHVvMFVxQVZCQnF6S3UxQmhCZXRDWWgwYXpFVzMycGV5WE9KNlpoa2Vn?oc=5",
       "source": "Politico",
       "published": "2026-07-24T19:26:00+00:00"
-    },
-    {
-      "title": "Primary victors went big on election integrity, ESAs, housing, water",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHJKYzZ0N0dwVmZDemhYcEtSb1dYNC1XQm5rLXF5eXFVZlhEZkhYZlN5VXBJdy1HOFg4VWdtQ2hlVzlLZVFmeGxud3lCb0lhT0R3LVFfTWVCdFZ1V3NaX2p1MXh6RGd0T0tzamV6NDRBdXFvakJGM2dHdHFxb2g3RlFwSTdBNTB5MURpR0VSdXZaczRERWJoejRxd25NVWpVcWhQQ0VGQlFyajdCT1E?oc=5",
-      "source": "Arizona Capitol Times",
-      "published": "2026-07-24T18:48:11+00:00"
     },
     {
       "title": "A Michigan Senate race tests how far the Democratic Party has moved on Israel",
@@ -92,42 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTRjVkttMVhkMjk3b0NJMU9fdHQ0anZGM21GVzAya2JHbVdob3AzTkZDTzBKbWRSdTJNV25DbmtfcDdXQzRBbkxkSHV4UlRkRFQ4RU14dGZDbmx6U0p3UEh2NzI0UXNyeFFJXzk4Y1EwT1hCbENYemRwS1Y0bjJ3TzZ3OG0?oc=5",
       "source": "The New York Times",
       "published": "2026-07-24T16:25:41+00:00"
-    },
-    {
-      "title": "Kansas U.S. Senate Election 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLXRTVkhNUnBRUTBFcnJxcVp1U2JGUE0wQmVlUWwxQ1hnajFRVXRWeDVwM1lYek5fUHAwenNBenpfUE93dlExakpyTGI0X2ZwUk9LRnZSRGJTNVI3aTF0aGx0Q1A4YUZiSGh6TkszUTRZMnFEZkZFOTNFWklIREladGNlcURhTmVCZUxF?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-24T16:24:25+00:00"
-    },
-    {
-      "title": "Idaho U.S. Senate Election 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUVGSVZRYVd0Z2xBLU4ybzFwMllVaV9IbnZ2VWN6N0U0T3ozZER6Z2ZqaTM5bXZnc0VQUkEwMHRwWjVKRFRyaEVCYTRfTkI5ZWp3ZFlOaWF3OXVoTVkweV83Q3VXdWFzQldQa3N2dmc2YU43ODBlcE45a0l5ZjBlY2ZhbXVBWl9XaEE?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-24T16:23:33+00:00"
-    },
-    {
-      "title": "Nebraska U.S. Senate Election 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQai04b2VObzBCUm05bjZ0NHNWY1YxbXlPR0t6cktsdkRaeUpRaHVBbzVsc2xILU1fRTNQY0xvT01SalZNQU9LTDQ0bVBLbnF6aGg0VUxXa0hPSG1NdGd5UWZOWUVhUjhqRXdQU2tEWnhIcWNQYm4tNWR1eHotczVvQmFUejZJbTFpR3NCdUhR?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-24T16:23:11+00:00"
-    },
-    {
-      "title": "Alaska U.S. Senate Election 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEJLeDV1U0FWYjhHM2tyaWJmeTM2TWpqMWROWnVGMnZkazJMODlHQi1ub212SEZYWmdLc2hRT0tPbkhlMGxsNEItNTlIQlVsdUhjTXlwWllNczZ4M3U5dTIycmtSZzJpMFFrTlVQOTRZaDBobFNxeF9PczJCcUFvMHpzVXdvM3Y2RzlZ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-24T16:21:40+00:00"
-    },
-    {
-      "title": "Michigan U.S. Senate Election 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXg4R2RiNm5LQjloa25FZEFhY2tCX2k3U0ExVEJnNzVWeW1Ba21fbkRxYlFFX3M2TDdLeGlQUnViWGNfbFZWdlBiVHhNNUFqZE5ISjhsdlB5dGRPZ3ZaRVlpd24ybWMyX0dXUFFIWUFhbnM0c05DX1JLVmVYT0NFT1pFcHBGYU9hLXAyOXRR?oc=5",
-      "source": "The New York Times",
-      "published": "2026-07-24T16:20:16+00:00"
-    },
-    {
-      "title": "Missouri congressional incumbents flush with cash heading into primary election",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ084UlFrd2pYQmE1eHVXT0tTLURPcGxKamxIU0U0SWdKMENwRkJtNVNBNDlUamU1WXNoTWxCOEk3azZhWFBFcXZRQjBHRW8tR1JaaTJ5WWtVZTNQS3g1b0h4ZExFOExhb1c3XzVyOGtQejVVZTljUHEzR042cVdVdERzZGpjV2tuS3hDS2syb2lMOWRGU2tiTUZ6UGgyR19qN3hQWFRidUVBSlM5X0I1SkhYNE9PQ2dGMVE0?oc=5",
-      "source": "Missouri Independent",
-      "published": "2026-07-24T16:17:57+00:00"
     }
   ]
 }
