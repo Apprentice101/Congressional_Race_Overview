@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T01:42:27.004153+00:00",
+  "generated_at": "2026-07-28T08:14:45.015367+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -9,6 +9,24 @@
     "Votebeat"
   ],
   "items": [
+    {
+      "title": "State Officials on Midterm Election",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcW5mOE9oaHJBdmtVY0tqQllhWnF1Y3pYUFVIbXRBMjdkVWJrdHpVblZmdEZZVFRLMWw2aGc2dHFETlk1UlFISk5lOXppd0lKdVRIRnhmZUROemFFNmdKVnpZUnRfVHFXN2dVZlBqdVRYQW9nR0NWRDBWUHVVZmVIeUZ4ZDBDRlNsUjVDS2dB?oc=5",
+      "source": "C-SPAN",
+      "published": "2026-07-28T06:57:03+00:00"
+    },
+    {
+      "title": "AIPAC Attacks and an ‘Ogre’ Jab: 6 Takeaways From Michigan’s Senate Debate",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUFtVkY1eHpkaGVWMUF0UTZUVkRqSExwRE5LbXRLZExyc2RtWUJaUzk4cHh1d0wxRF9saE1HWjVVd29MT3p6UDBNVXNjY3d3VUw1QlgwVWNCSWdGVWNkZGtGRk5NUVg4RVZRaVhJTFdDOUJOSjd0QXJucXpvS0xUMnRtSTRKX2hlUjRmcG0zWG5rbzhiR1JnZUF4QnFRVEhOOG1lQmlrNUxBekhPRVRYV2otZw?oc=5",
+      "source": "The New York Times",
+      "published": "2026-07-28T02:43:31+00:00"
+    },
+    {
+      "title": "Stevens and El-Sayed trade personal attacks and other takeaways from the Michigan Senate primary debate",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUdkeFdtU0hsZjdDQVVXTzd6MWxBMGJZN1JPdGdqS19OLXFfQ2ktWHJGT29KMVdfejl2b3JFUlA2WVVYMm16NWVWRG9kY2FSY2FUcEQxTWZ2LVNVQW4xeVBEcmVXcXRwZTFYUDY2VkV2cS1ic2xGZG9GNVZiZkFVdFdJbnJQc3l6SFlVckp1Qm4ySHpCNko3enhn?oc=5",
+      "source": "CNN",
+      "published": "2026-07-28T01:59:00+00:00"
+    },
     {
       "title": "Michigan Democratic Senate primary is 2026's top referendum on Israel, AIPAC",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWE5sQVY2a2h0VE9RTjdnUUhQQnM2OXY0bU9TTjEwT3hza3N6a2VQUVRQdmVZdTFXeUNWRXBkUUxJdy14dUlqd3p6enl3X1Z4LWtVZWdadFpGQm1hUkladEp1MmdQSnptSmV5cE5UY2cyZ3paRkY2aFZubHBuUEF0dVpxVnlLNGNSNGo2djVIQ3d4V2w5YTdScFRwYjhhdDc0T0d1QklzOHlSZVZfX1NZeVZibW9IR2lyQmFiQW1UT0d3U2JOaVdkdDhBZGdjNkRBaHkwXzNwLURNZXpBY3JNZ0g4UGpIcU5oOFMyRkpIXzdLdWVKb0YySTdyWHJrRW84ZVNKcA?oc=5",
@@ -22,40 +40,22 @@
       "published": "2026-07-28T00:50:01+00:00"
     },
     {
-      "title": "El-Sayed, Stevens meet for final debate of bruising Democratic primary",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFBiVmxHSVlycTM5OEZoekNwVEFEVzVTdV9fTVQtWmtzWktCdjlJOFdIMms0NGZSeTdlVmN5SzIta2RGeVcydm1qR2JrTXRtTEg2RW01XzRjSXZldEFaR25iQ191LVdNaWt6YVVVQWI1MzZNUUpZbVJEOFUxTEJyMzBONUhrVkdTdGFWVXUzYV9aWVBKYmV5UmM3R0prTW1fNmdSZjB4cHdEU21XVTJpS2o5WDZiV3dfQXpuZ1N2R1NRQQ?oc=5",
-      "source": "The Detroit News",
-      "published": "2026-07-27T23:13:00+00:00"
-    },
-    {
-      "title": "Watch live: Haley Stevens, Abdul El-Sayed debate in Michigan US Senate race",
+      "title": "Full video: Haley Stevens, Abdul El-Sayed debate in Michigan Senate race",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkIzMm1wdDBXUDVpQmI1MjZsZXBFN1ktUVJpZHlDOGZ5MDY3RG80T2xUZHVRaG12Z25sYmdxUkRlNHBYRU5nLTA5dDc1aUpUMXlKb1pUUXFDd2VfUzZwN0FvZzM4bzl5ZXBueU1lVmRGV2JSYXZtOHFWaW1VQTN4YnNsaE5RUmJQTUZDQW5KcFVuaXFTNGh0RlEzdHBqMTZudDVvd3h4akxWLVZ3ZWQzNDRSOEREdw?oc=5",
       "source": "Bridge Michigan",
       "published": "2026-07-27T22:51:15+00:00"
     },
     {
       "title": "Kamala Harris endorses Democrat Troy Jackson, in Maine's US Senate race after last-minute nomination",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNlF0S0tZTlpjcTJjdXBoeWJrRzMwM1JKOEcxVlhLbk1hN3dpa0FrRWtsOG9wbklfb0RoT0VIRExtbFVURGpyYkhkVkJJY3h1RHNFWXFGaGpwQy16bjI0NmRwUFZORWtXUm9rVzM1Z1pta3VETXFRYUl5QTEtek5ocEpkY213X25xRnc3LUNXaW55MDNrdU55Q1lWU1hrODdrT1hGN29SMFpvZVFJT0ltUkxWT2tJbG9OSnpuZjJuaXI1cHRuUnJyUDljODBJS0NfT1FsdnRsbXNtamo2bTdUNEZFNndmN211dXJJ?oc=5",
-      "source": "ClickOnDetroit | WDIV Local 4",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdzJoYkFUdnUyQjl3V0x5SHZ0bEk4bFVGc3p5dEVfOHJKTWxyZGRxUmFOZ3AyU2F3WGlOZEk3QzFGRExtTWRjUmZqaVVrM0RxQktBTHU5Y0lvX19UMVUzQzhROXpjUEZDLUVQdnhQeWxmTkNlSEJKWWMtTUVyRjRaUU5TRVY3WW5xQXRSMndBbXNxSHkxSkE?oc=5",
+      "source": "Temple Daily Telegram",
       "published": "2026-07-27T22:36:55+00:00"
-    },
-    {
-      "title": "State Officials on Midterm Election",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcW5mOE9oaHJBdmtVY0tqQllhWnF1Y3pYUFVIbXRBMjdkVWJrdHpVblZmdEZZVFRLMWw2aGc2dHFETlk1UlFISk5lOXppd0lKdVRIRnhmZUROemFFNmdKVnpZUnRfVHFXN2dVZlBqdVRYQW9nR0NWRDBWUHVVZmVIeUZ4ZDBDRlNsUjVDS2dB?oc=5",
-      "source": "C-SPAN",
-      "published": "2026-07-27T21:53:29+00:00"
     },
     {
       "title": "CT primary election 2026: Who's running and how to vote",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zSV9WTkdoc1hNOWtOb2trU1B5VXFKM3lXMlVDeVpLVEFtdV83MUJxZWVfanRDTGlxTEFlNXpOSl9pUU16eXdKeDJIWURMYlVKcm9MNFpSV1FLMDBlYUxFV2t0cURGUUNkdGxjTHIyXzFld1dpdk5YSg?oc=5",
       "source": "CT Mirror",
       "published": "2026-07-27T21:46:39+00:00"
-    },
-    {
-      "title": "Abdul el Sayed’s 2028 ambitions cloud Michigan Senate race against Haley Stevens",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPT2hjTnBYdGRvZTlFVzZ6aXJFYmlHczlCRHlPUkt2cmRJOXViVE5JbWJIUFBfN3BXVlFhS1h1TW9nTkFnSVlOX1BRY09wbGR1Mk1jc3BuVmdLd2UxTmZsX1d1b3VtQ2EyN2dDd0MzcHZzMEFxMU1DbDJ2WlpKNG5rcWpXSFp4VG1xYUhucjItSFFiekV5djRTeGcySVhyalJaVnpIZWZaY1pXbjR6WTdVNV9rdml2VEdLaFg3RWFmS0xWU2kwc0V2a05aVDRCZmplR2RWTg?oc=5",
-      "source": "Washington Examiner",
-      "published": "2026-07-27T21:32:00+00:00"
     },
     {
       "title": "How Troy Jackson and Susan Collins are attacking one another in Maine’s U.S. Senate race",
@@ -76,22 +76,28 @@
       "published": "2026-07-27T20:53:43+00:00"
     },
     {
+      "title": "Election 2026: Less than 100 days, with tight races for Congress, state bench",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnBZcHFha0h5X2RQQnpDZ0JNTTRXTllfdUluSmFQb05nanZXOFltUEVVeXdJbUd3b0FPZTZDdDhRNHVvUW00Mzd6YnMyT2RpbnNNUHNnOEd2eU5ZcldsSnhPcWlNcFhpdlhJZVE5X2N6NjBDOW56c3ozTUpKNG9kOUxpNkRZYVJwNUcxa0VCd0ZxbzBnV0h3V0tOWFVFa2VvUHhrOXZkMFV4MjkyUWhDMllIN0YyS00?oc=5",
+      "source": "Johnson City Press",
+      "published": "2026-07-27T20:38:00+00:00"
+    },
+    {
       "title": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1ZWV29XdlhuNTc4Y3M3MktsTmRMbGhSWmxOdGFUWWxYbkRBZWVIU2IxdmdsaUdpS015cVlWa0hiNnh6N0JnTlE5YjMzbksyMHRHX2Mtci0ycm9RVnBJejRZN2ZQT2RYUE5PMkxySnZLcFhDVks2MV9vcUhma3JwMUMxU3BiNE9ZdlVsZUptams1RlVSSWdBTUpZdVVHQzNiTzE1Z1llaDl2MGFHaC1CemVZWF9UeTR0MHfSAb8BQVVfeXFMUHpnRUotWDF5aHZENlltRlRmY0tiWm9PTXE0SlNoVmpFR3JoLWg3NVV6WkZxc1ljQ2FEUlNBMVB2OUZGVTladGEyLUw5UF9tVEZKV1gzNUVHOENFcGRrTjc3WVAzQUNMZERtSjVYWGdUNFFTRmdtM3VCLXh2bVB1Umgwa3dWQWNZcVhYMzFlalVLYnF5QkFoVUU3S2JLTXdzUUdUQVJVY0l3S2gxVzkxZjl5b0drVkxWNjZnMjFmU28?oc=5",
       "source": "Al Jazeera",
       "published": "2026-07-27T20:37:24+00:00"
     },
     {
+      "title": "House map roughly as favorable to GOP as 2018’s, despite redistricting: Analysis",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVZGOVVVSi05Q1VsQ3FuUS16MEdwTkZZZGJSbTMtb0JFb1ZjNkxPc0ZmR0hhaWF5WS1pa1hiLU1SSFMwbzBNdTVfT0RIUnV0aXM5Q19KOHo5UUlSNDZMYXJGQXA4dG1JdFE0dThXN3FjWGM1eGRrVW1nNVI2am1tMy16cnh3Z9IBiwFBVV95cUxQZFBqS0gtTmtpN0dQMl85ZGloRFNTZklMYzQ2RHJqRFNKS1VqRF9EeXVPbWYwYkNFXzhWbGtaMU5PaVJPMW5qQ2VORHVzSFNnNTRZTk1ZVUxlZkhNVF9VRlBCVmRLR2M5N1dsWUxFaUV6dWE0YklkWDUyVWFlaXN6VkMtM0htZ2JWdTBN?oc=5",
+      "source": "The Hill",
+      "published": "2026-07-27T20:34:00+00:00"
+    },
+    {
       "title": "Election Odds for 2026 Midterms – Trade on Elections in the US",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CTkZPclRaeVUwQjRteXYxU0U3NWFNam5tbHlIODhjTUJQNm9zY2lXRGJxNDlVSC1kWUoxazBHdHdoMno2YmZvaHFZREtuNFBJMm5GRmF2amlZd2tNbFFnNXVlLTUzYURzU3BlZ0dDcw?oc=5",
       "source": "Federal News Network",
       "published": "2026-07-27T20:16:31+00:00"
-    },
-    {
-      "title": "Election 2026: Less than 100 days, with tight races for Congress, state bench",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnBZcHFha0h5X2RQQnpDZ0JNTTRXTllfdUluSmFQb05nanZXOFltUEVVeXdJbUd3b0FPZTZDdDhRNHVvUW00Mzd6YnMyT2RpbnNNUHNnOEd2eU5ZcldsSnhPcWlNcFhpdlhJZVE5X2N6NjBDOW56c3ozTUpKNG9kOUxpNkRZYVJwNUcxa0VCd0ZxbzBnV0h3V0tOWFVFa2VvUHhrOXZkMFV4MjkyUWhDMllIN0YyS00?oc=5",
-      "source": "Johnson City Press",
-      "published": "2026-07-27T19:46:38+00:00"
     },
     {
       "title": "Takeaways from the latest debate between Democratic Senate hopefuls Angie Craig, Peggy Flanagan",
@@ -112,22 +118,16 @@
       "published": "2026-07-27T18:39:50+00:00"
     },
     {
-      "title": "Gov. Greg Abbott, Gina Hinojosa talk Talarico in Texas governor race",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSDVyaTF3MEFGRHZaNUhGLWs5dWFNRFJRa1B6RVJCTTdLbVh4VzBEbWhKTUFGbVktRF9Tem9KT3p0bkFpV0gyVEpZQUdGanlWWDM3TVJGVlo4RGF3Nl9ENV9UODZCLVgwbWJ3N3FsbExUUFlkNDUzRnB3Mm9XNWhiSGtaRThpaUE0YUlnY2xQaVFUUGNCSGJWdkt6N3JnRllSY3h5YWlJWnNWeURjVGRwc2RGNkF2RTEydGFpLVFzOEJxanI5X3VtSGFUQ1puUFh2Tm5NZU1KSzEyU1VIV3FZdjdfVkZCdzFSbF9TZWZHaXN6THVxcXFJeER5N3RjajBpSDV5Yg?oc=5",
-      "source": "El Paso Times",
-      "published": "2026-07-27T18:39:00+00:00"
-    },
-    {
       "title": "Live Results: Georgia's 13th Congressional District special election",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYUhETm1YQ25kZDYzajgtS0Rsb1dzVm8xcy1Gbm9WbnZuSUlJREpXRjhzVllSMFBMdG0yY0JiVFl5ejRieUhaZHc1TkNKR3FuQW91SWVQNVpDVTdXaGpQYnRocU94Y0lyZHo4cDF6MGVSc3UwMDFWNUdXMGtRd3lrTnhRN0JuaEFWbGRMZEU1NHJ6Z2RVSkdFaWVNRFlxdWRJUEY1YzBKVdIBrAFBVV95cUxONFU1cnFZZ0E3dzVMQTdrX0pEMXBibUF3cjNtQUdqNHFpaFhKNkRGRmlVVnRiQVhRVFBHV1lZdjE1NVkxZlU4YmlCTWhVRzNFeHhQbVhNd3Z6V0JiaUo0b2VNN05UekJJMngxWlV0RVpTRlhSVVBEZWEyaUEzejBreU9aMnc0d2R4Nm9fQVRmVEI0Z0htcFdXcXhDVGpCNE1BOFFQRVZBUFR4RUN1?oc=5",
       "source": "PBS",
       "published": "2026-07-27T18:31:05+00:00"
     },
     {
-      "title": "National Primary Elections 2026: Live Results and Map",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkNV9IM2xTNmVHV2tnUHd5NGRPT0cxSnY5blVHWG1UdlF3U2JDay1jZjE0MGp5S1REc0syWEpuOHBKbHpodnExWm1OcF9UTlhQWl9DeGZYWkk1SXhKUFdNcE8tdWhUODk4OERTSGg3WnIwdw?oc=5",
-      "source": "NBC News",
-      "published": "2026-07-27T17:26:11+00:00"
+      "title": "Will Trump Make January 3 Another January 6?",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2pkcVpXVTk0X21NOExzSXhrbHRFdEltXzZOa2U5ZFkycmpJVm1wTTI3NUFpNl9kZ0RjY3Jjck1XWm01S25BZkJHN1hab09TWWd2UktQQ1ZucDZiQzdhN2dzZ2pFakl2ZXhPdXN3VnBzaUx3ajF4TDk3X1QxN09tZWJJRmdqWGh4eW82N1U4QVFOTzNhd0htOA?oc=5",
+      "source": "New York Magazine",
+      "published": "2026-07-27T18:18:19+00:00"
     }
   ]
 }
