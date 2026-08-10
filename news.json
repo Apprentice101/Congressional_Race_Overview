@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:10:58.917901+00:00",
+  "generated_at": "2026-08-10T12:44:53.168916+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,15 +10,57 @@
   ],
   "items": [
     {
-      "title": "Michigan Senate Candidate, a Former Trump Critic, Shifts Toward Election Skepticism",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1FwcWU2OXBqWG1BTGhvRGdsUWxma0JDMjJTWDJQWDdaY21KN2pxcnZ3NkZMYms1YnJZb0pHS1JpX0pibTR3MGVlWnRFRDk3V0NpanZTNW5yYlBUMGh1VjRuS05oLW1lQUF5bUNtRmo0ZnppYkp6WHpuakV4VTlVWkR6Rl9veHBPX0YzNkEzZUVnTDg?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-10T00:40:38+00:00"
+      "title": "Eleventh-hour primary upsets muddy the race for control of Congress",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQlFHelV5TndWSnEwTEo1dmdPWXdVRjZoSTJBa3kyUlFLeVpuVkROd2R4eWYtNWt1T2lJd1RUMWNwdXZyYjFqMUFSS3Z5WndIWXdKVE1qWl9xd1NySUtTam9jWTRFZFEtaGVKOVFpUmlYN3gzRXJ0R280OUNDSmVuRmw1NTNSSDVVSkJ6YzUzc3ZiWFp3Um5qQVJXU0RYQTQ?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-08-10T12:36:13+00:00"
+    },
+    {
+      "title": "2026 Midterm Election Odds: Every Race On One Board",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRW1IamI3Q2M5MkhZWHkwM2U3V1lRS05nYW80SlliNW9ZTFJWX2FSZDhYa2VSZldsZ2tHamtFVndCN3JxU3pia2dUN0JlaXUwRlRCc1ozcDFTMndDWnQ5eGJ5clFQQmw4eHFBcXJTblpCa0dlTjNMNVdCQk1vdGtURVVCQjBZTUVtZnc?oc=5",
+      "source": "OddsShopper",
+      "published": "2026-08-10T12:07:55+00:00"
+    },
+    {
+      "title": "Wisconsin’s partisan primary election is Tuesday. Learn more about who’s on your ballot.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHF1bnhFVXE3QklzN2xVcWhmNlVlaDBzSlVRT0Y2OWxYNjVLdWN2cXFkbTJ1dFBCeldoeWRocVZDOTM5SlhVWE5rR3I4aGNldnd2RXZFZ1ZkUVpCOHp1TnQ1STlXOXoyNFBFQ1FqY3k3dmpOU042RXJOUDBFU0IwUmlDTTRYcVpneVlLTzdjMlR3U1hwSGluQ3hBcWtFUEJUV2sxUEtrZS1TdVczbmJLWTBSVnlzbUZZTm1tMkRpSEs1Vm9lejhjbjYyVmVUMzIzaWk0a0p0M251dlk?oc=5",
+      "source": "Wisconsin Watch",
+      "published": "2026-08-10T11:00:00+00:00"
+    },
+    {
+      "title": "A voter guide to Alabama’s special primary elections",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVd4aFhDclpDbTR4S1JvSmRwRTMwTC1TZkM4VEZiejhOa2JlbEliNmpDTFY0UDdERUJTVUJ1ZzY1RDdRblpneGtaNUxHanhheDhGSFlOVG1OMm1ZNWJpNWozRVFJUnNBQlZDUnYtSTVUWGk5TU43Ry0wSExEbVJITHZ1SzN5b1dnd1I3MlFVVXBrMENJbjh3?oc=5",
+      "source": "Alabama Reflector",
+      "published": "2026-08-10T10:33:46+00:00"
+    },
+    {
+      "title": "The 9 Senate seats most likely to flip in 2026",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MMEc1Vm5NUXhNNlRPTnhRS3JOVV9vWUh3QmhMT0hSTDBIQUlWVnJWTUJGTGZzQ21TaUszclBid0ZIYzA2dUs5SmZTOU9ra2tvOWVEcTc0NXVIdEd3amNkY1dLNUNfMFBpX1RqbkNTRGRtUkJTQjNlUHJfa0M?oc=5",
+      "source": "CNN",
+      "published": "2026-08-10T10:00:29+00:00"
+    },
+    {
+      "title": "Choices on the direction of both parties await Minnesota primary voters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzV5cTZQWDBXWHJtY2hlSDlOcEhzTUViUUpYeTJFcXlrVWRmWXhOYnFDVTJWYkZvMnBkOUwwbi1LZXlnUmFHekV1ZTdPeGxWTFlaVWo0OHp5LV95eXdnUzFTMnhWYlphZ1FIVldNNGdOTlEzTVg0ai1TUUF6MzVQaUFDV3NOVVZjX1hPTVZtMHFEeVpYVVhWR2NSQUpFYnUtSFhrMExzZFBKNTFzTFV6bWRvZ2ZJdnhaem83RzR3?oc=5",
+      "source": "mprnews.org",
+      "published": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "title": "In a competitive Maine Senate race, women voters could be the deciders",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3hMLWRnRWJleFhDUzF6eFpKeW8wZk1EMkk1RnFNTGJVeVRmZWZGM0l0cW5QZFNNMll3aF9FVEtyM2ZIeWNDRDB3V0pOMDNxdmZWaU5pcmxfSWZLTVRRcnFnOXpVYzB6WXdsLWtLSF9OVHRPRkIxaGctMlZnbDl4LXZGV3hxaE13VzFDTmJHWHFQT0M5eTdYQkRvV04waTZtbkRwSw?oc=5",
+      "source": "NPR",
+      "published": "2026-08-10T09:00:00+00:00"
+    },
+    {
+      "title": "Ohio’s 9th Congressional district race: The candidates’ records on data centers",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWxGdTl5YW5NdTBCYW85X3pOclN1b0tUQWEtNHFzWGxzczlUU3MyNnhVeFpXaUlmZTZfWEtVQVdDX0xmY0J3YzB3Z1N3R3hENzA1M1Z4MzgwcDVpRkJKY1NOdWx3cFFvNy1UdTczbm5IbS15cFJsU1EzZ0huNkZWMFBVMHFxSVlNaWFXUVIwcUtkNzUtWm02ZmtmT2p1ZVN3QjZvcWl0ZjRXdndJRUNMa19vSU5ObW5sbDVB?oc=5",
+      "source": "Ohio Capital Journal",
+      "published": "2026-08-10T08:04:31+00:00"
     },
     {
       "title": "Newsom says national support ‘crucial’ for Democrats to win Michigan’s U.S. Senate race",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX084YldacHBmQ2xON1l5SWFGY1pxMzNBNG9VZDN4dVNKX0c5RDFDRU5Bb055XzNlM3lmaWtZS2ticmtYNzAwQkJKQmNtejRNMDZIdVpXSFRVc0w5RFFSSnNoakpRZXY3c213cFdqbmdieG41T3l1T2otUWhhRG5CLXNDbVdWUkhSdHFnU1FxdXJ4enlXMnBFdzB0cldDY1lCb0hpY0kySWlJYzVod1M3RlVYLW9ocHRZQmlEcnFXZzI?oc=5",
-      "source": "Michigan Advance",
+      "source": "michiganadvance.com",
       "published": "2026-08-09T23:12:27+00:00"
     },
     {
@@ -26,12 +68,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2RYRHJBTm1sMTBzMWxWYnJDRlZWTnl4NGFMZWpBTDVSNGZuSUt0SXVfRTlobkotVXRCZlZpZnJhY3dFdERfV1h2dmlCRHZZZW9JdjY4czM5RGNiVUk2YlRYN2xCVHFpTmpKak9UNlFPbHJzU2pqSEQ2YVVmZldNVWFvRDI1dDZwbVZTWlVSNjhmcHlacmpiVFJ2cWV2MjI3OTZGcFZ1ZzBfQ1djUndVWS0yZUhMZEZ5SklsSm5QS1gzMF9ZSHJtN0EzVFAyN0tGWlk1YUJnOA?oc=5",
       "source": "KNOE",
       "published": "2026-08-09T22:52:00+00:00"
-    },
-    {
-      "title": "Updated vote count for Hawaii Primary Election following third printout results",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkpsYzlaOFBvenFFdlBrVzRQTk1iWGdCdmZJOVRodS1nX1pORnVtVkxiaXUxTi1HZS04WnRjSlhFTEFIbFYyekNpd2lwczk4X3lldTMzM3Z6YjZncXZHTEU3RjVxMmVpREdIMGNLM0pNZl9PQUtkVGhiYUw0SUFyaC0zMi1qY1BoeXpfRjJSN2QtTUxUVzl1NlB30gGfAUFVX3lxTFB2SjY4a1d3UTAtVUFRUG1hbll4eHlXRUR5RFo5a3NjSDdsQnBVNklyVjlvSTFGSEszWnhNR1J3ZE9YcmhiUHR5Z1hQaGVkZXFzSllBU21OZ2FXMGpGeWNCTjF4aFhCcVl0akZIaC00T1JIUy1EYmlwek1kUG9OaDRyNHBCTGpMZEpFQnV4bVFrd25jQ1YyMmlST2YtMUVZUQ?oc=5",
-      "source": "KHON2",
-      "published": "2026-08-09T22:47:01+00:00"
     },
     {
       "title": "Hawaii House Primary Election 2026 Live Results",
@@ -52,16 +88,22 @@
       "published": "2026-08-09T18:38:23+00:00"
     },
     {
+      "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjlSX0tqRHQzLUl1VnVzbHlBa1lHaldsVDgtbTFlM3d2WWVNNTZjNmVoeF9mMHhud2FDTnBpMDNXRlpWUnRBTzRSanFiTDg3M1B1RkhydlNYdi02UlJrdzVSazhOSUtwZXhkX01KMjB5dTNFSzRHNHZoOUdJQ05OUTRQNkdxa01NZ3ZsT0ZRb0IwYWJvWEp0dlVuUU9HTE05UXBTeTlmQk1RWG8?oc=5",
+      "source": "The Guardian",
+      "published": "2026-08-09T18:35:00+00:00"
+    },
+    {
       "title": "Florida may be a Republican redoubt on the 2026 Senate map",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGlpSVF6cG5KeTJ1LTJ3ZmktSzUwVkxqb0Z1YmMyM1pVRTRhd3FQQ2dqbk1DNGNlaWpLQmZKVTdpbUZ3VW5SSnRYbWdXenFVbGtTU0RsVlRzSUtRTktNemJvbjdUTlVaVm5oUy0yNVltTnZGNEQ2ZlNDMzNVZl9CeEtlY3pjRW9QU0ltTVUxQ3g0Nlhua1E4?oc=5",
       "source": "Decision Desk HQ | Substack",
       "published": "2026-08-09T18:24:19+00:00"
     },
     {
-      "title": "What Would Washington Look Like If Democrats Take Congress in 2026?",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ21UenFIcDRIV0NfODBFMndNTGdiQVVTRS1hdWgzNFVCSFB2d0R3NjdPcV9ZZy1tOG1iYVFZYTBQUE1mTjF6ekE5am43Z2VfSlpfR2g5QkFHQnd6SURFbUNEVGxxWVkzMGdSVXp3RkZUaUNhSXhsazMycHNTVHhVSldsbWJGYTBHY1ZxSmViOA?oc=5",
-      "source": "Sedona.Biz",
-      "published": "2026-08-09T17:07:59+00:00"
+      "title": "GOP may be stuck with Rep. Max Miller in Ohio",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXhmUjY0bE5NN2dsbXdEOEtjZ0VvM0dXWUZOYnhnZ2NaVHJHYzI2QjdyTzM4Y19TYnY3bGVKdzNCRGxRb0g4TXR5NEtWUmdpRk1RTkpmMFU4RWZBVDRweXNTd0N2VElJUWdnb0tiQmd0ZDU1ejBzYUd2UVkwSTBVSWxodw?oc=5",
+      "source": "Axios",
+      "published": "2026-08-09T17:22:21+00:00"
     },
     {
       "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
@@ -82,52 +124,10 @@
       "published": "2026-08-09T14:13:00+00:00"
     },
     {
-      "title": "Flashpoint Aug. 9, 2026: Post-mortem on Senate primary, plus talking possible plans on governor race",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcURLcG1pMDRuclJMMnVuTDc4d0ozczdaQmw4aERLdGZfVnhURG5WSkFyMzNqLTVEbDRhN0VJOTdDM2hhejhpcWFSYXAxVUQ2NzZnY292QUhGWjFMdDUyRXRzOGFRdnVXRFlPSnZzS040UXVSc2ZEeHFybFR6eVptbjdxT2V1OVlXRkIwVEdtc0FwVkhIMG00ek5zQmdaNGZ1c0kxMXdkSmdlSllGTkFBTWtRRDBQYzRxTGsxNmFqRHU5RnVqTXNTdTNkSXVzZVhhWjFwZGpCRmZ4aUFzZExYcWdqd1RFXzY5UTFBbw?oc=5",
-      "source": "ClickOnDetroit | WDIV Local 4",
-      "published": "2026-08-09T14:00:09+00:00"
-    },
-    {
       "title": "Senate Bows to Reality, Leaving Trump’s Voting Bill Undone",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS00tdUFiSFdLTS1maVF3QmVSZTZaMmZZNG9EejZnSGxWWHhQRHNWMG1lX0NuZFRzaTlXZUFqTVc1eENqWlNKc3M2ejVJTnpZMkZfSzcydy00RHdpWUdrRlFwV0Y4dHI0TGoyQlVYai1NZVVsclIweWMxMjhJVm53bURsdDh3YXo4dS1pbzhsTXFEUHBSMk83ZkZsRHVyT3BFZXlqTUpCNA?oc=5",
       "source": "The New York Times",
       "published": "2026-08-09T10:47:11+00:00"
-    },
-    {
-      "title": "Alabama Special Congressional Election Set For Tuesday In District 1",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFpqN1ZQZE9oaDBBYXFOaW9QemNjMGR2RU5jX181b1Y2Qm91bTV3QnVublQxc2EtOUJteURlYUNlVHNDOVBhcVJ4TXhub3RCZDJSVXl4S1Z6bndKWmNLakJGRUE1Rkc3WUExM3JoOEp4dERPS3g5NlI4THFkemx2WmVnbXFyeDY3QW9aVE5QZzBlUVNpa0tyYkpYWQ?oc=5",
-      "source": "OBA News",
-      "published": "2026-08-09T10:09:08+00:00"
-    },
-    {
-      "title": "Republican voters in SC want their next senator to be in the mold of Lindsey Graham. Or do they?",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYVJEendMYnRBa3AySjhjWWg1SjJWMFR6dGREcFBoUjZoYnBFY2c3T2NJdmxZSHFmNVFwRjVRTEduZHRhcTdDWXBUYWVhU3Vvcmw3SkR5WGpQUWtrRVhndHpibVU3V0xOd0dtQy03czFVUXloWGZHM1RDNS1XN0czRHhTX2EyOEdlT2xIb3BFal9Wa0RVdzJhVTJoMmpKWm9aMEpzZ21XNUtkeVBZU0liekFvLXJxdDJ2SGpaRDB4bmFsSHNCVFpWRGJvSzRMYmJjOXl0cjdiQXBoSmRZX0E?oc=5",
-      "source": "Post and Courier",
-      "published": "2026-08-09T09:00:00+00:00"
-    },
-    {
-      "title": "Incumbent Case wins U.S. House District 1 Democratic primary",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2hYOUpYWFNtTEdlWmk5RGhsbThlbXZVNTRYZ0w1ZG9teHVpZmtJWWdoQkUxLWViZXBfTDdrVUhTOGNXYTB2NWlDbER3aDI3V0JXc1ZDbmZId3RQVHRJaHg2cmZQOUZ4RlVXcjFKTUZFc212MUs4bGo5SDhXbVlYQmZYakVFdF9uUUk4MWlSRFNhVjJyUTJVLWc0c3Bmd2IxU0HSAbYBQVVfeXFMT1owb1hGZG9iRzdHSV9VRDVpSWVRdHdrXzk1c2NXaGFGNWoxRWpWSWVxMzUxTkhPX3N5b1pkbW5VZVlOUjFRdmY2d2lRcFgxV3BjU0U2eU0zLWZTYjJrbDJEY1NOVUctWVB5SDRJV00ybkFlVFQ3M184T0dnYnhPOHJKR2s3NUt6dWpkWUxKRllsdHZEbTVvOWJZbzlLR0hqMG83d2NBZWtnYlZVQzZRbUhpWXJoN1E?oc=5",
-      "source": "Hawaii News Now",
-      "published": "2026-08-09T06:47:00+00:00"
-    },
-    {
-      "title": "2026 Hawaiʻi primary election results",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnlPYkJtc1lZdFVqWmdpRTRIOGJNUWFMNHNmZE1KaUxXMHZzUUVyMHV0aVVNRzRNdGk4WnBhc2tFVjhOZ0RVMlhNQUpqTTRSNzBTeFVLVnZiZnQ0MjRqaW1NdkNOQnl1VEc1bU9KTE1zZXZxTkVyanR6VGdhQUNnell0Nm9xWW9tMnBJ?oc=5",
-      "source": "hawaiipublicradio.org",
-      "published": "2026-08-09T06:02:00+00:00"
-    },
-    {
-      "title": "Rep. Ed Case Holds Onto His Congressional Seat In A Landslide",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlBKb1NDS0YybHcyLVVQb0FuOWtoY1NMTnhQQmpNRlFNMGFaYXNrbnpOWUMyR1dQTmxQblU1cVpvQWswMTVYMGFfMS1hMmdFS3Zfam96TDhvQS04SVlnRWpsc1ZEellBWFdmYmlOam9GVUJzMEl4VkdrV0FvQlBmMnNsb3hoY2pPaVBzeUNXWmpUWDNtRXlqTXVwMnVTYy1GY1JwMTd0Qi10VTIyYlBzMWlR?oc=5",
-      "source": "Honolulu Civil Beat",
-      "published": "2026-08-09T05:40:07+00:00"
-    },
-    {
-      "title": "10 candidates qualify for Louisiana's 6th Congressional District",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGl4NHhMNGc1UzFwZGNEVUxyY1h1Z19WM0JZWFZnR2RsUWdTeUl2N04wamhHcjBJajlVM1h5OHFCSGxhMmNzZGpMOC0tcW1odFZWNGhEOFJwT1J5c2ZIakdOemxOTkx3ZWNwSlR6Xy1SQ3FFRTQ1QkgwVUw0a1JINm42NE1INDRpQnkxdTZ0aFh1RkpaTVE?oc=5",
-      "source": "WBRZ",
-      "published": "2026-08-09T02:49:11+00:00"
     }
   ]
 }
