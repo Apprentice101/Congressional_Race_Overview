@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:22:44.962698+00:00",
+  "generated_at": "2026-08-17T18:23:09.241712+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,16 +10,76 @@
   ],
   "items": [
     {
-      "title": "AP Decision Notes: What to expect in California’s special congressional election",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNlUtT3RUX1JwQktWWG94OWJqNlRtNDNmaGwwUkFZLTlLcGZIbDg1eDh1cWtpSVUxZzQ2c2ZyU0lFa3NxZWRUdFc5dnZzckhrcnZlR0h1OS14RlFRRDBBeW42S1ZNWGlqRnBZUGtZSUlDbkt4cXRzaDBzcm9UNjhjLWxqMlVmemdEUDVzMl9zcWJuWmR6ZXZJMVY3WllYdDcyQjVZdlA1S2J2TkFOQ0lkdGNxblljLVFqeG01T2tYVkIzMEQtTVVnYU91ekdpUQ?oc=5",
-      "source": "clickorlando.com",
-      "published": "2026-08-17T11:15:44+00:00"
+      "title": "Betting on US midterm election reaches $169 million, surpassing 2024 congressional total",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0JWOWlEckt6alZxWFZtNXp2enlrUlc0RTVRRmRkdm1EVlhTLW1mTDNyeWF3RV9xaWhuYzZ4N2Y2MlZVa0FRVEZhR1JrVDhtRG5vVTRLVkhQU0ZTX2tJNklXZ1gyQ0FfTm1vX3dOcUlpTk9FLVJ0RzJQSUl6ZnAyUXdIQmU2WjM2ZnRXa2kwNU9Ea0Nhd2xZdWpiTDlHQkZZWW52Z0IzTlRzQ3hCbHlLREllSzRBWi13dWw1UWtwVFRoeFNHS05uVlRxRVJDbkZt?oc=5",
+      "source": "The Straits Times",
+      "published": "2026-08-17T17:33:27+00:00"
     },
     {
-      "title": "Alaska Senate primary is round one of heavyweight Sullivan-Peltola fight",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNE80emFyR1VjbU1RYkZMS09NV000X1puX0pTRU95amRaeFJjNk8wbk8yUjBFQkt0WlJ2TnZCaDBWczdreUpLcHk0dExoSUFuR1F3eE9QeTFoSENxVWFQUkhRMk01ZFVGVno1VlE2T1ZlZ0h1aWZxVU5FSVhvSjlJNml2RVB2b3d2aV9vTmZ6UFJjdGRwbTczcWJhemlRS3MxRHlQcXZyMU9ldUlXOTVrNFh5MDF6X2FDN1lJaF9Xbzl0LU5BOU9NSmVlNjdxbWwxNjctVGlWLXNvWnRCRjNSMw?oc=5",
+      "title": "As Alaska’s Affordability Crisis Deepens, Peltola Leads in Senate Race",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3hFVzlZSUpoZ0xrUlgzNjBOTlpIenBJLTc5NE11eVd0MHV5eTFvMHlndkJlT3NMVWxtRzhWakxyUHllUm13RGQ0NzJsbnVUX3Nhd19nSkl3Z0xieGJDaVVCV1E3YTF5WFZfRDdFVzRQT2N2bUVsZ1dXRVB0OFpEZ1VueUZmVjNoRFdEMy11VDUyR1BfTzA3UnNlUDVEV0dadXN5ZzFlZmpwbzY3TkZUUGVmTTZKdw?oc=5",
+      "source": "Data For Progress",
+      "published": "2026-08-17T17:00:16+00:00"
+    },
+    {
+      "title": "Florida primary turnout nearly 2 million. Which party voted most so far",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQblJDTE53cTQtanE2VDJRcE5BUUJCZC1qZXVzdkt3Q2d0REtYRFR3VXh0MjVfN1hwamM2bVRtZXFLQTlGQUttY0kzNVkzWnZtYVZDZkJqOENhcHdDaHRLT040ZXRxRWRzVnp1c3RzNl93TnRGYVg5SGF2VzRkSWkwdmdFeklITmRjUzM3YjIwUGJUUFZsMUlOOWpUZGhnaEhLY3NncTBKMnFTcjZUbVZBT29Bdkk1WDBmYmM1RGpR?oc=5",
+      "source": "Tallahassee Democrat",
+      "published": "2026-08-17T16:07:00+00:00"
+    },
+    {
+      "title": "A Democrat is leading polls in reliably red Alaska. Meet Mary Peltola",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWQ3elk5WU9kU1VhcDBNVWsxU2t6eEhBMW1NT1gzM1ltUkFqZmxjVUdpQWttQXpkVEJzUWNWNWJKZzJJbkRNOHdLbEdKWWxncHVTTllTQVJCQ1dFTklwVGZJZDlBbFpEOTNaVUh3cVNGSXE3RHMyZkhZWlhueHpiZkNERWdvbHVFdDd0bS1tWnVwMHAxQ29JZFJWTmZkQW14M1dlbzVZNGxTZnpSRjg0N2oxZmpmdHppV0pBbTY0VkM5UQ?oc=5",
+      "source": "usatoday.com",
+      "published": "2026-08-17T15:42:00+00:00"
+    },
+    {
+      "title": "Who will win the 2026 midterm elections? Polls and predictions",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
+      "source": "The Times",
+      "published": "2026-08-17T15:23:42+00:00"
+    },
+    {
+      "title": "PREVIOUS COVERAGE: U.S. Senate race heating up in Florida",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNV9ncC0yclpuRDlIT2ZvckJnbEVIc1FpVk5vYjJ2N1pBekJiNEhmZXEtNTNRUU1KYm1BR09PaU1sTXdNY09mNjBCN3VuejdJV1pvdGpUNnpmQnp5WV9yclgtenNmQXJSelFqTmlZM2xHVUFVa3YyYUZ5bjNQNGtHZFpSVl9CSlM3Q3fSAY8BQVVfeXFMTjlyVnZZcS1Sck1QVS12d1Z3QTZldnVGY1lKZ1ZvT2gzclN6QnBaS2I1YS00V3BHcVFsVUwzaGtDcmdYUmhrQ3ZFcHFldnlhQ3JHSTJpN0lzcnFLZE9Gb05odE1sb1lKS3VtUmVTU2VtdzJWc0dKNnVRRmF2OGdLQ2EzenpkbjZzVUdPVXVkMTA?oc=5",
+      "source": "FOX 13 Tampa Bay",
+      "published": "2026-08-17T15:21:24+00:00"
+    },
+    {
+      "title": "FLIPR 2026 midterm election forecast",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWjFMc2tINlY1LWQ1RGZtUUJpZlZlN21hNF9iYU1TME9sSmhNclhGM3pmZW54a1JMX0F1TUZSeEtXWDlidVVDRWpUVUtoT0IzdEMyODhrWVRvSlRKd3pDdkdIOUpodHN5aHlJU2lZbWpweWt0a2ZScENITkJzdnc?oc=5",
+      "source": "Silver Bulletin",
+      "published": "2026-08-17T14:57:23+00:00"
+    },
+    {
+      "title": "Anti-abortion group backs Norman over Graham Nordone in South Carolina Senate race",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRzNlOEx1OGk2dzdGTHJtWElkZUhPTFl1dGhOb2FDNllzcmNaakJWbEJmNjc5T3l1SU9PNTBFaklEc0RiZjdpYjVURktwRk16MkJTR040a19ibFF2TkEtY1lGdHN0ZXRlU1R1eXIxVHFmT1c3bC1XZ19HMkNyc0l1U05IYWp5NzdhekViUVI3R1ZBRnBZcll2QWF4YlBGMWFRYkpzSEEwNnhKSWVhMjhZc3VHWFlla0ZIWHhXSTVXdHVXLTRyZ1hIdm9SV2w3UjU5bzEwaVJOd0FEVTVzOHExaDVZOWpxbmZVSHB2N0d4ZG4?oc=5",
       "source": "Washington Examiner",
-      "published": "2026-08-17T11:00:00+00:00"
+      "published": "2026-08-17T14:40:00+00:00"
+    },
+    {
+      "title": "A tale of two Dan Sullivans: Republicans with same name contest Alaska primary",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSUZCMndsbjlMSkx6Z0NJMl9uSkFlUXNTSTl5ZENHUWpWcWVvMDJnWVBNMnVZMjg3em1lMlR1M2YzcThEV00xQlowYmotWTh6WjBYaUYxVmNrX3RPMWgxVlR3QklITGR3bXRGalRaMDdYa1hxTXk3eHQwWTJsQ1NFRjRSS2pjZzNuSW1qN3pfWWg?oc=5",
+      "source": "The Guardian",
+      "published": "2026-08-17T13:44:00+00:00"
+    },
+    {
+      "title": "In Florida, Wasserman Schultz Sparks a Debate Over What Representation Means in Diverse Districts",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFhDenBrQUQxdjMyUWZ5UXkxTXZXWl9QOVFHSjg2Wlg0ZTBJZlNDeGNKX04wSENpUXpUbjFmUVZFazY1NURGMjZnSUJnQWdVS19UakNvTWdzZm9xQWN2NUJMNU84eXVmb3RITTMya3hZSDlvWlRqY09pTmlqcl9IemFtT0xSMzRwQWpvX2FrRk5pRV9xemNhUVlRcHdEUDBhOXZQakJuUVRXajVKdkhxdHlRY29QUWZOTWgwRVdHR0lIMWdRNFpUS0FDaXJGTi1kNE92a3Q3TQ?oc=5",
+      "source": "thewellnews.com",
+      "published": "2026-08-17T12:55:05+00:00"
+    },
+    {
+      "title": "AP Decision Notes: What to expect in Alaska’s state primary",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2RQZWI2NlN4QTFudzI1a3hBcC1vU1BXY2psdU9sdUpIV3hMWWg0aG51OENyeUhDWU9pby1zTklXUkVPVFF1aDhYT1h0cmZZeldzYXJmNld3dm1WMTg1UnoxN25MdHlrTU5xYkV3VDBiT0pZYi1sVlpfQ1h3cjZVNURDaGNNZENQYkR1U0VjUzJaYzFHZUhlTWZDSTlxWUd1bHdxX1hCSVNxWFVz?oc=5",
+      "source": "News4JAX",
+      "published": "2026-08-17T12:11:23+00:00"
+    },
+    {
+      "title": "AP Decision Notes: What to expect in California’s special congressional election",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdFNCWFd3REhSSHdHQ1pyWmNxX2o1X1Ryb0Z3R0ZWdXJsc3BvWDhiVkZfR3VIV1NNX2xSN3dsb1NrOWljY2F3UExvRExZaUs1bUhCUzVKNlM5Nlo4VzNRSTBKQWxtZm5fZWFySmh2MEgyNUVkWHhjLWVnMTZLNW5hVUxfVkd4NTdPdTBfYmVCdDJnaXRHcmpwcWtNMVZmU2ZjUVFhRWRENWJkUjdCVWVIRWpldk9GS0Z3OVY3LWVNeFhIY3RadXRSVFV4Um1ycWhqQXhieTl6Q3V4SVpIdmZaWUw5YnBzWnh6QUpYRWZob1dpUGFPbVE?oc=5",
+      "source": "kdhnews.com",
+      "published": "2026-08-17T11:15:45+00:00"
     },
     {
       "title": "California backtracks on good-government policies in divided Trump era",
@@ -34,28 +94,16 @@
       "published": "2026-08-17T07:58:00+00:00"
     },
     {
-      "title": "Trump accuses Democrats of 'trickery' over candidate with same name as Alaska Sen. Dan Sullivan",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjdGZjVxZndiVm1MakVaMlpuZ3FFOHEwX0pMYXBUdkllcmo1VkZyTWxTZnZ2OWlQOEtEQ0N1RXVoMlpwRmhHQjBuQ05JYmQ4RDFPbjVDTWZyUzQyWF81UW1INWx0QjdONFo4U0laLUpYZk92bnl6MFI2Y2tsR3JRckF6TEFndE9yRUI4YXdJNEpQVDZpc1lfY00zd3hMN1pZVS1Ra0NCbTdYQdIBrwFBVV95cUxNOUhjLWUxSlRnTzdEbENOak9zMFhUSmpWUWdVLVlyWUJxZEtzeDI2QWVDR210MnlGb1JONkx5cGFpdi1xMU51dWxEYU84WU5XYzFsc28tcHMtQ004S25YVHZPaFZfaEFENURLREQ3YU55ZC1SWUZWWE5Qbk9ZZ3Q3YnV6ZFBFTXlJU29mOFRQQURSejBXMmU5Q2JuS2tvZjlvS0lGaXhiZkw1UHJyR0JV?oc=5",
-      "source": "abcnews.com",
-      "published": "2026-08-17T07:25:26+00:00"
-    },
-    {
-      "title": "A Democrat is leading polls in reliably red Alaska. Meet Mary Peltola",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWQ3elk5WU9kU1VhcDBNVWsxU2t6eEhBMW1NT1gzM1ltUkFqZmxjVUdpQWttQXpkVEJzUWNWNWJKZzJJbkRNOHdLbEdKWWxncHVTTllTQVJCQ1dFTklwVGZJZDlBbFpEOTNaVUh3cVNGSXE3RHMyZkhZWlhueHpiZkNERWdvbHVFdDd0bS1tWnVwMHAxQ29JZFJWTmZkQW14M1dlbzVZNGxTZnpSRjg0N2oxZmpmdHppV0pBbTY0VkM5UQ?oc=5",
-      "source": "USA Today",
-      "published": "2026-08-17T07:00:00+00:00"
-    },
-    {
       "title": "Democratic primary turnout soars in Wisconsin, other states in 2026",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEZVRlZFLU14dGw0Z0xzcUl3a2VIbW0wVS10Y0p2N1VFOUtndVgzaGRJX1lqUFNRLTUyWXc1cHNrMTVfZTFQdW9QSVBSLTFWd2tnV2ZjT0RrLVBLdzREcUcxT2ZvM3J3NW5Md214Rkh5UUs0X0UtTjltVlR4OWhoSnhsaTZkYS1nV0JXRFhEN1RWRXRPby01TkpkeGhrS2lhd28wOQ?oc=5",
-      "source": "PBS Wisconsin",
+      "source": "pbswisconsin.org",
       "published": "2026-08-17T04:32:54+00:00"
     },
     {
-      "title": "Alaska Senate Primary 2026: The $2M Super-PAC Spoiler Play",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHJldy1yWlNKc2hVVVo1NFE2dDhSbTl4Wm96ZDhYRGU3TGZkbUl5bHg1RnJmUkFHcUllbUFVZWtSTjlPaFk0c3EwZEtScUw4NmhWYlI4TUVydlJqazdMb2M1elp1NHhBOGdsQUctTXJ6S0Z4NzVHVlk0NWU3LWVodm1lVkxrVDFpLWtOZUZmUTNaaEZIRlNzNnQ3YXR0Zw?oc=5",
-      "source": "OddsShopper",
-      "published": "2026-08-17T04:07:15+00:00"
+      "title": "Jon Ossoff’s takedown of Trump reveals two very different versions of America",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZaUFBbzNaSG4zeUxWNk01dG9YNmpUYUJwbVZnZVB2TDZrWVVselJ3bWxFQVFpeHF1eS1CME5iTWR3Z0ZqX3I0MkxkRzVveThGb1VIWURSbWItQ1ljWkgwVzNmRThTakY1MHE4c2NTQ0l4cW5Ed1NiekNB?oc=5",
+      "source": "cnn.com",
+      "published": "2026-08-17T04:00:29+00:00"
     },
     {
       "title": "Alaska Senate Race 2026 Odds: Peltola 93¢, Two Sullivans",
@@ -64,70 +112,22 @@
       "published": "2026-08-17T00:54:19+00:00"
     },
     {
-      "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDBGa2FmYlNDOTM0RXM4SXhYV1lRS1VpLUR0RGVPVWQ4eFhSdV9LTjl1ei1FUE5vaXl1bU91am9PS1Q2a1FJUWdEak4xWl9Kd1pLajE1MGJmNTduMDJXWC1IM1NRQkVQY1phWkx0VmcxUWptcHQzS2lSa3lta3JkQU5WdG96RmFDc2dGc9IBkgFBVV95cUxNOUdBcUlNREJiLUhka3VMTVhUajVCRTducmp1Z0JqeG1hWWFiU21kMzAtN1R5bWlUbWoydGlIWjdYU3VqX3RPTzFHeG1hTXlkamFNWkRqNkdLeXlBMXZsSVU1Q3h1UWtEcmF5OENQUldFcFdPT0cwZ1FJaXNVWHBtNlozMWxWNkdRaWl0dnlNcExfUQ?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-16T13:30:01+00:00"
+      "title": "Trump accuses Democrats of 'trickery' over candidate with same name as Alaska Sen. Dan Sullivan",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjdGZjVxZndiVm1MakVaMlpuZ3FFOHEwX0pMYXBUdkllcmo1VkZyTWxTZnZ2OWlQOEtEQ0N1RXVoMlpwRmhHQjBuQ05JYmQ4RDFPbjVDTWZyUzQyWF81UW1INWx0QjdONFo4U0laLUpYZk92bnl6MFI2Y2tsR3JRckF6TEFndE9yRUI4YXdJNEpQVDZpc1lfY00zd3hMN1pZVS1Ra0NCbTdYQdIBrwFBVV95cUxNOUhjLWUxSlRnTzdEbENOak9zMFhUSmpWUWdVLVlyWUJxZEtzeDI2QWVDR210MnlGb1JONkx5cGFpdi1xMU51dWxEYU84WU5XYzFsc28tcHMtQ004S25YVHZPaFZfaEFENURLREQ3YU55ZC1SWUZWWE5Qbk9ZZ3Q3YnV6ZFBFTXlJU29mOFRQQURSejBXMmU5Q2JuS2tvZjlvS0lGaXhiZkw1UHJyR0JV?oc=5",
+      "source": "abcnews.com",
+      "published": "2026-08-16T23:52:37+00:00"
     },
     {
-      "title": "State, federal candidates take Iowa State Fair stage | Iowa Campaigns and Elections",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEh0Ti1ROW4yYTZoUWF0Mi0xV3JodGVQeWE1TUt4Ukhtc3lSN2tIRnBNWHN0WTYzSUVTVkR2RXZvamxFbC1MNXdCblhKSDFmOHJjRGpCa3NCcHBOcVdob0JnSlRaa1g3RkhDRkxPVlhmXzR0cDRmbVd6QkgzMmxYS19FR0dmYVNLUHI4bEs1NHQ0X19HSTlReFQwNEhFamZOU2Z3RkNibkdiM1RLVVkxc0xjX2tsVThSckx1MG90WHlNQl9LRDBRV19mRE8yYWhlelZV?oc=5",
-      "source": "thegazette.com",
-      "published": "2026-08-16T12:40:00+00:00"
+      "title": "Could El-Sayed Cost Democrats Michigan?",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbUJING1rR3d0M1IyRnN1QlE3Y3NCOGJnQnpBOXpJU2t4cTVTdzJ5QWFudjZWOS04S2o2MWxjR3d3bHdxSXpxNklGTlF1Y21QanpDa2xiUWFFWEJVcnV1Y0FLRHAzcDFmRk9yZURmZkVOcS1oT0xmX3VPa19HVnAtR0NuYw?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-16T19:12:15+00:00"
     },
     {
-      "title": "Shifting maps and partisan fairness: Examining key trends in 2026 congressional redistricting.",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeUxRVElNeGJSTjJRLUNpZTVzNWR2dldpbkxGUTVxczJOc1dSR1E5WVJ3UUpGMEFZYzVvRmdKWU9iZHhIMENQd0hZNXl4M1dxOWVlN2d2czBXVEl4VkFFT0NVb19wNjVMblZYb21kZzdYbWl6X28yblVoTkJneFdpRmItdEdPaWM?oc=5",
-      "source": "The Fulcrum",
-      "published": "2026-08-16T11:24:19+00:00"
-    },
-    {
-      "title": "Where Trump could spend his $400 million war chest in 2026",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlRDY0gwMld6U3RBcG1VLUdSNzVHdlNaaGxINFNQUGlRN2R2ODVLcHdacVJkZFNxQUlpSk43ZTJyUEY1aHJjQWcyXzMwQUQzUC1zX2hnV04wZGU3Y0pTOURfNF9oMHJrc2taUTRSSm14bms4U3RvTkZpR21LalVGS2stN3dFY0tCZm9yZmtBaDl1NG5mcmpuN2IweFdPNlp0WE82M2FBLUZDTnVkMHZtZld6VGdPNXd3S2Jocg?oc=5",
-      "source": "Washington Examiner",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
-      "title": "Trump’s midterm malaise: endless war and high prices could spell doom for Republicans in November",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWDM2SElfb082WlA5dVhQNVRxQ1c2cWZVM2F6QXg0czdkMmNJYmFYMTRXSTY5RE5NaUdkM0tCT2FVcUpGZElnbHJCTDhMazRTOEUySWlqQU5pOVlvaW1YcUxQV3MzT1U0QkEwQTl5U2hDOFJXTTVMMmVDV0M1M0NwMUpwbkFRUUhyOWJqdXV1ZEJ6R3dQVU41NW1XUmlBaml6VGRNcGhnaWVhdUV0LVpSME1SNk56SFVTMVJpOTk1X0VNdnVHYVE0LVM0aVlucndhREhwYy1IMDQ3X00?oc=5",
-      "source": "The Guardian",
-      "published": "2026-08-16T10:00:00+00:00"
-    },
-    {
-      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVmdtbEFQdWNBdG9NVkxPNHZYZ3hkUW9QWVZXUXRRZEZtT25rVFFRM1Y2SDFvQ2NIVDRuNTdmbXNpcmVQZnR0YmNrWG5weGM3cjFZS0luREpibE1fYlI2ZHFPWkJ5eWxxMUxpaWx6UjRKaS12UHJIY05DallBVFIzWmdnLWo5b0RpSjVWWmRYdU9NampyMlUwT2t6d0prQzIxUVpHVVVPODhJSVJLaVJlQm9YYU7SAboBQVVfeXFMT2l3VmJ4VUVMVll2QnNGbUpvXzZRa3JrWU9jR1JpTE1uWDNVd00ya1J2ZkZ5T3dOYll6M1JmeE1HQnFKUzlpM1hORTFWbnd2U2ljN094QkhrYnE4TEFidWRPTlFtMW96VVdtM1FDR3U2LVhIOEhqSC1wN2RaZEtLSV9QeEwwaUM3M1d4Q1p3eDZzdlZ2NWtqemJVVGQ2V3dEYVFGSGE4M2NrVzBoNzBseUZhZTl6ZkF5RHB3?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-08-15T22:25:47+00:00"
-    },
-    {
-      "title": "A tour of the 7 key Senate races",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RbHBHdEMwZnZ6YW9veERFWFBXdTNrUlNnZG9seWhtQWdleE5YVVUycHBGdEZqRkVKbGpRaFR3NTM2OGwxeU1IcldQbW0zLUhFU1RZanBGdEJmanFkSlZhSFVYazB4cHhKclJmY3J3?oc=5",
-      "source": "Silver Bulletin",
-      "published": "2026-08-15T18:04:42+00:00"
-    },
-    {
-      "title": "Democrats abandon Senate races in deep-red states, boosting independents",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTklKMTVNWkpQNU5mUER2ZXJQbEdVQVNYNjUwSEdESnVMVlF0bEJwbWJlUkQ0bGFaWWRSTXNpRDluRjJ3cENWTEJDeTBxUzdDekZKOUpmWjVvdTEzUFZwWnQ4cThBT3Z1REdGNlMyeWM5T1B2TFRITUs2aTNoUk9aVnQzOHdzTUdfZm5YX29TUzY1eTIxTFBRQ1pvdnozYS1pODYxeHh0TGo0a25XbmItdA?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-08-15T17:00:01+00:00"
-    },
-    {
-      "title": "Trump heads into general election season with string of primary losses",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ob1pZNE5jTXNPbWZ4bnhKT1duQWxRXzN6TlhvQ2NTSzVzYnpESGhHVEpnWjRsT3gzenJab0VVbTJJb3RHVVV5eGxhRDhOTVhHYUsxT2FmMWJVb3I1R0NaMG0zc2I0R2dvc1FyRWFjLVJpLXM4NFlQeU5XQlRjY28?oc=5",
-      "source": "Politico",
-      "published": "2026-08-15T16:01:00+00:00"
-    },
-    {
-      "title": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUx4dWd3SjV3UUQ5UVhSeFNweGlMeG9YS3E2MTZNRTI1bS1DdmJxbV9UbGNOUktFWkR4a1JyM3d0VjFQa3RJbHZYbUpKU1JFNGhZRlI3dDBZRm4zS0N6NzdYcl9wOW1PcjllVWdxN2dTLUJsdi1tQlVBNkR2OGktNUpYRTFGS20wYWtLb2MyRdIBlAFBVV95cUxNelBpc3QtajI1aTVjYXByWkNMalFZVDNCbmd3YS1xV2RRRGtyU3VjRi1fQXJCZDVIakhPNzNJMzFwYzNMSVhSWXh0R0pyeEpiRWZkZ3RxYzdjYUxOYnZzNXBfZV9pNUJVRUNGZkZuazdPNk9jOGZmM1BqbUtOVW5Rc2Mya0FUYWJHSzJHZDdyNG03T3lh?oc=5",
-      "source": "CNBC",
-      "published": "2026-08-15T13:00:01+00:00"
-    },
-    {
-      "title": "FLIPR 2026 midterm election forecast",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWjFMc2tINlY1LWQ1RGZtUUJpZlZlN21hNF9iYU1TME9sSmhNclhGM3pmZW54a1JMX0F1TUZSeEtXWDlidVVDRWpUVUtoT0IzdEMyODhrWVRvSlRKd3pDdkdIOUpodHN5aHlJU2lZbWpweWt0a2ZScENITkJzdnc?oc=5",
-      "source": "Silver Bulletin",
-      "published": "2026-08-15T12:30:21+00:00"
+      "title": "Tiny electorates, big consequences: What Alabama’s 2026 primaries revealed",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDBSa3FDQUdqN3Bad2w2anBjdWVqTzRnNFBxc3c5TkhnTDF0ZGduQ0hTd2ZXRWJ0NEpQZURBMVVVWnZnODBhcWJLam54ZTBpUzBOVWhleFYyX0VtSVNqQXRLZl9SWnFsMXlYS1hWR3R5akVGOWtMNzh3VGEzblJ0YmFzUTFSSXpOMTNzbl9MR0xROC1Sc0lGdHR1eWV2X1FyWEdpdGVHMUd1NWJM0gHAAUFVX3lxTE1YSW52WHJWeGZMQlQxWmZBU1FHZjNHb0lWN1RMamt5T3NjTnBubHBRUGktWjVrc2tVbUxybThxODNYalFodlBoNG5EX3Q4Z3YxYi1OdWhDMS1OZ1JpMll1UEFic3lMcl9uSm9Pd0VKQVd3a19DSXN1UnRlb0w1TWhrNDRKcGlhV3BaRllnNFBhcmVJYV9iUlJTSGQ4SktyMVpUVUpaR3A5NGZjYzNvS2RVa295eVdQQ3pMVjBWd1N0WQ?oc=5",
+      "source": "AL.com",
+      "published": "2026-08-16T16:35:00+00:00"
     }
   ]
 }
