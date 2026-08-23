@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:19:20.945257+00:00",
+  "generated_at": "2026-08-23T18:14:54.447917+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,22 +10,70 @@
   ],
   "items": [
     {
+      "title": "Ex-Mayor Dan Sullivan backs Dan Sullivan to beat Dan Sullivan in bonkers Alaska Senate race",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPandrR1NYNWhqX1FTRnc5N2JzNXlMWHZtSllsX2xpN3VaNmZLVEhjdi1JZjU5YnFFbENIdVBWM1ExdmwxOGlzeVVsM1BqbkZLVmdkRWd2ck1XZWNLcWVsQk13RWFCMlhMTjYxSFV4SGpmYVZfc2Zyd0hnUWlkX2xYUWpFWnl1bTZxN0ZVQ2xZRWJoTXdlSW94R1RZdXd5ZWozVWhZaFVXeVlGV0xzUjJz?oc=5",
+      "source": "New York Post",
+      "published": "2026-08-23T18:11:00+00:00"
+    },
+    {
+      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGtWdFJrYW5jZkhTT0FDNHNPT296YmNFWmZKS3lZd3h0djJjWU1DWGw0WEFvX2xweUxQVjZzYXRUWW1QMnNSMFdYSDg4Z2hYSThMOXFYZ2FlekxXa3dfYkVKSFhiR1FYdmF1aTNsRm91WUJ2ajB5LTJqWHAzT0l6bnA4STBHVVhRRzhkTGNRbnE1eU5fWGEyeVpjdlFwUU5OM2diQ2VieG4wWVVsU2dR0gG0AUFVX3lxTE00VTNla2wwcnVaLW9RZ1c1alZuUjI1LVcxZlF3VHZPU01rZmhEal9pVDhpa2xHZFRSUXhQRDZjVHloZTdpRkxhNEMxelZWUUJXRndRT2hrNVlCOXoybUlHN0x1dXQyODI3Vm9jbDEtNk1wcWZ1ckJDZ2xCNEo1YXFsbEJWZGRwYjA2RGtBVmNZN1hkQUVJckJvNWYzdlBkMzU0d1pSYkhLNXdxSkY0QjROb21ubA?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-08-23T18:00:00+00:00"
+    },
+    {
+      "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFdhUmtGRnFsYnRJblp0NXZ6LVNsWC1BRl9rTll5NV9sTi1WcFNnelBvVWdIVUxmR3BpZU1RRjBOaDI4MjlxS0JueTN2QkJFNFktRlpRYUpoVU9hdVBhMVZGbjFDUHJsRXg1c2FSWU8xdW5kVFV6SWhjczJNM2x1eWRWYlhMVWRBcFQzNndocDJOcUtiTWtZOS1yb1RmdEduVC0xXy1mRUc?oc=5",
+      "source": "CNBC",
+      "published": "2026-08-23T17:58:06+00:00"
+    },
+    {
+      "title": "Trump laying groundwork to impose national emergency by sowing election distrust",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjk5Ukp5RlFOeS1IWVFZdm92b2JRSllVSFltWGxyYnlDZ1VOb2QzVERSRGJWbmx0WFQ2LWlwQW5hNHhRTlFVcGlEZVlkSmJodVBxTTE5ZUNMcXB4c2Z1cGhZR0hzNkhJUnYxUzlHa0cxOWdoYUFIMUl2ZWVHZWhtenpoY2g?oc=5",
+      "source": "The Guardian",
+      "published": "2026-08-23T15:42:00+00:00"
+    },
+    {
+      "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2RyLXFQbVpocEFDRVQ2OERLNnhMWGdfUDVtOExBd1I4OXhKZW9BZmxHcXB2SmpHbE9XMnhlQ09oZTZPLXNUTDBaWUxYOW9PYk55cFc4UEtVODVyU0tWSXhfbVpseC0xaUQ2VmtJcWF3REJEUjQ3VGpHblJCRG1peEw1cUZHcGg3MHJaQg?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-23T15:07:34+00:00"
+    },
+    {
+      "title": "Mike Rogers Asks AIPAC To Stand Down In Michigan Senate Race - Analysis",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUThaVWlBOG1DbWFpQ2czOE5rdWh6WGNFOGw3SFZlQUN3OTVUYUQwTTUzT0xKb3FoVmtPc1JMVTJBT1V5a1dHa1E2a25jY1lVcFM5aHhFX1VzWnRqcm5JQ0ZuZzl6aXdwakZmclJOWnlCVm8zV3M2MFBtMUZyLU9zNzdETkNqaVVBbTVXeEZQdmNoLWZ5YjlLYUhfNVZKbTZuRzd4VFdxTUJnUlY5OW5vY0tJVGExOER0S2RMc3NqZENTUjAzLTlPQVZ3?oc=5",
+      "source": "i24NEWS",
+      "published": "2026-08-23T13:48:10+00:00"
+    },
+    {
+      "title": "Dems turning more GOP Senate strongholds into midterm battlegrounds",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDBRNWZMQ1AtbzEyZ0xwV2NDYlJCTnplMVRfZGhEWjc3ZW9sTGlzZFJ6WWIwcE1Cei1yNDF0OThUTjRybkJOcHhSWThWZExacWJ6TFFPY2lmUWctYzBFMGtCQngzSEMtRVlVTUxRY01mcE0yTFZuQTNKOW5Zd191aGx4ZEdNeWR2a2lXYmhRQnFqZkk4?oc=5",
+      "source": "Axios",
+      "published": "2026-08-23T13:16:45+00:00"
+    },
+    {
+      "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93UXJQUWQ4OUsySzhyYktzWTF6V3lEMDE1aGJHMm1SZTJvcnJYVlN2bHVqakMwNjJOWDZnemdNXzRwbl8xQWRZRVVUa3pocV9USEpyY2dXTC1hYktsVng2VllUQkxkQ1FHc2ZsNWpWTm1QTjhN?oc=5",
+      "source": "Axios",
+      "published": "2026-08-23T12:22:12+00:00"
+    },
+    {
       "title": "What big races are on Utahns’ ballots in the 2026 midterm elections?",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUR4TWpreFdZSldwcGIwRFBiN1FiajNHN1k4X3BYSTNoV1hSdEJRUEtDRTNkcWRpY2lkaG15SWxoeFIyQjBqU0RWQlIzUFc0VmdrQmRWRVIyTnVVQzBSOE1jWXhMU3NjbEVUU3d1VVRqaExGQjhheHROalNBRU9Ea0o1RmU1YXpK?oc=5",
       "source": "The Salt Lake Tribune",
       "published": "2026-08-23T12:01:59+00:00"
     },
     {
-      "title": "Mike Rogers Asks AIPAC To Stand Down In Michigan Senate Race - Analysis",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ05NVG9PaXNNNDd6dWVIZi1yclh6djZGYnpVNkl0ZUhGODFrM2FxeGxlenVlU0FKaHhSaU9ObWRDSjdlTTRYSl9obUJBc0pPSDhIQ3FXU2dFcEdXN0lHSXQtODJQcTdERnphWFM0UjE2TGpqNkhocTdNMWhFWV9LSmVuUGI5d2FOV1BxdXo1NHpzd3h0QUZuR2tuNFExYVVoU0YyMThQU3FIWm94Y3doSXNUMkhpSUpWT0w2MU1ZSzZ3b05hbjNz?oc=5",
-      "source": "i24NEWS",
-      "published": "2026-08-23T11:55:40+00:00"
-    },
-    {
       "title": "In Michigan’s U.S. Senate race, it’s ‘Trump sock puppet’ versus ‘fringe extremist’",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbW9xV3F5dnRsdF9TcW9jd3Y2MTJkbmlwVWRST1U0MXVaTWhHUlVlQkhJMENGZUtaMHo3V3NfaTZnRDJ5SjBZWVpzT1htazR5VGNJYmRPZG1VWHFrcmh4RzVtZjBfRlVUOC1RSUZwa2tMZjFQMnhxVDNUeE1Id3dVMm51dWFFVTJnSGJtTGxHVWJISjdUSnUtX0k2U1FWdzJBaVdWV1RmbHZfblR0THA4UmJkSmxfbW54?oc=5",
       "source": "MLive.com",
       "published": "2026-08-23T11:07:00+00:00"
+    },
+    {
+      "title": "Talarico leads young voters, but older Texans may decide the U.S. Senate race",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGhXeXRGbU1DdW5Bc3pDSmNPUnVLd3VrV2NNTjlLVlVkbk45M1J1Si1Pdjh6bGdVZ0NLMjlCOGg1M3RZbmtOWXp6Yl85S2hDVlA0d242NEw2Ym9ySThnZVAyTUE0S0p5OTQzX3g1b3NQa3lQdzNlcjVMRnVteURpczNRS0w4LUllb3ROSEdKUWx4cEtYeV9HM1BzSXQ?oc=5",
+      "source": "Austin American-Statesman",
+      "published": "2026-08-23T10:47:30+00:00"
     },
     {
       "title": "Commentary: Ripple or blue wave? This race will test Democratic strength in November",
@@ -40,28 +88,28 @@
       "published": "2026-08-23T09:06:00+00:00"
     },
     {
+      "title": "Why Democrats Still Have a Shot at Winning the Senate",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbUJWU095QkNOcGpPeFdUVzNwZTBGdWlybTROeWVXdXk3dUxub01UdDNVeTdiYmtVRWdNNG9iM2RNRGRkRTBjLWUyMnI2d3JQTTFLUnRLU1pKOGhQY2JCaDE1a2UzbHo4UUNLM0xsWGNBUGpmSC1jZ1RTb0FkbWM5elJJa205YmUya3hj?oc=5",
+      "source": "WSJ",
+      "published": "2026-08-23T09:00:00+00:00"
+    },
+    {
       "title": "Election primer: A look at the key races in the 2026 September primary",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3lhZmlKSllqSzlHQ29UTDVzSmxrcWhhbTlqZGRnSHFQalJqQVNaSUhKUWtGM3FfTC1YajlYZ19waVRVMjZIRjdmeXVnREhFYkY4UWRQQUtwS0NjdUEzNEpGV1Y0T1d1U3g5cEd6Rml5dEVLZG9HY3N0NEtaVWxWelU3SGwzaXRJTjBxdjQ2S1ctSkNlcDVJZGpZdmFCRllJeWQzX3ZIX3NpV1hqQXhj?oc=5",
       "source": "Boston Herald",
       "published": "2026-08-23T08:58:24+00:00"
     },
     {
+      "title": "From Foster Care to U.S. Congress: I Witnessed How Aisha Wahab’s Lived Experiences Influenced Her Political Journey",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRWR1c0ZmUEIxdEhyT1BUSnRqLWRIUHZ4anFXMjRKZWFOVFRvU0wwcjF2UWFqbmFnWUY0ZVBQX1dOM0ZTOWwxM04xb1VCODZBRnVKb3lDS2R6MGZjb00xa1dpSmdHTjQ0MHVxQVlrMDhUUlU2V1dybndvRmdZTFBLSDB4aXNtUUNLVDVMZ1pLeDFuM19reXJrRDZnQk9JZzM4eGhxOTFYNC0tNWlaejVSSE1OOGV2RGVoc0NHNTJ6S2tzNEIzUlJsVllLWVJVYnJqOVpBdkE0ZUlFQVFyZU1VR2o5bE9EWnZf?oc=5",
+      "source": "American Kahani",
+      "published": "2026-08-23T07:16:59+00:00"
+    },
+    {
       "title": "Alaska U.S. Senate Primary 2026: Live Election Results",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMHl3WXp5eWNpQXJ0TDd5dmtUeFE2TnR4UEhiSDR3SUk1Z3UxMzhEXy1ldUR6X0JwY3Y0ckEzRmcxQ3ZtUFowS3lkQnF3TWl3NkQ0VVdyUTdpME5naVFHTEprTk1iVnZMQlJtelp5MHBpUW5WaDFsUUktbFQxMVJGTVVsMU54RWpCNXlHZElYdTUxRFpuX1ptVnpPOTR0dw?oc=5",
       "source": "The New York Times",
       "published": "2026-08-23T00:00:00+00:00"
-    },
-    {
-      "title": "U.S. Senate race heats up as Mike Rogers addresses state GOP convention crowd",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3EzdlBrUmRTT212eWNheTdmcWlQcEVJSG54LURib1J5Q29XWlVaQnM0aVZpT3cxTHA0eEcxd3dvTTkzdGZXQ1kwNFpPcjFNOVNjcHhLUWFrQV9ZRlNPTG03NkdUcGs2R09fV0NYODZxenN4cF9oZExzaUVWOE9EdW14MlBpRzk1dUs3THhPS05jSmE1OTZhc3h4dXg0YUM0V2ZHa1c4NWZLdmxRYnU3elJsbVFFN3djanJMaVA2OVZkN1AtOFNjTGU5VGnSAeABQVVfeXFMT1J4VXA4dEpYUHdRcjVFMjJ1WHY0czZmem5Vc0VDZHZqem9lQ2xnU041RGVGQzVzWFowNWtXTGR3S1lIUnRIREZCc1YxU0tqRGdDcTRmcGlnNGYxbTNpd2hrVG1QSXNDdG11MS16V1lLRmRQMU5kVWdSSS10bi1WaUlqX0NJQVNpYk1MTS1VbFpQaFlHTk81dThIaWE0WVpHZlVGTWlUTGlMUGQySHRUQU1HUDNhSGV3dDVQSy1FeVRwVTRRMk5fazhZQlF3dXRudTlMZVFFVDdVaVA1Rzc4NFc?oc=5",
-      "source": "MLive.com",
-      "published": "2026-08-22T21:07:00+00:00"
-    },
-    {
-      "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93UXJQUWQ4OUsySzhyYktzWTF6V3lEMDE1aGJHMm1SZTJvcnJYVlN2bHVqakMwNjJOWDZnemdNXzRwbl8xQWRZRVVUa3pocV9USEpyY2dXTC1hYktsVng2VllUQkxkQ1FHc2ZsNWpWTm1QTjhN?oc=5",
-      "source": "Axios",
-      "published": "2026-08-22T19:22:12+00:00"
     },
     {
       "title": "Lake County begins machine recount in tight District 11 Republican race",
@@ -80,54 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkZncnlwamo0SmV1cWt6THVGd2Y0R3JTQ0R2VkpncUxTVFI5Q2dVRzRBYWlkZURfa2djazJkNG9SYk9YU3J3SFNOTy04c1NGS1ZHZ1NhVUdsc2MzTW81cHI0Y2hkS04tMzZpMm16dmE1WGJtX0Y1dHZYRzBKc0s2SkExTWhRdTRtN3psUTVXOTFnd25OVTFXeVBYZDA3M194Ulk3cEIxY0dqRHM5TXlKLS0tVDlwcVMtNEtKOWZhcHVXZ1MwdDBGMjZIeGZZbEY3d1HSAdcBQVVfeXFMTnZTb0kwMUxhZENubWdXUFAzQkF5TVBTem5WTUNzLWZ5NmozM3pmejI2Q3JfRzlRdmFxWTR4b3lWUG5ROUdEVFZjTW1mNjExZEtZQUdnNEpKVGhHOFVTLWVoWC16R0NPcFFPTG9vNHkwaUxtUHpxTk1UMG1NVW8zV3VPTUV2cTdQNjE4ZHJkZTlfblVVUWpMY1ZIMmx4cnFiblVIUDgtMXFHRDFqbE1TVjhacERZYVNPVWh6aDBwQXdJSDJ2UVlxRmRTcEtjRFNGakRJUF9hNEU?oc=5",
       "source": "PBS",
       "published": "2026-08-22T18:01:07+00:00"
-    },
-    {
-      "title": "Top Alaska Senate Candidates Advance as Angie Nixon Wins in Florida",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1UckpMV09GWU5CY3VPWGxobnZnOEh6akZLb0syV3A1bGd4Zi1sSEpFajZ2YTc5UnpBSHpsejQyQnJHRFdQTkIxYlZUb1Rfak43bUFzMjhzc0trZVQxNkRaTWZxdENhUWFVVGMxSGk3N09CUkIxTnMyWTdidmFpb2h2TEk?oc=5",
-      "source": "The New York Times",
-      "published": "2026-08-22T14:37:00+00:00"
-    },
-    {
-      "title": "Florida Senate Primary Special Election 2026 Live Results: Moody, Nixon, Vindman and More",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWJoTzRRNDJOWXo5eC0wUlZSVlBHX1l2NWR4NHloR2hIdWFZRXZwT1hOcHJUckV6S0c4VV9OTTlvWWNxT0ZNQWFTSFY3NS1UWDVtOEsta0UzM2R0blVGaFZUY3NJalNqLVhJdTdNR0hVY0E0OG9KdC1JMTh2ZXM4LTRQakM3TmxWdWpaOTIyQQ?oc=5",
-      "source": "NBC News",
-      "published": "2026-08-22T13:53:35+00:00"
-    },
-    {
-      "title": "📈 Abdul El-Sayed is lagging in Michigan",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOEVzdlhQRjBHenM5eUZRQ3gybnFpRWN3SUY3TDNSaWlobUQxckNtbFBhUVF0eXVGeVBvdWNCNW5fZ2hZVmNHd0tNSWE1Y2E4bm5kdE8yZmU0NEluQkg1ZjY2MHVDbmFFdmg0TVVCSnFrZFE1aTdocnRHRXZyWUlwYzhVTVMxMHZSR25RZ0JQOThSeFpwLTF2MVdBTG1tUmdqaHpuN2FvZnBldXB0YzlNemxpVTB1YzFHWC1xZTRGZm1IX2s1bm9vQU5JVnhCbzRnOWluakxTMFVpV3dob0FVWW1XMXlUbmVFM1V5Z09IdzY1emcyVHR1RC0zbVFPaHp6dEZkdE9wdm92UVAxUUE?oc=5",
-      "source": "Decision Desk HQ | Substack",
-      "published": "2026-08-22T13:49:11+00:00"
-    },
-    {
-      "title": "2026 midterms: Is Trump dragging Republicans down?",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzFnZWtEVEdRV3dJa2p2YkgySXFVbGZrZ1NlR2FXZ0FleWF4Z2FqTEtPb0oxQmoxR1N5RlIwSl9UdFFhdUI4bHhlWjl6QjViTmFmbEkxTTVwOUtJeDJaOWRNcFVDdmYwQUsxX2xnNkp3LW45ZmM3OTZEaGFkZDE0bzMxak1GS1dZaGZxQllfc3N6S21JUTdoRjVBRERIT0ozNDRUWnRtQzRpZw?oc=5",
-      "source": "vox.com",
-      "published": "2026-08-22T12:00:00+00:00"
-    },
-    {
-      "title": "The 6 Senate Races To Watch, As Trump’s Low Approval Rating Could Drag Down Republicans",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWktRQU52dXVwLWd6bkh0YjI2WWFYUkgtUzFKYW5EekpIOU5iZURSOG5oNVlNbDFRcEFqMXRaaDBVbUtEN2diYTFBVWRjZUIxLXItb2tKSVBvTTU2Szlud3JGeG9tSF9VbU1sU1VVMy1yLVUwY1dJLTBlRGNlZUVGR3UxcDJHV1JJVTZqNWF2REhINXNHZUhTSll1c1VTZUpLRG1ISmppN3JJbVNhWThwWlZDTUs3ZTItbmVVRFNwelNMUWNwSUM5WHNaNFc0a0N1?oc=5",
-      "source": "Forbes",
-      "published": "2026-08-22T10:30:00+00:00"
-    },
-    {
-      "title": "Delaware election 2026: Meet the 3 Democrats fighting to unseat Chris Coons in the U.S. Senate",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamZ3cHJMUUR1TWd6NnZpbTJVWlNTazJQc1Y3VFJKSll5ankxaTFUc1VCdWpuOVZmRTBIdEZsbmVoTE5FSnNzWGIteHFwYnZLWEwyUEpUMVVzd3c3MjBKVXBDSFFFMUtxaVlKN1pUQ0g3Z2s2REtfMWc1cTBobzRtd0Rn?oc=5",
-      "source": "WHYY",
-      "published": "2026-08-22T10:08:00+00:00"
-    },
-    {
-      "title": "Delaware election 2026: Meet the 3 Republicans hoping to unseat Sarah McBride in Congress",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVlXdXdtT0g5YWljWlFJZklnNUo2N1drMVRfdGhYYWtCSkF2MDFxUU5TdVczM0lONzFZWE1yb2RqUFRnMTFYRHVlZFZCUVozem44UU5rTEx6TFlFTEhEN1RPa0R0Q2VYV1FPQ3pOQmZndDNEdnZab0kwVllaVVk4dVNwQUVmaTBsTGNyMlhYM1VLdw?oc=5",
-      "source": "WHYY",
-      "published": "2026-08-22T09:54:54+00:00"
-    },
-    {
-      "title": "Trump heads into midterms short on foreign policy wins",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-22T05:04:00+00:00"
     }
   ]
 }
