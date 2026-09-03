@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:17:28.764799+00:00",
+  "generated_at": "2026-09-03T02:04:41.040900+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,9 +10,51 @@
   ],
   "items": [
     {
+      "title": "Trump vows to campaign in 35 House, Senate races in final 30 days before midterms",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2FjTkx3QXpuLUR6Y0NaLXRFMm5pZVJMck1aaTBac3kyekV5YVFCSTEzOWFFLXNrX3BIYThVSVBWNnpHN3Z1T0N5Q29Nb0x2UXdxbEFGdzRUR2FjdmhpdWFfLV9PcmRRYjhkX1lUX2pYckNPU0FuRVdxNXpCSHpkN2FQRUtSdWVpRk9lWW5DekducHlvMURuLWJZRVJ6VzFQZU50TVdvZ194OGI5V0pjbWNHQQ?oc=5",
+      "source": "washingtontimes.com",
+      "published": "2026-09-03T01:26:06+00:00"
+    },
+    {
+      "title": "Erika Uyterhoeven declares victory in Somerville-anchored state Senate race",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM0RDd2k2TElyZDQ4aDU3UlJnY3IzTVBibzRKRHE0Tkk0ZUpCX3hRNk5tN1I5S2FnUTd1Q1h1QWhZeVZYYXNQd0FFcUUwdkd1ZUhlb1NrRHkwSi1Qa2dXSVZsWXFhMllndXNCX1VERVpwb3ZRMlk0ZFNtbEM5MmFGeXo0ZDR5Nm80SGpuMl9GWjQ3TWVFSER6bVVSeHNtLTlSeGZORVp4VkpVT01oY2hxN2dLeXlWT0RDb0RNQlp2cFA5ZXZEOE5UTFdXenNHSWF1bFpj?oc=5",
+      "source": "The Boston Globe",
+      "published": "2026-09-03T01:08:18+00:00"
+    },
+    {
+      "title": "Abdul El-Sayed, Mike Rogers agree to second debate this fall",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeUtqSWFlczlLOUtsd2ZXQm5DU2tLRHZrV3VzU0o1SGdzRHktZ3Q3NUZUaWhBUl84OHdBRzlmVHlrbUo4WEVPdFZOZ29NaFhhM0YyeHNoZ3UxQkc1emRXSTBJYTFaVWQ0MkhNX0xMMjZMcHhxU19jeVNhcVdqNE1rZDdQWjduUGlNU3BoVmpFdWZQRkpGclRUSm1kVGFiRDdxZnNXTVhwdV8wSmxqN0pVR3lubUYzVGN1cmtmQmxpbTc2UE1YWGRhSkIyMmJtWnM5dDRHQVdB?oc=5",
+      "source": "The Detroit News",
+      "published": "2026-09-03T00:02:00+00:00"
+    },
+    {
+      "title": "Presented with bleak polling, the White House moves to make the midterms about Trump",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHFDM1dmaUFjMlgtdjNrTEpxNldhU3ktNFMtNFByNzUxbU1idjdYVUFVd0o2dnJNNzRKUTJUbjcxbFhwTWE0TVhjM2N5ZGlaSUJ4Vm9OVUdtWmEtNDBjVTlNX3ZFcWVSUTBiM20yaWpkR1FDMC1VUDJGTXFwZ3piVzJHeEVCN0treW5JVlhRc3J1OVJYaDJxT0EzTHJZY3NZQkxoa3gzbXFiZVluajV2Z0pLNTZmUQ?oc=5",
+      "source": "NBC News",
+      "published": "2026-09-02T23:07:41+00:00"
+    },
+    {
+      "title": "Senator Brownsberger deadlocked with Boston Mayor Wu-backed challenger as recount floated",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeU0tN2VMbExfSDJQMEhoNE1NZ0Z4ZDVPVUw3VE1ndE9CbXJ2U1AzY0s2T2xjNW5GRVRQXzNUbXlEekxDZ0pLbnRiWXp1QzdYeGlaZm8zNDgwOGM5QmZNMHJvWTBvRjBQWGFPY1JCdEMwRk5qUGdHekZKdW50MU5JWHNMc3VOSjU4eUxzUEhuUEdvZW1vZ09NSlNoUDdBODZqQWY3QU5HQmtyWmNtWmw0ZENjYWZ6SmthMEZlc1Q5dTJiZGpXNzVBWGdn?oc=5",
+      "source": "Boston Herald",
+      "published": "2026-09-02T22:00:30+00:00"
+    },
+    {
+      "title": "Election 2026 House Democrats",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2swdXU4MXF1OEMxOEhDZ1EyWHhZT1pWbHV2NlNEUnItMXVFQXgxSDJiYjlyUnJGekVBR09OUzRtd25DdFkzNmNEejlENlVvTFh4cUVhV0ZrM3lrOGhNSDdGLXMxYlBDSTlvSHNGSmw1cTd1aVlhQ3JnZ2lDeTZHQkFWT0JLQWk0TzRyT1JpVTdCWUhfU0ZUeGw1a0dCbEgtSnU2X0lLNi0yLV9jTlNlNWpWREYyZWY1aUxfb2MxUmowQ1E?oc=5",
+      "source": "Idaho State Journal",
+      "published": "2026-09-02T21:43:50+00:00"
+    },
+    {
+      "title": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-02T21:08:04+00:00"
+    },
+    {
       "title": "Amaral wins narrowly over Silva in Fall River-area state Senate race",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS190dU5vV29DckFXLVJOQ2djN2JNU1NROWh4dDhxY21IX1hFbVJOcnQ1MDRCSWVkV2tSWXkxVG8ya0dUb3BCY2JWUXVycTA1Sm1VNk5FTTFBOXBaZTRsSVB0dFppS2dsV0NNcnJuNm5peUh4M2N0ODRkQ3k3WTU3aVFfazlEMWFuUFBELURPQVEyYkF3bVNYbzhvb3gyNG8wSnpvNjEtVndUbXNWcW5DbTVWUzFkYmVfZ1pwdWduU0IzOXZi?oc=5",
-      "source": "heraldnews.com",
+      "source": "Fall River Herald News",
       "published": "2026-09-02T20:01:00+00:00"
     },
     {
@@ -22,10 +64,40 @@
       "published": "2026-09-02T20:00:00+00:00"
     },
     {
-      "title": "Massachusetts U.S. Senate Primary 2026: Live Election Results, Markey vs. Moulton",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWU15Q0lDQXNpckR2M01JSzc1TDJnYzVqVy1vT24yamphdlJzLXJVa2RhVXJ6clJrZW5nYVllODQ2VFl4UjhpbXhxclBqNzljUUNyTmFxaUNFTGxnSWlkS0hnMDRKMFdjTHM1cjFXOGxMRk0tQXFUTFFlSkZEVV9KY3lGeTBFSFd2cGR1T0x0cE1iS3B2Zjh2eEhyUFVabm5rWTJWZXlkQQ?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-02T16:46:00+00:00"
+      "title": "In Maine Senate race, Troy Jackson misleads about Sen. Susan Collins voting record on Trump tariffs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNUtHaWZxNzNVZWVzaFFUTlF6ZzFwU1dWRTJUVWV5UVpIMktqQlRjd01KV2Q0c2VqQi1xUklQSjcxaWNlQWpnS0RDQ0c4ZzJHZXprSHZTN1pLUXpOMk9ueG1DM1l5WlFWcGNyWHpxVDRDNWYyUkQwUmRaOFhJXzNXalNSMjczY1BpcHh1MWd1WnI4OFR1SnRpcnRZeDdGcE5jeFE?oc=5",
+      "source": "PolitiFact",
+      "published": "2026-09-02T19:30:34+00:00"
+    },
+    {
+      "title": "In Senate Democratic primary's final days, Pappas vs. Manzur race appears to be tightening",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNDhPQll2UWQ5LUtNeW13VzFQRlFFSUVlZnVBZUxmaVJOLTdWQ0VlQXZhQkdMQVlTOFZhT2VZWkhDZEVtSWRBeVNMUG9mdEhSWFRjOTloaW1qa1d4MVFjd2RCMDBmeDRjWlM5eHlia3huUU5ERXg4dTBMRXo0Nld2QzB2UWMwWU1MalU0Rkh6VUlTTTgyWk8tUGV4enhPUzdlMUJMLXViQWZPcFRHYnc?oc=5",
+      "source": "New Hampshire Public Radio",
+      "published": "2026-09-02T19:02:00+00:00"
+    },
+    {
+      "title": "No Democrat has won a Kansas Senate seat in a century. Can a megachurch pastor change that?",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMjdJMTYzNDZSNkpFQ09ZT2p2VHJNWXl5YWdNZU93cTV0bmNjMFE5c2FBSmdXazFBMkZITFhOd3dUZXZNUktLbndUZmRmRHlLY1Y5Yk53ck5aOVVRYjVmX0x0Sl93a0kxTFBucVR4THBGUk4zelJKQ2R4UzhjMjhhcGxEWTJJTi1aSEZoeF9uLWNfY3lYOHJ1QUhXT1lFVDg3b2JSbERSLXdrSnNISFVtRXp1eTBDWDJMb1BNMmdSaFVnUQ?oc=5",
+      "source": "WTOP News",
+      "published": "2026-09-02T18:02:11+00:00"
+    },
+    {
+      "title": "Alaska’s 4th-place U.S. Senate finisher drops out, elevating GOP candidate to ballot",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3RYYTNNOUhjeDIzUWlxX0dKUzNubTFvV19RaUgtNGlIWW40Qkx5R2VPVEtjZnhsZDRWNWZTUXN3U25VU0lIckJHajJYaDNjRzRLOVMzTWVKeG1PUjVlQ29YZnRWY0t3Zm9KclFfd1pIcDdkMTNucW50Z210MkQwVGJWZWlsU1laLUVKOVl2M0RKLXEyUkE2d0haR1ROdUpXX2puZ1NnZXd1N0FNSjJCeENCenJ4Z1R6ZXVKMEl3?oc=5",
+      "source": "adn.com",
+      "published": "2026-09-02T17:44:36+00:00"
+    },
+    {
+      "title": "Shift in Boston Numbers Pushes Lander to Lead in State Senate Race; Rogers Wins Reelection",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXFlVGVXbUxjRk9JOThnNkozT3ZGbWN4RHp5V1h1YVhlckt1cWMwZWI2U25rdUs2aDBiRTlLM0NMMnZzeFR1NnUzcjRuRXIwQy15aFh2XzNHTVZraFUzel82R0xMNUE0UEtPenpVWVdEeml1MWxZa2ZQMG83RTM4VkJaek0tZC1kbGc?oc=5",
+      "source": "The Belmont Voice",
+      "published": "2026-09-02T17:43:17+00:00"
+    },
+    {
+      "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUFabmpOX0d5bnB4dFp4Mmx1VGhsOGQ4QnlOOUVfWEc4Y3hnRGpHenlfcWxCUWVxdW40LXEyNHAtTDBNQzd6VWdieldpTV9SUVNEMk1ScWVuZF8yRmNZcXBLZzlyY0twVWN3QjFJbDNQZ09JcmZFa1Q5YUVIOHRqV3NfYi1KYkxsYjZBdmFEMXIzampXMVdkc3Vyc1lfa3R4c2dPb0s4N2F0OHR3UHNpcGJLemdnWEk1dFdoOUt6NjAwNHc1Mm5Vak5Udw?oc=5",
+      "source": "coindesk.com",
+      "published": "2026-09-02T17:39:00+00:00"
     },
     {
       "title": "Tarrant County Approves 224 Election Day Polling Locations After Heated Debate",
@@ -34,100 +106,28 @@
       "published": "2026-09-02T15:29:00+00:00"
     },
     {
-      "title": "Alaska Senate Primary Election 2026 Live Results",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOV9vLUFvb3Z2Y2Fjb0pUd0Q2RHQwcU55ZVk5SEJXM3J2RWdhZ3FlZWVqc3BaYlV1RHN3ZWhROU1ZUy1icXBQSTVwcVdXcTZVMWZRR2dfT00ydVZsdDVGekkyMHlpM08yTi0xN2FpaDh2eDFRUHhRYjVLUlB6WEhmWUlwdw?oc=5",
-      "source": "NBC News",
-      "published": "2026-09-02T15:02:46+00:00"
-    },
-    {
-      "title": "Michigan Senate Primary Election 2026 Live Results: Stevens, El-Sayed, Rogers and More",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXJRWU5lNDl6V3hMZE5qWXRieXpobzNlNnJIemtKUENYR1kyRDhMMlNuNWZoR25kMWVuaVEzbXAyYzNSaXNSVjBoNXJuQVl0d3dyRVdQTW9SbHlXaVc1SjRJSEZXdjF5QWk0YV9QZXQ5Vm0tcnE1bDVDU0IwMnlmUkcwcUJnQQ?oc=5",
+      "title": "Hawaii House Primary Election 2026 Live Results",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRDlyWmJSUW0yR0ZFNk1lSHlLWVNzUDQ0dnJvX1o4NVhIV0RzSjNpUjFHU3RJNTZJRjV1SndNRE9qWlQ5TmtPZU52QWxDOHFfa0RjUWRTblgtV3kyTlpjLVQzVkZGYWRJcVJqaFIyLXJzRjViVU1iRF9iZkJsZkNjMFdB?oc=5",
       "source": "NBC News",
       "published": "2026-09-02T15:02:46+00:00"
     },
     {
       "title": "MA Senate: Markey Advances, Faces GOP Nominee in November",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OSGlYRmFTeHYyOHVReDJTTEhhci1adzRwbzJkRzgxb3NlU0l6ZEFKSGotZnNfSzBtV2RYQzAtQm5YU19KYVhqVGphanM4NTB4cWZUcERSQm9YRVpWTElhQnp2bkFPMEZGampMSExwb1otZkU?oc=5",
-      "source": "Legis1",
+      "source": "legis1.com",
       "published": "2026-09-02T14:42:47+00:00"
+    },
+    {
+      "title": "Election 2026: Balkcom sprints toward Nov. 3 against Ager",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEo2TkxSdUZSd3NtV2k0Qi16R1I2OFA2TUxMS1hMV1FMQVNwMmhtSkhXOVM5U3ZJeHRKOTZSeV90Z0hNWVczTm5sS0ViSDBfaHdJNExzNkU5cmljRlY0QmhmOW5DWDBfZFpza1J6a0JzZTMxUzU4U2JPcjdUbWhTcjdua0ppWGE4T0VoSXV3NFlfd2N1WmhULXFscFfSAaIBQVVfeXFMTVBPaVJJNFQzdFRpNUtQallkYzlKdkFuRzFvRWNuak9Ua0NFNXdGZEt1eXJSUWxpd3VVWWs1MTdJbUlXZnVOemsxZ2F2dVJYOWl3cGgwTEpRdzBjc0pXa0JZUmpEeUEwZ1hTYmllV05TMHBqV2tTaW9RUEc2cHFkSnFNV2M4NTRLZ2RYcVhvbFEwYmpMMmo4SXNvWHhrUklrVjNB?oc=5",
+      "source": "The Center Square",
+      "published": "2026-09-02T14:33:00+00:00"
     },
     {
       "title": "Republicans aren’t exactly flocking to Trump’s midterm convention",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeENPZUw0MWZNd2l4TlZJRGJpOW5MaUdFaG1SQ0pUSDVFMEdKNWxoX1dHM2pvZFpodHVsdklNNUk5T0VZZURoNmxmdndFV2tkLVdpUWcxWHZmcWs3UU9rSGx4Zjhvelk1UWp6bmpzVWZsbF8zbUxvenJySndlV2ExTVFmUWNyRVM2WWFJ?oc=5",
       "source": "Politico",
       "published": "2026-09-02T14:06:00+00:00"
-    },
-    {
-      "title": "A roundup of Massachusetts' key primary election results, from Congress to the State House",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVFqYzFvSWFmSG9rZzY4bDlqaWZXWEVxdV92R2NnWkoxOFRqaFNBSS1oVF9BZXdrMFVPZU1rd0YyalpNaHVqM2RjQnlVeHl1YWMzWVFCSFFScVE3SlZzQzNBb2VJQ2NiWC1NeF9wSTVOdnpfeHNIUFBSX1lsMElabXpvcDZTSGJLR193NUwwZmJ5S3lLX0NoTVQ4Q1ZMUGoxVXI4cFB3?oc=5",
-      "source": "wbur.org",
-      "published": "2026-09-02T13:48:51+00:00"
-    },
-    {
-      "title": "Keating defeats Swallow in Democratic primary for Cape & Islands seat",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbER4dDRtMDhZN09xT3NxeVlkQ0pvOHg4Z204cnVyaXJHSi1Qc1hqMGZHeWs5UFp0LUNEWHJZbTVjZzFqdGdIY0xEME5fOFAwSHF1TWE2QjFDNElvX2hkUEh5OHZCWTFBdURNcmpiQWhkdEF4X3ItaEdIM0lmaV9MdE9jUjBPQlFraFAxTWRKcUt0RU5nWGMzeExFMGFudHQzV19nV3FyTW5Ia3o1VXlVcWpJUWpqWkViX05qY21pNFpyZ245c1Q2UkRCZlFYcWE3cXpwOXN2RQ?oc=5",
-      "source": "Cape Cod Times",
-      "published": "2026-09-02T13:38:00+00:00"
-    },
-    {
-      "title": "Markey, Lynch, Minogue Win Primary",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LdzJqZ0hoYW1RUVl1N3ZSaVl6aXpIUXNtMUV1WjZ3MWI4VjJEaFdNSVJwNFdidXFxcG1PYnVFcDJWWTN3TXVpTDNIc1FUM01DblpUdmN4VFBkblY1a0wzdElpUEpsWW9Tb1g1Q2lZMFB2ZGYy?oc=5",
-      "source": "WATD 95.9 FM",
-      "published": "2026-09-02T13:22:12+00:00"
-    },
-    {
-      "title": "Election 2026: Edwards, reelection bid already withdrawn, censured by U.S. House",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORnRJMURuOHdwNXZzbUlJR2NBU1hyS1ZvcGpnNXF3SmdtbGRNVU9vdEUzTXBmVWVid08xVmFRMExTYnJFb056cC1Xd3dEWmRsQ2RRU0QyUC1ZY204ZFZBc1lONW00d0dfM0syZDZWWnRadllGS2pyM1pLY0hUVktuV0ZTdzJnUDBWTUJERXBUUFd2dm13bXVQVHVZQm9uMzlYUkNrWm52M1JoTTA4ajd3?oc=5",
-      "source": "Kingsport Times News",
-      "published": "2026-09-02T12:24:27+00:00"
-    },
-    {
-      "title": "2026 Massachusetts primary: See election results from all of the top races",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY0ZUYUt1dTQ1SVNWN25ZVjQ3MEg1YUd2YXl4MzZ4OHBMVDVQS3F4RngwNGZlc1NlZUFRS1NETTYzWGJuTHZTSVZWRXFONkRIQzlYSkd0dzRRZDFjYmdFMDl2TVJhblNBS0NxampFUWdhc3ZKTVYwMjd1ZG1tY2x4T29uUEVxVm5uLW0xZjN3cTYtR2VCMkhpX00wSFYyQ3ZGM25PMEY5bnlKNFd5MTVXWWxKRjRHMWhCMHREdXdyRGRTMFVZX2RnR3hVQ2I3RWExbUJPTFkweGhxWmPSAe8BQVVfeXFMTlYwM1cxUFVxX25vTERlZ1BiR3JUVHdXS21zeHR2SndkOEtsYmxrZmJIemNhQTBBbkViVEtnU3ZGNC1NYXN6Q0JpZlFTZ09NUkdBRTN2N2RicDdNX0Q4N1pJandVNGFZQnFqRTdDb3dLWU5iSVE5YTBHcEdENkR2cDJoY3h6cm1qQUIwWVhHczBKVGpTQUNMX2NBV1BIbE9heGJiSWc1cEZqdGY3VG1VVE1PN09qY0R3QWJ0V09JTl9zdnRYaUpFcjBaV0V4c2RUN191LU13elJObHRsTFVwRDZILWotUDh5R0wyTkdMQnM?oc=5",
-      "source": "Boston 25 News",
-      "published": "2026-09-02T12:10:13+00:00"
-    },
-    {
-      "title": "Texas 33rd Congressional District 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2htS0xFclVzUFRMYVFLSTBDQ1FNYm5pRjBtSUdHZW9RVmxKZ0tXUTFDMk1US05pTEJreVZ0aWM2VFdEUWhrRmpFSjR1Sy1GNmJVTDNyTWZmcG0xajJXeEhOd25BQ2FaaThSODJORzlnMmx1eXAzaURYUmo0SFY2WA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-02T12:01:45+00:00"
-    },
-    {
-      "title": "New Hampshire 1st Congressional District 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXlxbVlpa2VuazZ3R2h0NkhVVzg1NlNyX3BYVnFDalBic3NFTGtFX3RKTkdEM2hsQ1hQU21aRmxRNHltc1BOdUh2aFlPMnd2NERxdmNzY0Y1WURjbkdPVHRHaDBLd0pSX015ODlQYmhLODNCNkttV3RTOGhYSFpQZXppQ0lYakw1SlE?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-02T11:54:24+00:00"
-    },
-    {
-      "title": "Michigan 7th Congressional District 2026: Latest Polls",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTBSWXNQRTFManJxeEE2czZuRGVQbGIzaWlhVVZ4SzRzS2Q4cVJwWklZeW4yUDliMHdYUGdSamRFbWZrRU5iMjJzM3BoVXlydkxjWmVPekU0YzlRZG9oYVFMUVhtZVlDTlRJZlNGVkw0OVNNY2d1M2xYTTFpdFdZYWFvOA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-09-02T11:53:17+00:00"
-    },
-    {
-      "title": "Alaska’s 4th-place U.S. Senate finisher drops out, elevating GOP candidate to ballot",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc3RYYTNNOUhjeDIzUWlxX0dKUzNubTFvV19RaUgtNGlIWW40Qkx5R2VPVEtjZnhsZDRWNWZTUXN3U25VU0lIckJHajJYaDNjRzRLOVMzTWVKeG1PUjVlQ29YZnRWY0t3Zm9KclFfd1pIcDdkMTNucW50Z210MkQwVGJWZWlsU1laLUVKOVl2M0RKLXEyUkE2d0haR1ROdUpXX2puZ1NnZXd1N0FNSjJCeENCenJ4Z1R6ZXVKMEl3?oc=5",
-      "source": "Anchorage Daily News",
-      "published": "2026-09-02T11:50:01+00:00"
-    },
-    {
-      "title": "Will Trump Be Impeached If Republicans Lose the 2026 Midterms?",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ19yclFuSzdWejJKYW0tTmQxb0RFM0NiOFZsdTgyRG9jRHFhbF80cC1aeF9VSTR0dmU5T1pkR21WdGpCNEtJSlVrX0JEVUhvZXlDRTRZaXB1cDJ0Uk5QNUd1WHZteVBKTllNSjUzRzFLb0hFc3drUU5fS21pMlJvU1RMenU2WEJvOU9QZ1VOOXlCVWo3bG5EN1h4TFZKcU9KOGs3eEtaRFZTUjBZa3U0eFZ5WnNUSVY1UnJ3SW9JdVdFQ2RUM1RnbTVsdzAzdw?oc=5",
-      "source": "Bergen Record",
-      "published": "2026-09-02T11:22:30+00:00"
-    },
-    {
-      "title": "Election 2026-Clergy-Congress",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjQ1aGRidnl0dkhmSXd2VE53Q1NOdWRRSUgxVEtjQ0pkOHZrMWlVbDdLQlVxUGh2OG1jWVFuNUJsNjg1U2NQVms3RzhoUzEtWkc0RkRnaXZwbkZGN1dIaC1KN00zdG1pZ09kQUtqVFVqdU9kLUxIbmtUSzVoQWFLV3ZqUV9JSTkwcGw4NmVrS2xNdFo5WmlkY2pRdmtwN1l3TTY0NUd3NG1meXdFZ0hIcW9pZDBTb3BRZXc?oc=5",
-      "source": "Times Argus",
-      "published": "2026-09-02T11:17:02+00:00"
-    },
-    {
-      "title": "Raphael Warnock has done it. Adam Hamilton wants to follow as a pastor-US senator",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSndTMWpZbkcxZjVCTWxOWFNNc2kxTzBIdUxxUHllRTZPNS1KVVd1RUlPajNBaEItVEZNMXJVdUR5bDJwVThoRy05WVhielo0bWN3SG9BaE80SGlKc292RnRqZEZrMUppdEJzS0VCb2c4SXBveEJULTBjeWtEN3g0WkVsLUkxV0xvRXpKRk1UREhIdU9MbDhqS2g1YjZlX25LcWlwbnd2eXllRHRFbEk3NDktQVIzMVhMa0loNXZCcWgwdlFyVHpYeVhfTkVWQXZ5WWFSVWxFQ2ZsSTdmMGp3amRLOTYzb09vX0RJNHo3MHhrbzVJcDNMNEdxUEc?oc=5",
-      "source": "CoastTV",
-      "published": "2026-09-02T11:05:31+00:00"
     }
   ]
 }
