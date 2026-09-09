@@ -96,6 +96,35 @@
     color:var(--brass-dark);
   }
 
+  /* ---------- Special alert box ---------- */
+  .alert-box{
+    background:var(--stamp);
+    color:var(--paper);
+    border:1px solid #7a2e21;
+    padding:18px 22px;
+    line-height:1.55;
+  }
+  .alert-box .alert-heading{
+    font-size:1.25em;
+  }
+  .alert-box p{
+    margin:0 0 10px 0;
+  }
+  .alert-box p:last-child{
+    margin-bottom:0;
+  }
+  .alert-box strong{
+    color:var(--paper);
+  }
+  .alert-box a{
+    color:var(--paper);
+    text-decoration:underline;
+    text-underline-offset:2px;
+  }
+  .alert-box a:hover{
+    color:var(--paper-dim);
+  }
+
   /* ---------- Feedback modal ---------- */
   .modal-overlay{
     position:fixed;
@@ -675,8 +704,19 @@
 
   <section>
     <div class="section-label">
+      <span>Election News Special Alert</span>
+      <span>03</span>
+    </div>
+    <div class="alert-box">
+      <p class="alert-heading"><strong>Election News Special Alert:</strong></p>
+      <p>Sept 8: An investigation by an <a href="https://popular.info/p/the-hidden-dangers-of-musks-votesafeorg" target="_blank" rel="noopener">independent journalist</a> found that the site, &ldquo;<a href="http://votesafe.org" target="_blank" rel="noopener">votesafe.org</a>&rdquo; is anything but safe. It collects far more personal information than the government-sponsored site (<a href="http://vote.org" target="_blank" rel="noopener">Vote.org</a>) and since late August sells users&rsquo; data such as names and contact information and &ldquo;inferences&rdquo; about them to its business partners. <strong>Voters should be cautioned against using that site.</strong> <a href="https://popular.info/p/the-hidden-dangers-of-musks-votesafeorg" target="_blank" rel="noopener">Read the full Popular Information piece</a>.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label">
       <span><span class="live-dot"></span>News Well — Congressional &amp; Election Wire</span>
-      <span id="well-count">03</span>
+      <span id="well-count">04</span>
     </div>
     <div class="wire" id="news-well">
       <div class="well-empty">Loading wire…</div>
