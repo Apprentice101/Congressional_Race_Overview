@@ -14,6 +14,7 @@
     --brass-dark:#8a611f;
     --teal:#33564F;
     --stamp:#A23E2D;
+    --star-green:#2E7D46;
     --rule:#c9c1ac;
     --dash-yellow:#F1AA32;
     --dash-yellow-hover:#d6941f;
@@ -431,6 +432,13 @@
     stroke:var(--stamp);
     stroke-width:2;
   }
+  .map-star{
+    fill:var(--star-green);
+    font-size:20px;
+    paint-order:stroke;
+    stroke:var(--paper);
+    stroke-width:2px;
+  }
   .state-panel{
     background:var(--paper-dim);
     border:1px solid var(--rule);
@@ -482,6 +490,17 @@
   a.district-tile.flash{
     border-left-color:var(--stamp);
     background:#f4e2c9;
+  }
+  a.district-tile-special{
+    background:#E3F2E6;
+    border-left-color:var(--star-green);
+  }
+  a.district-tile-special:hover{
+    background:#cfe8d5;
+    border-left-color:var(--star-green);
+  }
+  .tile-star{
+    color:var(--star-green);
   }
   a.district-tile .d-code{
     font-family:'Courier New',monospace;
@@ -842,6 +861,7 @@ const DISTRICTS = [
   ]},
   { state: "Maine", districts: [
     { code: "ME-02", repo: "me02-dashboard" },
+    { code: "Voter FAQ", repo: "me-voter-FAQ", special: true, star: true },
   ]},
   { state: "Michigan", districts: [
     { code: "MI-07", repo: "mi07-dashboard" },
@@ -888,6 +908,9 @@ const DISTRICTS = [
 
 const GITHUB_USER = "apprentice101";
 const DASHBOARD_STATES = new Set(DISTRICTS.map(g => g.state));
+const STAR_STATES = new Set(
+  DISTRICTS.filter(g => g.districts.some(d => d.star)).map(g => g.state)
+);
 const STATE_LOOKUP = Object.fromEntries(DISTRICTS.map(g => [g.state, g]));
 const CODE_LOOKUP = {};
 DISTRICTS.forEach(g => g.districts.forEach(d => { CODE_LOOKUP[d.code.toLowerCase()] = { ...d, state: g.state }; }));
@@ -911,8 +934,8 @@ function openStatePanel(stateName, highlightCode){
 
   document.getElementById('state-panel-title').textContent = stateName;
   document.getElementById('state-panel-districts').innerHTML = group.districts.map(d => `
-    <a class="district-tile${highlightCode === d.code.toLowerCase() ? ' flash' : ''}" href="${districtUrl(d.repo)}" target="_blank" rel="noopener">
-      <div class="d-code">${d.code}</div>
+    <a class="district-tile${d.special ? ' district-tile-special' : ''}${highlightCode === d.code.toLowerCase() ? ' flash' : ''}" href="${districtUrl(d.repo)}" target="_blank" rel="noopener">
+      <div class="d-code">${d.star ? '<span class="tile-star">&#9733;</span> ' : ''}${d.code}</div>
       <div class="d-state">${stateName}</div>
     </a>
   `).join('');
@@ -999,9 +1022,23 @@ function renderMap(){
     paths.append('title').text(d => {
       const group = STATE_LOOKUP[d.properties.name];
       if(!group) return d.properties.name;
-      const n = group.districts.length;
-      return `${d.properties.name} — ${n} district dashboard${n === 1 ? '' : 's'}`;
+      const dashCount = group.districts.filter(dd => !dd.special).length;
+      const extras = group.districts.filter(dd => dd.special);
+      let label = `${d.properties.name} — ${dashCount} district dashboard${dashCount === 1 ? '' : 's'}`;
+      if(extras.length) label += `, ${extras.map(e => e.code).join(', ')}`;
+      return label;
     });
+
+    svg.selectAll('text.map-star')
+      .data(features.filter(f => STAR_STATES.has(f.properties.name)))
+      .join('text')
+      .attr('class', 'map-star')
+      .attr('x', d => d3.geoPath().centroid(d)[0])
+      .attr('y', d => d3.geoPath().centroid(d)[1])
+      .attr('text-anchor', 'middle')
+      .attr('dominant-baseline', 'central')
+      .attr('pointer-events', 'none')
+      .text('\u2605');
   }).catch(() => {
     mapContainer.innerHTML = '<p class="well-error">Couldn\'t load the map. Check your internet connection and reload.</p>';
   });
