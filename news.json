@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T02:06:04.703611+00:00",
+  "generated_at": "2026-09-13T10:48:05.934454+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,21 +10,27 @@
   ],
   "items": [
     {
+      "title": "Who is winning the midterms now? Latest midterm predictions update",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ05RYmVHUDBtSHE4ZWowcC15VUwxM0tXYVpuZVd1SkZNMTExM0NZbWhUZjBwNXRGa2hyNjVqWGlGQUJEVHZiMHlJOV9OdUNJTkpnMkhXZF91eER5S2Rxa2wxUHVRbXNlT2RZUEJPeWFSZi13NXg2Z3BMcG00MTJ0dXF6ekRiWldaWUtuS1ZxcnkxdWY1LWRxWGZCdjdYVUxtLUtMcFBleXF2dUdablpfVTBzZk8wS3BReUhlZEpxa1Y3Q2FuLUUzRlZqYU9icHJkck9GN19tNjBVWlh0R1piZy13?oc=5",
+      "source": "PhillyBurbs",
+      "published": "2026-09-13T09:09:00+00:00"
+    },
+    {
+      "title": "Alaska U.S. Senate Fisheries Debate",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQjJUaThGaUtTLWlQNlU1M0lzNFVUMklzU2ZvRldSUDJLNGVBbTBlWVp4MUJoZHJMOGc5T1RkaHZKTl9Nb3BOU1NUWXNXZWRFc2k1YzV1ZnZteGhYaFVRVjAxNnJPSGpWNXJobEpOVEJMQlZuZEdJZUFaQVl6Nm8xRW1sNU5mb3I2djNN?oc=5",
+      "source": "C-SPAN",
+      "published": "2026-09-13T00:02:41+00:00"
+    },
+    {
       "title": "2026 General Election Q&A: 18th District U.S. Congressional race",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWhxcWhhejNadl9fWWQ4RDd0bmNaVmFzem5DYmRmeXpQeHhGNm1mVzd0a1pnZ1YydnJ0MTZiTkJ2anczb1dxM2tNOGFTYzNRMTlDRjF3akpheWdFR1ZsN3JoRG5mM0dNeFhLUVc3Ml84Zl9WeVg3clVwZHNlYTgzT0NTVVRwUFFRMU5uemhB?oc=5",
       "source": "BenitoLink",
       "published": "2026-09-13T00:00:00+00:00"
     },
     {
-      "title": "Alaska U.S. Senate Fisheries Debate",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQjJUaThGaUtTLWlQNlU1M0lzNFVUMklzU2ZvRldSUDJLNGVBbTBlWVp4MUJoZHJMOGc5T1RkaHZKTl9Nb3BOU1NUWXNXZWRFc2k1YzV1ZnZteGhYaFVRVjAxNnJPSGpWNXJobEpOVEJMQlZuZEdJZUFaQVl6Nm8xRW1sNU5mb3I2djNN?oc=5",
-      "source": "C-SPAN",
-      "published": "2026-09-12T21:04:16+00:00"
-    },
-    {
       "title": "Graham agrees to debate Annie Andrews in South Carolina Senate race",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWJXNXJUM2h0TUd1MDJfTDRMb0Q1dW5NbTF2c21hY3l4ZU5YQU9JLVJTOHBRQmtTSzlVZWU0dzJiMTJJLXdVR2oxRVUyMXg2YUUyMk5jcmNKaGZzVWRPa0dQVHY2cHNEaExGdlRsdWlPNENrMS01N25meW84Vjcwb25CVXZBY1hrVG92U0JfN1pmVWY4ZVU5Qml5LTlEWEtJektSMTg4ZUlDTVhsOHhVcFJZaUo?oc=5",
-      "source": "washingtonexaminer.com",
+      "source": "Washington Examiner",
       "published": "2026-09-12T19:11:00+00:00"
     },
     {
@@ -36,14 +42,8 @@
     {
       "title": "Latest Senate Polls: Midterm Elections 2026",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "published": "2026-09-12T17:46:42+00:00"
-    },
-    {
-      "title": "Voters guide to the 2026 New Orleans fall elections",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVF9aU2syZ0JrNUs1VU5rVm1MOHpGbHZhSHVscC1hcTJwT01GUFlYUlFKNXl3Uzg3bG54YmNWaXRfbnBSNkdPYW5hczU2SEU4OXh4S056R1E5ZGktT3RQbVUxOUNhY0x4ZjFDcVFfYzVqQ2hWLU5HNVMtSUw2QWlMVFJEWHVTSy1nWEpINjRGSWExUm5pRVMzcmxWQ2dubWJ1U3JLckdiVEhObk9XVi1qenFvZm4tSEdHUUFzV0pGTjh2WHJZOFhjaWlxNUU3THlxaHYwejdoT0tvTzVFX0lDYVN3N3E0cnZ0Wi00UnFlUGNfcTdWWU5iZkhpdEZBSXV0Yk1qQjkwYTV4ZGtxcDdiS1pPa2pLb2RNNUF2aTlFME9HU3MwSkNHWWhYWQ?oc=5",
-      "source": "WWLTV.com",
-      "published": "2026-09-12T16:24:00+00:00"
     },
     {
       "title": "These are the Trump investigations Democrats plan if they win in November",
@@ -114,7 +114,7 @@
     {
       "title": "Will Stark Warnings About AI Shape the Midterm Elections?",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc3dMMk4wRGNHLTNmUW1wZFZYUUdNay0zM3NMb1hrbHQwazBuQ3JfYzgyN2RMWVdMbEdINVlBT0N3amtQQnQ5d295OXB3NjdEY3JtbTBEeEhIZFhfcWFybzZGelNoc0N3RkxvZkpra0ZacHhWUFl5VnhIMk9RN2Mtek9mdDA?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "published": "2026-09-11T22:21:17+00:00"
     },
     {
@@ -126,7 +126,7 @@
     {
       "title": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUNqSWtXT3QtTW92MG9jazM5VkY3bHNYNy11ODN4bFJiSElDTks3OFdjOEpZNlBBZFYtamlJOW42MTlval9WVXNtMnJ2NjlSdUc0U1NKR1hKSjlWc0o2UDJQMklrNVFIdDBxMGt3bE9Db0RVOEFhSnFxbjdQWlIwSF9BRUlaWnBidE15ZldkSTFxRnlp?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "published": "2026-09-11T21:12:28+00:00"
     }
   ]
