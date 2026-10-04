@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:09:52.397653+00:00",
+  "generated_at": "2026-10-04T20:38:52.990827+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,34 +10,64 @@
   ],
   "items": [
     {
+      "title": "2026 Midterm Election Odds: Senate & House",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXTUJ6aWREaUdITVVLeWVoOVpDb2NyWlUyeHdsZm9fREZtM0l6UXNxNDYyTlRCMFl3bjFlWkxIMzdDVHU0M0hYS3VGb1R6LWd5R3c?oc=5",
+      "source": "DeFi Rate",
+      "published": "2026-10-04T19:05:00+00:00"
+    },
+    {
+      "title": "Who will win the 2026 midterm elections? Polls and predictions",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
+      "source": "The Times",
+      "published": "2026-10-04T18:44:58+00:00"
+    },
+    {
+      "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmpkdFV0ZDVROWFQb09hUlFCVlN1NlJiODRqMHo1d1ZQcnFHQWJlR0FjWjhTV09FVFlKUXM0MnU4RWRMRE5COHdMNWNBbHh5dGNtQ3ZhUDU0MzJvSkdnbHBRczNhMU8wNUU5N2twTWZrcHpaZFZoUUVyUURxMW5lMm02Z2U3NllPTTZ0V3N4TjBDaG5CUEFadk00WmxSWHJzd2tFRjR4ZTB0X0pidVBURWlDQ1TSAboBQVVfeXFMUGhtUFQtdl9Wcm9aRnl4ckt5ekxDaTVzNkVGUHBLVVBQeGNPbjVpU0VGRmhuV2VNSHZxaXNncHlzenB3N2kxcHJFX0EwYWp4ck03V3B4WnFidVR4dFAydDBidmJONzVrSnhyWDVLVW84SXBHTHhiZG1heHlzZ0pXV1QxbWxtSHhsLVhkcmY3Z3RFeGZiWFhuZy1aZlRoZjVycFc5cXEtRF9kZTlEYklBYnZ3WkttOXVMMHB3?oc=5",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T18:20:58+00:00"
+    },
+    {
+      "title": "FLIPR 2026 midterm election forecast",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWjFMc2tINlY1LWQ1RGZtUUJpZlZlN21hNF9iYU1TME9sSmhNclhGM3pmZW54a1JMX0F1TUZSeEtXWDlidVVDRWpUVUtoT0IzdEMyODhrWVRvSlRKd3pDdkdIOUpodHN5aHlJU2lZbWpweWt0a2ZScENITkJzdnc?oc=5",
+      "source": "Silver Bulletin",
+      "published": "2026-10-04T17:15:54+00:00"
+    },
+    {
+      "title": "Election 2026: Indiana’s Fifth Congressional District Race",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0xaa0xESXVVcWI1ZklMSHlmcjY3RmhVMkQybDJhZzdaVG5OXy1yZ3hEQzg5WjZQb2xoOUR1RXMwNk03NzNiYktqX1RfenU3aXJzXzdmMHBWMFFJd1hZUGVnbjJ6RTdic0ZrWGh4cE56eTlaSUVzNThQMVhDbXpmOThqSlVsTFhPdGVJTkl6dHhsel94UWfSAZsBQVVfeXFMTzdXQzVaNENuZnZtd193dy1ybHdIejNHZWF0SXJZcWhMRGZGQ0t5UzFhQ3U2UGR5bWdybGU0RkxDUVRWZDhBWExReVc1YVpXSVBBbUpqWE9SRldhd0MtYklJVXA3emJ6eDY3dTJqbGtiVUR3ZXFySERFUVJTbnNUUENfOEFCODNXdmdsbk5IamtrT0dGaS1vQ3hpRjQ?oc=5",
+      "source": "WANE 15",
+      "published": "2026-10-04T17:13:38+00:00"
+    },
+    {
+      "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXdmZU1YV2dDR1JiMUdVWlNMMzhKOVVObXk0LVJHU1RVMlRzSUJnTk9xbzRBWWpfdTBzeTV0SERkUHhqcUxXeXEzNUV5d1FnMG5wOXRwTEdLd2lWSHlpS2RYcUNQMXVUTk9QUGxQTjZjSWlQMGRXZ2ktMHl1cUNSU1pOZ2puVTUzOEtQUm9QOEpyTGpnSmRXQzFoRmU4TWU4TUc3NVp3NVhTeGlzNWUtVk1DQ2ZVdw?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-04T16:32:20+00:00"
+    },
+    {
       "title": "Elections 2026: One month until Alaska Decides",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkFNV0tpWnlPUGxGalExZmgzYTdoUzY4VXQwOGpaMGQtOFlaZDJtczQtUjFyUFRSNG8yMDQ3TWRvNDFNOWdMTU51Q3ZJd1prWGJSbFN6N0J5bjZyX2VQZTVQWDJsMnZCclhzcUhxeDlaUHJONnRTSXU5Q2taNUxzTU10REViU2JDb0hKcWtUb2JibGx3R3fSAaoBQVVfeXFMTllPbUFQTHVvVXZnYy0wb09jbk5xQjhvelZiRHhYeVFmNEV1WTdhVXFVNEZEYXdqTXdWWVM4RE1wTVpRdzVQLTM1WnJZVGp3dmQ3ejFzbXRRS0lXR1JFZ2dLdnVnNmlEeGVjcXcyaFlfdUhoMHROQnlpdzNocE5EMmwyN0FLN1hSWDZlUjdITVFTN3hiOS1ZYjY4RGRicUwxbUpiS1oyZjNBMkE?oc=5",
       "source": "Alaska's News Source",
       "published": "2026-10-04T15:48:00+00:00"
     },
     {
-      "title": "Who will win the 2026 midterm elections? Polls and predictions",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
-      "source": "The Times",
-      "published": "2026-10-04T14:53:20+00:00"
+      "title": "Latest House Polls: Midterm Elections 2026",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wdWtoX2hEV1pta2c0ZXB6cV9ZeU9JbWRwbHZ3bzNucUxlaC1JMjhHcUNPME40UUtDdDZlRF9jUkNjUzVEc0RSVVRwU2ZKLUdMY1FuVlIxcHJfdWsydFllWFh2eV9MbTFhSzVXVUExclk?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-04T15:17:20+00:00"
     },
     {
-      "title": "Election 2026: Indiana’s Fifth Congressional District Race",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVlMRi1RdVN1M3NIZVRNLWVtLWFsQ2VQR0twMzl4YWJySnhRUU1zcXU4VlQ5SExVbTZYbEtidjduUFB5TC1veEI1MXRnZTg2ZnFRYm9WeE82eHMtRVJqaEgySDU0VzBOaWd6UWFaUmtENWZDY0xZYTV0cTEwM3VyTGdVM2drNUduQ0dNVV9nSHl5ek9VdkHSAZsBQVVfeXFMT2Fic09zZlBTdzFOUEtPUENYZ3RsQ0JnY1lUQzNSMkpMOEhEWGw2Z1MtUW9SaEdKdzduQVZJVEpVeUV3ck41aXhFdlk1YmhIaUkxdVlMdFJmcDFDN1BudjloczhYeWoyV1FNZkdaVEtCLUVMdDNBbEF4OTFEYTZEZmU5TXZJNHNoMEFTcU01WjNfTXdVcFg2S0ZjdzQ?oc=5",
-      "source": "Fox 59",
-      "published": "2026-10-04T14:25:47+00:00"
+      "title": "Polls and \"fundamentals\" basically agree about the blue wave",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEF6TUFZeG5va3ZlN0tobk0xMU9qWWFjbFVqcXdpcVlVMTNSX0ZkS01CbFQ3aE9HQkhmU0FURHBWbjZ2d0ExTm9ZRmg3Y1ZIRHRjU0VJSmg5R0c4Y3BYcmdvOEdDYTlLOVZSd09admxyUlltUjIzOHZHVElZc3JQTjN1WldvUWo2dFVTQ0h2ZFVPZ0E?oc=5",
+      "source": "Strength In Numbers | G. Elliott Morris",
+      "published": "2026-10-04T15:06:17+00:00"
     },
     {
-      "title": "FLIPR 2026 midterm election forecast",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWjFMc2tINlY1LWQ1RGZtUUJpZlZlN21hNF9iYU1TME9sSmhNclhGM3pmZW54a1JMX0F1TUZSeEtXWDlidVVDRWpUVUtoT0IzdEMyODhrWVRvSlRKd3pDdkdIOUpodHN5aHlJU2lZbWpweWt0a2ZScENITkJzdnc?oc=5",
-      "source": "Silver Bulletin",
-      "published": "2026-10-04T14:16:14+00:00"
-    },
-    {
-      "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmpkdFV0ZDVROWFQb09hUlFCVlN1NlJiODRqMHo1d1ZQcnFHQWJlR0FjWjhTV09FVFlKUXM0MnU4RWRMRE5COHdMNWNBbHh5dGNtQ3ZhUDU0MzJvSkdnbHBRczNhMU8wNUU5N2twTWZrcHpaZFZoUUVyUURxMW5lMm02Z2U3NllPTTZ0V3N4TjBDaG5CUEFadk00WmxSWHJzd2tFRjR4ZTB0X0pidVBURWlDQ1TSAboBQVVfeXFMUGhtUFQtdl9Wcm9aRnl4ckt5ekxDaTVzNkVGUHBLVVBQeGNPbjVpU0VGRmhuV2VNSHZxaXNncHlzenB3N2kxcHJFX0EwYWp4ck03V3B4WnFidVR4dFAydDBidmJONzVrSnhyWDVLVW84SXBHTHhiZG1heHlzZ0pXV1QxbWxtSHhsLVhkcmY3Z3RFeGZiWFhuZy1aZlRoZjVycFc5cXEtRF9kZTlEYklBYnZ3WkttOXVMMHB3?oc=5",
-      "source": "aljazeera.com",
-      "published": "2026-10-04T13:08:05+00:00"
+      "title": "Latest Senate Polls: Midterm Elections 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-04T14:36:59+00:00"
     },
     {
       "title": "Alabama election guide 2026: Key issues, races, and ballot amendments to watch",
@@ -52,12 +82,6 @@
       "published": "2026-10-04T12:06:04+00:00"
     },
     {
-      "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXdmZU1YV2dDR1JiMUdVWlNMMzhKOVVObXk0LVJHU1RVMlRzSUJnTk9xbzRBWWpfdTBzeTV0SERkUHhqcUxXeXEzNUV5d1FnMG5wOXRwTEdLd2lWSHlpS2RYcUNQMXVUTk9QUGxQTjZjSWlQMGRXZ2ktMHl1cUNSU1pOZ2puVTUzOEtQUm9QOEpyTGpnSmRXQzFoRmU4TWU4TUc3NVp3NVhTeGlzNWUtVk1DQ2ZVdw?oc=5",
-      "source": "The New York Times",
-      "published": "2026-10-04T12:00:49+00:00"
-    },
-    {
       "title": "A Black community in Louisiana faces a future without a champion in Congress after redistricting",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjhtQ2tJZTlGQmtpVnJwdnJIZHdFbFdjT2pYU000U1MzT0d0UWYtYkl4NkE1eHhLbFdRUDNVWjk2d29WOG9NWkJuNkJIR1pQYVF1NHFOMEZKeXAzWWtVdDhOaVNKaHNBRUk5V2wtUkhBcEdieUdwRC1SUUdJOGJSM1BsMVNENXpDdDVTTEZJYWxzUndMamRSQ1Nzd1VQVng4ZUN0NExn?oc=5",
       "source": "The Independent",
@@ -66,7 +90,7 @@
     {
       "title": "Real voters reveal what could decide the 2026 midterms",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CQkZ6RTB5M3ZsWGo5dDJHNTVJTzdYMFVUZDN3dkpZcXZVcGlScm4tMXN0bi1BZ01kNU5KMGZibU9xQnFDMzdtSW1sRjdSSnBmUVZ3LWVTbU1PenNnMVo1V3JWUFFsTnl3TURDek5MaFJDUXdrUmRRc0VTM0plQkXSAYQBQVVfeXFMT0FheGpfaG81eTJ4S1I1MzNsRVVyc3F4aHRDZXh0cXpSWS0wTkY3d1BNbHRPVVFqMzJJRE14RzRLTW1pSlBoaDNqWkZwQk5TbUluVkRXc25NX2ZWYkVFMl9pVzMxM3J0NjhkcGRkVzVDQ1UybWNTYVg5YUhORmNvdjZOcXRK?oc=5",
-      "source": "The Hill",
+      "source": "thehill.com",
       "published": "2026-10-04T11:08:00+00:00"
     },
     {
@@ -88,46 +112,22 @@
       "published": "2026-10-04T10:00:00+00:00"
     },
     {
+      "title": "Trump funnels millions from massive war chest into key House, Senate races: Here’s where",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkczVFd5VUt4QXhUNHBQdi1HRkNDVVZlV1ZRaENaa25JUGZ0MTVPQkVJS3JIVHhOSHloaThsdGJnZGNVN3RsRGtqQVN3eW5GUW5hYnNfWW1PZ2tEZ1JuQkJ0Y1VXcmFUUk9KOWhBN2tmQTlJOW0wcU9PVFNTSE1QSGwtSU91QU5aU2tCSU1peTlJd3FJRW5sVGp0QlktNDFqZWV0U3h0cUlHVDRXRU5SbmxsT2dEU0NNM2lfaTJQOUYwY2lHT2tTQXA1cjHSAdIBQVVfeXFMT0JreGROWGFmSWlNY3ZGVHBpWHA2TUNaSnlkVUdaOGxKNzBWbFpsOWhZMDZHY19wcEN3NTFJTVE2Vks2MmNnZUx1UFZEc1MwN3EwN09BSzFjZ2U3S0lKSmZ2dlpKOC1Ya1A5Vlg5eXJKcmwwVGZ5Ty1KeWpnVS1WWnJzc3c5ZWx6LW5JejJVajZBQjdSN3hSNW9mcnpRekNXTnpJTTZrc3l1VHpQZ1V5TF9CVTRVQjN1Tlp2Y0lVWmlhYXhFS3N1ckIzSTFBRktac1hB?oc=5",
+      "source": "thehill.com",
+      "published": "2026-10-04T10:00:00+00:00"
+    },
+    {
       "title": "'A Republic, if you can keep it': We served presidents from both parties and have never been so concerned about election security",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSkp2WWI5NVA4UWh2UkFLX1BvWE96TENIZndEeWs3aVZuT1ZSc1huWTQ2ZncwQnVBcUJ5ZnZweXQ4UGlYT1doU0NsbnNFUVhnQldMUHM1aGE0b21mVTM5bVpuY1hISWg3VDBUZnIzY0g1ejVmTGtrOHdJaDJQSVV0dkZfRUtqSkJkaUladW5ITDVqd25TYmRrNkF3?oc=5",
       "source": "Fortune",
-      "published": "2026-10-04T09:06:26+00:00"
+      "published": "2026-10-04T09:36:26+00:00"
     },
     {
       "title": "Meet the candidates for NC House District 108",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMktHUTRvU2p3N3pBRUx4MF9CazdHa1VaUG5ZWGV5RFczOWtYanpiaDAtNEluRGlCR09MbWhGTi0xWXVjT0V6ZU5DTDlmMFctTjc1Ul8tT0Z2QVFtMXJnQXBqZFJoVnNFX29zVGRjRHZpWEkxcFdNYWhLZ0pwaWRSenAwWVBxS1BKVUZ6cnEySWpqa1ZGS1VfX2xXdTJ4eGVQOXhLVkJaWUlwbGM0a1FCelU2WFF0Z0JnUlZoWkN0RDJac25VdFNWeldtMmVMU2Z6d0t3?oc=5",
-      "source": "gastongazette.com",
+      "source": "Gaston Gazette",
       "published": "2026-10-04T09:02:00+00:00"
-    },
-    {
-      "title": "Flipboard pins 7 human-curated midterm news collections to its home carousel",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek9ZbW5JMEdTV09tSlRZd2lmcndvNklON0swc3A2SUE3bHFGbzFDRzJiTmNtNzBQYXNjeVFaZGwyZjM1a3ZEVXlOc0NIU0ZqOG9FQzFKdWhEYUpYNHktak1YNFdkUUwxY3FDQU9INW5RUVB3Qk05amZCSk1JS01RZFBmTGFFOG9UOGpCZTVYRkYtTUxsZVNuLXBR?oc=5",
-      "source": "PPC Land",
-      "published": "2026-10-04T07:26:54+00:00"
-    },
-    {
-      "title": "Ossoff and El-Sayed: Two Senate races and what they say about the Democratic Party",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWV9JRXNJZ21YanZjMHlTVTN3cnVySVlVbXlTMkNtNVhtOGtxQ1c5bHh1Sm56bU83ZnNkY0ljUzZMUjl0MU9vTjgyU0FYLURRM19Obm9fSWs0eERuVUp0T1VPOEtBUkVPUW5zb3U3TmN3RVllOExHdmQ1NkRqNndkelBUdGlaNjh2eVJlcVJHbU85VFVkT2szX19lZjR0U09jUzcyTzZFWkNIYjl0UzF5NG0wd0p1UzNsd0VCazZqcWRJQzNqRHc?oc=5",
-      "source": "france24.com",
-      "published": "2026-10-04T07:21:26+00:00"
-    },
-    {
-      "title": "Election 2026: Ryan, Auringer square off in 18th Congressional District",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcUxad3pob3BaTHVvcnV5bXUtbGp1bFBuMG04UUswU3d0eEdvNUJPeXJ1NXo3TndtQ3lJNFpVOGxWSUczdHJJcERVeFI2WnJqMVdWc2VZT0JJQVVybmZSU3NyTm5aYnNiUkRsVVdXX2F3enBxYmRSTVc3VlF5YjFORFlRTUhEeW9mMzRyZGtXRTNlbld4NFhnRG8xSjhjNktfRDg1UUxtM05XZmlSLVRJ?oc=5",
-      "source": "Daily Freeman",
-      "published": "2026-10-04T05:26:34+00:00"
-    },
-    {
-      "title": "Trump reiterates plegde of $5,000 to all adult US citizens if Republicans win 2026 midterm elections",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXdMcmpucHQ4cGQwQUg4bHdvVi1vcENfdmVHbDZ2Sk1KaGxIQnZFVzZIQ3B4SzFrMDNqeF91QldoUmNpSjNZN1EzcDl6SzdiNktZeHdTNUwyTU5sZUdxMXdvOWhhVG5VcWQ1U3Z1MWFnQkRDZ0s3cjJ5NktZWlRBUVFZaWZKMk84c3VlQm0zTUFJX2JOd3pjQzY4bUdMZkhZbV9MZy1CMGctTEQ5VTBGVlNzeXFMQWxXd3BnZktWTjZ6ZDQtSDlvTTh3WDdvYi1WUldr?oc=5",
-      "source": "timesofoman.com",
-      "published": "2026-10-04T04:52:00+00:00"
-    },
-    {
-      "title": "US Midterm Election Rally Is Here? 5 US Stocks That Could Benefit From US Policy Changes",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV21Jb0pnU1doaEo0eGktSzZybks4aEFKMzVBeUpuVlBmODA5d2gwSkFxM3dRR1dBY1hHZEY4c09kbEl2MU0yRnV6SEozcDBPMzAxRzJ4MHdCTUZObVA4cklDOTc3UXZUb1llYnFZVmNEWmh4Y3RYTEpidVR4NU9UZTJGMzJGYm93dnNaZ2Y1Z2JVQk9SS1VDV3RTNHpWN3F2TGgxUkY0Y1pudzZLNmp3Rm54aXZDVTg4ZWxoWDZwUE12V3JncUdlbjBHbXY3NU43ejF2Qm02X0k?oc=5",
-      "source": "TradingKey",
-      "published": "2026-10-04T04:05:26+00:00"
     }
   ]
 }
