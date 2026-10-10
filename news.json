@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:22:40.304927+00:00",
+  "generated_at": "2026-10-10T11:35:21.463936+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,10 +10,52 @@
   ],
   "items": [
     {
+      "title": "Florida polls show Republicans lead Democrats in governor and Senate races, but contests remain close",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZzlUXzU4N0JVUXYzN1BISEF0T3RHS0FIaFFpUjk5TkhmVkVCZ3R6eXZOaVhYenk3OXk0WWZBcVU0TW5WQnAtMjlSLUstSHlFMklfYVVDcUE2X3h5TmxFZy13R3dRdWFYSUpzbkJyaE1NSjM0SGZ5MmQ4Q2dzNGNTY1IzZ0RRVGJIMVY1S3UwZ3ZEeVdtWHp0QTF2V0J6bFBvR3c3S19TVnVIRHZkeHpmOVFWSjJxMUNyS2p2R09iTnZBcGhLYWNjczdMUUN3cExBeHB6MkpKbV8?oc=5",
+      "source": "Sun Sentinel",
+      "published": "2026-10-10T11:01:19+00:00"
+    },
+    {
+      "title": "Delaware election 2026: What to know about the U.S. Senate race between Chris Coons and Mike Katz",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85YUZaTHVnRThMQVJ4VEJmb3hmbG54ckJjcVdoZy12bmwxcUMtNnh0ZjBMWGpmOE52cDVaZGd3TmNDYXNBQXU1eTBEb1dqTm5DZE1YVTJpVC1nam41WWdmSDR1b05OTUhkcmJnYUtPbW5HZkl6VGpR?oc=5",
+      "source": "WHYY",
+      "published": "2026-10-10T10:43:21+00:00"
+    },
+    {
+      "title": "Tracking Competitive Races in the House and Senate",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0ZhWGZlU2pYdmYwbk9SNk9JMWd6aTN1SjNudktsVkFoWEt3T3FJR1RjTC1ZU3Q3YU9ReTV0WUJJQkdDOWpzTWJ1X0liWk91MlpFdmxvX2F2THY3VnBVRDlRQlZFY19fYjRrZDQ1UlN6TGRueERkdmNIQkVveEZHMjd3eFVlM0VFWVN6WDEzcFBDSzdt?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-10T10:29:29+00:00"
+    },
+    {
+      "title": "Who will win the 2026 midterm elections? Polls and predictions",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
+      "source": "The Times",
+      "published": "2026-10-10T09:07:17+00:00"
+    },
+    {
+      "title": "US Senate 2026 forecast",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU5iZF9CcElOTXkydDhVWVJsUDVaalhNYlpZT1VacEEtVG93VnNVdTkzVUVIRWxpZ2tHN0xUdEFKY1Q0SDkyX3lzRk50cS1wLVVYOG1QRnBGWmlzdnowZjE1WE9vNURDTWM1RVVJdVVuOVJ6STNGaERacDBNSUFFU0YteGw?oc=5",
+      "source": "The Economist",
+      "published": "2026-10-10T09:01:51+00:00"
+    },
+    {
+      "title": "Election Dispatches: James Talarico Returns to Campaign Trail in Texas After Absence Raised Questions",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPc2NOTmVTTjdyM092d2VoNnRrWlNnQjlMQUVlYXJqUE9FWWg0TmNhaFZPZ3o4NVZMSmI0Mk0wRnVHYWc4VVNqcGlPcWhaU2w0TFJGNmdZeXhfamNnN3RvLTllNXYwekUzc1ROVGVR?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-10T06:01:00+00:00"
+    },
+    {
+      "title": "2026 House Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YcFhJTHhOU0Z6QmExdWhXUERnakpwb2JpTFQ1RTZYeFJBaUJLaDlBMGFlaW1kUWtZQWNPSEFUYTdySDV0RFJRbmlMQVdNRzFTb24tYS1pVTRzaDZqM0JtdFdCak9fejJFV3JwRQ?oc=5",
+      "source": "Fox News",
+      "published": "2026-10-10T03:17:00+00:00"
+    },
+    {
       "title": "Ocasio-Cortez will stump for Abdul El-Sayed in Michigan’s Senate race",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzJ1bTF2SlhqYWhIOW1SVnV6R1JtSXd4ejdTUzNZZjlxQUVoRkRMQk9EeEVkMG9DUTQ4bmk0MDJybU5hMW10TVlaMlotdGkxZ2RYR1hsLW5GMG5vYnM0LThSOTNOa0lZNTVUTDhLVXBaYWgwc2E4X18wbGdpLUFpajQ5UHlRYXhQTUFFS29nemVINWNuN3NtTzU0UFVVVFpNNDFVMFF6dzRhaE5uTGc?oc=5",
       "source": "The Washington Post",
-      "published": "2026-10-10T02:41:17+00:00"
+      "published": "2026-10-10T02:55:00+00:00"
     },
     {
       "title": "2026 Senate Election Results",
@@ -22,34 +64,16 @@
       "published": "2026-10-10T02:15:00+00:00"
     },
     {
-      "title": "Who will win the 2026 midterm elections? Polls and predictions",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
-      "source": "The Times",
-      "published": "2026-10-10T01:38:09+00:00"
-    },
-    {
       "title": "Cook moves 18 more House races toward the left",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekU3aVl2U2JQN3JaQmJyMVU1Q1NtLXNOaDNOTllfbjQtVmZWTndVNmpPRTdtdzQwQVU2SXltQlRIcnQ0NXNRSUM1V3dVOHlyUDhRNmJwcGVmTmEtdl9FeXozMjhzdWd6YzcwSVl3aHNXWHk4emRBeGlIRFpfYkNSZEtZMXFLcHdIc0Y2cTZHNmRBdExRN3dLblhR?oc=5",
       "source": "The Washington Post",
       "published": "2026-10-10T00:40:00+00:00"
     },
     {
-      "title": "2026 House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YcFhJTHhOU0Z6QmExdWhXUERnakpwb2JpTFQ1RTZYeFJBaUJLaDlBMGFlaW1kUWtZQWNPSEFUYTdySDV0RFJRbmlMQVdNRzFTb24tYS1pVTRzaDZqM0JtdFdCak9fejJFV3JwRQ?oc=5",
-      "source": "Fox News",
-      "published": "2026-10-10T00:19:00+00:00"
-    },
-    {
-      "title": "Tracking Competitive Races in the House and Senate",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0ZhWGZlU2pYdmYwbk9SNk9JMWd6aTN1SjNudktsVkFoWEt3T3FJR1RjTC1ZU3Q3YU9ReTV0WUJJQkdDOWpzTWJ1X0liWk91MlpFdmxvX2F2THY3VnBVRDlRQlZFY19fYjRrZDQ1UlN6TGRueERkdmNIQkVveEZHMjd3eFVlM0VFWVN6WDEzcFBDSzdt?oc=5",
+      "title": "In Deep-Red Kansas, a Surprisingly Competitive Senate Race Takes Shape",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVZTR0VoN3ljbWdjRjBhanl2emgweHpfYlpBRmZJRDdzS3Vlc3F4d2lQREQzVmJnT2lFbVNlTlJEeXlCRWJDWWwwQlc2azdOYTlZT1VOZEVkdzJfcUNtajl4dldNZUlyUXJzNUNLRWlRQkZOR08yODNrQlRvODZZSW9TUEFFRG9HamJUbTdGSVJiS0daM0FWNw?oc=5",
       "source": "The New York Times",
-      "published": "2026-10-10T00:16:22+00:00"
-    },
-    {
-      "title": "Latest Senate Polls: Midterm Elections 2026",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5",
-      "source": "The New York Times",
-      "published": "2026-10-09T23:17:08+00:00"
+      "published": "2026-10-09T23:01:48+00:00"
     },
     {
       "title": "AIPAC’s super PAC starts spending again in the Michigan Senate race",
@@ -64,16 +88,10 @@
       "published": "2026-10-09T22:39:55+00:00"
     },
     {
-      "title": "James Talarico Returns to Senate Campaign Trail in Texas After 10-Day Absence",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjZZZ0JzdzM5RmRXUnRoNDNBaG9GRk9aRzRZUE02X2NnNW5DWHJidXNuQURVcld3V29JWThtZ2tRNHdGUER5TUdOanpUZ0ZyM21uS1lsQ2NXU1BzWFFZdFdrME9SUFlFR1luaW1uanJRUlhDRl9FcU05M1lZR1A4ckMxLVE?oc=5",
+      "title": "Maryland 1st Congressional District 2026: Latest Polls",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT3k0bUpoQnNwM2FGV3dVejhraGtnUVVrMWlIaUw3QXVQTGNzSUdaTWtWTjFfanRxOWxEeXFxZHFnNmsxQUtwT2hkdVVVLWItQXpFWmEtaDBMeDZJNzRHdVBQcnh3MTJUMkdieTVtaXVuTUIwaV9OM3h5dkZkSzBObFRnTQ?oc=5",
       "source": "The New York Times",
-      "published": "2026-10-09T22:23:04+00:00"
-    },
-    {
-      "title": "Midterms 2026: Congress Polls and More",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
-      "source": "NBC News",
-      "published": "2026-10-09T22:16:26+00:00"
+      "published": "2026-10-09T22:22:11+00:00"
     },
     {
       "title": "Maine 2nd Congressional District 2026: Latest Polls",
@@ -94,10 +112,10 @@
       "published": "2026-10-09T21:53:03+00:00"
     },
     {
-      "title": "Top Democratic Group Pumps Millions Into Kansas Senate Race",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVdWczNVWDdMUWsyMEhRM21leG9Cakk3UUdpTk5qcURmWTA0SE4zQjgxZENGaDVHZWRyVTB5ZkJwWnZyTmFSQW9iaUVXSFFLZy1hQ3lHQld5S0l3d0JNMjZkTVpyV2JaWlMtaFc0Ri1JQU1sbUpnN0RKUmRtd0QyVWN4M1pmUk1yVHd1b3lSQXptY0tjS3NmNl9n?oc=5",
-      "source": "The New York Times",
-      "published": "2026-10-09T21:45:21+00:00"
+      "title": "AIPAC’s super PAC wades into Michigan Senate race",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1JsN2pINExsUENuNXdYNlVNak5hMTRfNDZqMHI2Skw1VEQyWEl1VTBGMUlVWDB4ajdHWktTOURsWEFZLUs5OTVFMXVyY2ppRWhLWHRFd2k0REtwTFNEMUtoUFBWSHF5Y2Q3RkN4cDBpQzBBNW11NGh2OTg5VVdLajhEaEhkY0FHdlBmbmY3a1VvVXdnZ2JFWUVNVXdMUQ?oc=5",
+      "source": "Jewish Insider",
+      "published": "2026-10-09T21:49:09+00:00"
     },
     {
       "title": "Arkansas voter guide for 2026 elections | What to know",
@@ -106,28 +124,10 @@
       "published": "2026-10-09T21:24:00+00:00"
     },
     {
-      "title": "Mike Tyson predicts ‘Trump will win’ midterms",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0s3RllWTGdHcEJSdmVRQk14YWpRbWw0SWVGLXVDaFpaQnl5UHgwN1NLeG5PUVprN04xSmZXMXlfdEpTNFlVdWwzWEdsZzYwd3M5cW1ZSS1oYy1hMzRXdHE1NEJUajRtbmhqYjREbmkwOG9GejhGSjVNOEhmelk5bzYzZXnSAYoBQVVfeXFMTkpIMlNpX0FJQ0RzLTVsNU85VWRPdXZlcFI1cGtmOTZTNVhtcml5cy03UEo4dnpRTjFPM25BQkFHcU5uRHZFVzlodEhHdDZlWjVudW9Qb0VkUnNDekJEQlUzLThTVl9oaFp1M3A0UVMyYmY4Q1BqQ0hSUDBVM0tZWUFhb3NsOVZsam1n?oc=5",
-      "source": "The Hill",
-      "published": "2026-10-09T20:35:00+00:00"
-    },
-    {
-      "title": "A Top Democrat Breaks Down His Party’s Plans for K-12 in a House Majority",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUGZ0ckNmMGVzVmRyTmJnOHJreURHM3Q3OGxfdEw1Q2NLbHFNT2FmMGJGdlFYM0JVTG15QV9Kd3lneUJCbDRFMGQ3VllHc0hVcHpFd2hfMDhSMWJmcVVZbWFMMG5LNkg1RGQyQXRxRUxSclA4aWhrTHNyMktWZ21VOG5aS1JCeFlOSGFtNGdFVzYtTVZrR1d2UV9UQlZ4anltcEplc2Z5ejdjeXRVWTVJdFU4ZFptNkJ1S1I0?oc=5",
-      "source": "Education Week",
-      "published": "2026-10-09T20:27:30+00:00"
-    },
-    {
-      "title": "2026 Midterm Election Odds: Live Prediction Market Tracker",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnBrV09LV215WDVJOG5kNkc5bUV4RUZ3VFUtVEZBT0ZwTm1tM2swc1NLWWo1QmZjNm5WYmt6anp4N3JIeXJCZ0w2X19ab0VUMW95ZDBaWFhKeXRFMHdUMlBIOGw2a3dUMlVleXhRSWVNSlNnbktBa0YyMUJOR1Njbg?oc=5",
-      "source": "Covers.com",
-      "published": "2026-10-09T20:10:00+00:00"
-    },
-    {
-      "title": "Jackson holds slight lead over Collins in Maine Senate race survey",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xa2pid3FVTTNSQnJQWWxUd3NqWmxBRDgtaHUydEdvVHFza0k5T05hY1RSLXYwRjl6ZjVXVGsxa1pvdnpBSklIdWZ0LWlkTXJrdHRtZmNnT285cHVsbzhJeElJbFpUU1NWYXVZMExFMXExcFlUUnZHRVFCZkpXQdIBgwFBVV95cUxNajdkcU9ZZzJtSmVJYU5RdEd0QXdMem1KZ0JvQkVLdmNfSlZfVTRwcHdkenlmTnNxT0xFYXBncWRLbk5iNlR2R05tWnNoQzR3dUdvNTNZM2JlU0VMWW5STGNZdDZoN1JUZjNHcEZrQUVSb1NpWFcwU2tHOFdZemRrcEI1Yw?oc=5",
-      "source": "The Hill",
-      "published": "2026-10-09T19:58:00+00:00"
+      "title": "House Speaker Mike Johnson rallies with Miller-Meeks in contentious 1st District race",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2JNUHpOS3duRzJ5UkNFVHhhTmJRTVZPMU9UaDBrX0RrSENGaWhocFdtb2pFc05vMzFHZzI4clYxZ0Radi1aZklpTElRZmYtYk1TRkV1bmxhb2NlVjFSMUtWeEg1T05uNUVsMlBfX0tocG8wa2pBa1FLc0RjSkplYldHV0l1cmpxeGg2NjgwVHZqc0c5TDRQM0E3QWpoam9oaDdGckVzcU5tMHA0SlRXTW1xZ2RVZkVHQWE4?oc=5",
+      "source": "News From The States",
+      "published": "2026-10-09T21:10:19+00:00"
     }
   ]
 }
