@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:51:10.364293+00:00",
+  "generated_at": "2026-10-18T02:08:39.172868+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,34 +10,106 @@
   ],
   "items": [
     {
+      "title": "Who will win the 2026 midterm elections? Polls and predictions",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
+      "source": "The Times",
+      "published": "2026-10-18T01:08:35+00:00"
+    },
+    {
+      "title": "FLIPR 2026 midterm election forecast",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWjFMc2tINlY1LWQ1RGZtUUJpZlZlN21hNF9iYU1TME9sSmhNclhGM3pmZW54a1JMX0F1TUZSeEtXWDlidVVDRWpUVUtoT0IzdEMyODhrWVRvSlRKd3pDdkdIOUpodHN5aHlJU2lZbWpweWt0a2ZScENITkJzdnc?oc=5",
+      "source": "Silver Bulletin",
+      "published": "2026-10-18T00:20:22+00:00"
+    },
+    {
+      "title": "New York Midterm Elections 2026: Key Races, Candidates and Past Results",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TZmdsOV9FVTN2WW16QzNPNUxIVlNWamo1aHdPQ1BWam53UUNzS0lPUzRnX0NiSkdGYkRuM2tEWDdIOVBKSWduVGVyZG5QQmVkcEJfT3VFZDJzZXZBRi1xUHJlRmlxXzFObFlGREtQTWViZw?oc=5",
+      "source": "NBC News",
+      "published": "2026-10-18T00:00:21+00:00"
+    },
+    {
+      "title": "Latest Senate Polls: Midterm Elections 2026",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Kem1zNEtLLXJhQndGWG1LTlI2UWtfWGlqdzJwTGFhV2c1ZUpYYTlNQnNaMW9HUGlHN281RzZpTktsSXVEVXhnS1diRndPbzQwYmtnM2NQSkY5VUstWFAta2ZuVlpRYkhMZk5hNEZrN0Vpdw?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-17T23:27:03+00:00"
+    },
+    {
+      "title": "No Kings rallies in Lincoln, Omaha draw demonstrators opposed to Trump’s policies",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1FESVJhcHdIQWRES0U5VWFCdVFiVGkzTW5hWTRuNklVVHBIRjdrQVBOdzBVei1iay1qQ183MWFfM0VFNk9ub1dPb0tlWk1KQ1FTN082RV9hRnJ6S0YyMEtLRXVBLUlIZk1qeWg3RUQ5RzRKNl94OVZfQTZaR1RhNlNZbWdEZnE5ZDdKZUFMRXhRQ1N2cl9vU3lTSDVJU2tFNno5ZkdRMUJWTWkyT1VldnFEZXlJbkRrSk0yYg?oc=5",
+      "source": "Nebraska Examiner",
+      "published": "2026-10-17T22:24:56+00:00"
+    },
+    {
+      "title": "Trump parachutes to KY to stump for Republicans in safe seats, give GOP nod in ‘tight race’",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmpPUU8zQ1lYV09sSHZvdTVkQ1NzZkY2VndldEtHVzNTQy0tRDJqbW9CY1BFS0t1R1dUTUpjQk1VOHM5STJ2MkdIWWRjNTZMelNCQmREa0lfTlRKV0lVVVJxZTBZQ05wSFdBZGZZZkNtOE1aTXFYNUJwVnRWRVBQYmFXdkFrRFloQTdfMnVaTjVMb3l0VFhlakZXblQ4R2Q5bzJUSHQtd2g3ZE50cnNMcnB5elB1aFdJXzV5SUFpNElzeUl0amxn?oc=5",
+      "source": "Kentucky Lantern",
+      "published": "2026-10-17T22:05:34+00:00"
+    },
+    {
+      "title": "FiftyPlusOne 2026 Senate Forecast",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUhSSzR0UU1sLVVHLU1BMUlWbExHYmdRNU9Jd2g5VEQ0OXB2ckxBT3dXcDQ0aWFOd1B3MVR3Snk3eld5MkxuaThPTy1tU2FjdGd6N0wzenFOY0JVbGk4RWxqbk9JY09NOW9SLWg0ZlplWUZKMFk1ZFRzMk1vTkhJeHRUdGJxdw?oc=5",
+      "source": "270toWin.com",
+      "published": "2026-10-17T22:00:00+00:00"
+    },
+    {
+      "title": "Gavin Newsom stumps for Democrats after ‘No Kings’ protest in Exeter",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1NsSzBKNWdteDhEOUpCeXltVkNwVC1RTHBjYTNIYnlLVHhoRGxLYkZGMzFVeUxzWlRYTDRpOXRGVUhTLUNtN2NUbzNDeDhiUEtmSDBuZlUzOG5KNXNmcVp6LUMzM0R4TXk0LW5KbTJKOHQzRjMzWlpQSVVSekRQSW9LTk01NlF1cnA1Y2lscFNBR1YtYU5ZUWxyQkhJNVcteXdWekFsbU1GRVUtbllmQ3hwdUZ4UG5BbjRzR20zRmhlZE5NT0lidS03b2pxbDg?oc=5",
+      "source": "Seacoastonline.com",
+      "published": "2026-10-17T21:39:00+00:00"
+    },
+    {
+      "title": "Osborn’s independence continues to be scrutinized in Nebraska Senate race",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkpMdjlqd3ExU0FIclp5Uldxby0ybEVJM0x2eEFNaEMyZ1czazFYTGhJWXRvVDZwWUFLTzZrZGpaejdiVXJnUDBIR1RycXUtckVSdHN0WmZJZ0lVbWE5cTI1cl9iSllrYmVSbHRsQlk5cEpnRTdDUnFYNlQ1bXZmN0pqU2Naa0RBd2ItUWtGRmFiNXlRUnluZUxjaVEyME1PM2xJWU9NTVAzZkNoNVFJeHlpTQ?oc=5",
+      "source": "Nebraska Examiner",
+      "published": "2026-10-17T20:49:56+00:00"
+    },
+    {
+      "title": "The Senate Race Republicans Never Expected to Sweat",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUndLeFRQdW1oY2ppTF9RcEp3OGp4Zk9IckpsSXlKM1pLUjdOdFJSSHN1YnVaNTlCLVRHMHRHalMwTmhpUU5ZRjd1bnMwSk1LYTh4UllKMXdBQWxTaVJ3ZkRZd0VST1dBczJ2TGIyWnlEUFkyY0J1UkdMQjFaUWZBTFphSEZwcndtNFpOM2Faa1MzREtlRVE?oc=5",
+      "source": "WSJ",
+      "published": "2026-10-17T19:53:00+00:00"
+    },
+    {
+      "title": "Hinson critic changes his mind, endorses her for Senate",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb2V4aXBpZ0txODVVdUhqeEl1b3BsM1JHT1FvLUIxNHBvenUzMmo1eVpqckNHYXVCOGc4WHU1WTFJLUNyc21ZN3RUWXlIQlNCNlNZaWl3eU95bjZFNm1rUnA5R1N3NUQ4aWo3bEh2Tk9wbTFVNnFwNWdxX0JlYU91RDVOMm9uOThIMldMRm9BYVZnSjNpd1dfak9hNTlIa3ZidFlab1V2WFBkT0NsYUROSU8yUWhTNFFpc21ZQ0hMOWxoNWlsM3F1XzhtNjV2bVZNSmpPTFJ1X3FKajN0XzBv?oc=5",
+      "source": "The Gazette",
+      "published": "2026-10-17T19:41:00+00:00"
+    },
+    {
+      "title": "Election Dispatches: Ocasio-Cortez Donates $1 Million to Help El-Sayed in Michigan as Democrats Fight for Senate Control",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43UllHVG9vaTBGRW9xWjh4OVRSN0ZSY3ltZTZjTjdmZ2g5clFRZWJkZjdIV3FwX1VobGNmWDJLSU1EUy0tQm1ZRl9KZFZrdDJtYVI2TVl1ejhkYThKREhUWDlpUkE3dHVZWnFzdURn?oc=5",
+      "source": "The New York Times",
+      "published": "2026-10-17T19:25:00+00:00"
+    },
+    {
+      "title": "Idaho Midterm Elections 2026: Key Races, Candidates and Past Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DdS1RZFNwdzZyVThqSUsyNEZQQUNJbWV6VkZDZ182cGRIVGV1ak15UnJRaVhTTWNBSTlnY2Z2YXdjYzVFREdjWWtXUTBjM1hOVmRlZy1yQ3cxRU4weTJEWV8yU0tMVnY5WFdVX3Bn?oc=5",
+      "source": "NBC News",
+      "published": "2026-10-17T19:00:21+00:00"
+    },
+    {
+      "title": "‘Ordinary as can be’: Gabe Fleisher on the 2026 midterms",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNWZyS1hxbUFHN1F5MG5nZFo1ekNUbTB0RHVJdXowM0dJRHNBWVZzaklpczFxYmFIMEhnNTJ6RXZrMXBPNGNVU0lLNE9EWHBfemRVNFpIdnV0RU1ua2huY05xN2FWRU9ORW1fbTBUYVNoRUlCdEFZdXRVYy00X2ZLWTRQZ3NPeXBTOTIxY091NGZoYlhHWTJDRkFR?oc=5",
+      "source": "Student Life",
+      "published": "2026-10-17T18:31:12+00:00"
+    },
+    {
       "title": "No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzJPYWtKS25aZHE2ZFZEeC1tcXZvUGhpNHh4R3p2QXVCazJnV3BUYkxsQUdZZnY1dGdzaFZPSG5GT0dFRnFyRVF6T09MNy04YWwyVU5nT0Z4MjVzbWJUZnJpZFp3WFphNnpxQ3JwZmpWUlFHZXB0Qm5kWXZUeFRZZEJhWTUyQ3k2M003aWNsRXp0LWt4RWtWNUlYNWhtLUw0ZDQteFNCSkxYZ2I3YnVoemowemZadw?oc=5",
       "source": "PBS",
       "published": "2026-10-17T18:26:29+00:00"
     },
     {
-      "title": "Tracking the 2026 Early Vote: Midterm Elections",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CNDhGdFFLbHU0dnFMZGZ5T2Z4LVNzYk5Mb0lHNXZhQW56U09sX1RmWmRLZmlvRnQtOHNHUlZlS3NZckF2WHF0LXVZOHROTTBCMnQzbkM2X1JCYkY5RGpwamRubEc4M3lPaFE?oc=5",
+      "title": "The good, bad and ugly outcomes in the Senate",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2cVl3R0ZFdUhoaE9YMGNDQ0R2SEpnX2lmUDdzdmllTDU2QUlzMWJxYTl1NG1IazQxYldOQTBPUXNfb1RsbjY4NlNHaDJXejg2eTZLQnQwdVl2WU9oWTBhLVFMMGQ2MEZLYnU3TTV0WQ?oc=5",
+      "source": "Silver Bulletin",
+      "published": "2026-10-17T18:01:13+00:00"
+    },
+    {
+      "title": "Montana Midterm Elections 2026: Key Races, Candidates and Past Results",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sRVpNR3ZiQ2RBMEJZSzBrazZneVlmS2VFcERuVDdab190WkJvZ0Z0ek85SUF2TUhheWp1ak1pczBCSDE5MHlaei13WWZNRXk1cXVETHBHOVZ3TEpseDJNYmxVc0FESEw2b1gyckNKbmE?oc=5",
       "source": "NBC News",
       "published": "2026-10-17T18:00:21+00:00"
-    },
-    {
-      "title": "Who will win the 2026 midterm elections? Polls and predictions",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnpCV1NDNnk4SXdjQkEzNjhGZUIwTWJhVDlQZS1NZGRnNzdDamRHR0Q3M0w4djlsT1BvZWIxaWpVakVYbk5rUHJfZkJlQ18wNlBjZmM3cEp2ekhPNG1jd09CWFJUQWVORVhxRjh2UjBuQVkydGxLd05UR3JCVEYzVXltcEpSRWVXQlVoZEdsNmJaVFM1ZTZFcERta19lVWtZZGs0dlhEMlUybGItRGwtN0xXVQ?oc=5",
-      "source": "The Times",
-      "published": "2026-10-17T17:59:28+00:00"
-    },
-    {
-      "title": "No Kings protesters speak out against Trump, urge voting in midterms",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1NsSzBKNWdteDhEOUpCeXltVkNwVC1RTHBjYTNIYnlLVHhoRGxLYkZGMzFVeUxzWlRYTDRpOXRGVUhTLUNtN2NUbzNDeDhiUEtmSDBuZlUzOG5KNXNmcVp6LUMzM0R4TXk0LW5KbTJKOHQzRjMzWlpQSVVSekRQSW9LTk01NlF1cnA1Y2lscFNBR1YtYU5ZUWxyQkhJNVcteXdWekFsbU1GRVUtbllmQ3hwdUZ4UG5BbjRzR20zRmhlZE5NT0lidS03b2pxbDg?oc=5",
-      "source": "Seacoastonline.com",
-      "published": "2026-10-17T17:19:00+00:00"
-    },
-    {
-      "title": "Louisiana Midterm Elections 2026: Key Races, Candidates and Past Results",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pZHZyZnlsaGh6Qy02ZUpoN3VnVDJ2Z2xtNkRpbm1BSUFGa0RsV0t5Vzc1VW9wV2NrRUZqUHliRlY0YzVPZ216UE53TXdzbEhqVjJGc1NwMGVlbUJocWx3Umlmb1JRQzV2SnY2akZwQTZFb3M?oc=5",
-      "source": "NBC News",
-      "published": "2026-10-17T17:00:21+00:00"
     },
     {
       "title": "FLIPR 2026 Senate forecast",
@@ -56,78 +128,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLR3dDbnB0MURGUWFrdWctekhITHp4MW0zUjBjZC1Jbm90bndWNUl5c0t5WlFfQi1leFRsVDZka2J4N1gtNW45WXMxSzAzZkJkaWpBUEUweWlYdjdTcTBYVlQ3YXUyX0hLYXcyR2s3cUlXcnoyNFJ4YUN3N0NybUk?oc=5",
       "source": "Silver Bulletin",
       "published": "2026-10-17T16:25:45+00:00"
-    },
-    {
-      "title": "House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdEloNDdra2hQbXF0aVNfUHZjY2xNQlNMdHNoN3phai1JUER3dThSSDRFdjl4U1BpbVFWX3hMVmF0d1k3WVlIWGxsU2c1cUZkS2hNODhiY25xdWtiMWZKNHI0cVpDRTZFN3ZSUWdfTG5vQmN5RTR3LXQzZENFNDB6bUhjX0x1UlZtN2RTcUdFSWxzdHYtNG5MNXEzWW90dFlUaWJQTVFtSWN4UkxfaWU4eGJuRnJmREprZkpwU2xSLUptUdIBxwFBVV95cUxORWJBcWxUYWpidVhzVTQyQVhHWGdadGg2VFJDc2c2X2hxRTYxTGVTcG94Y1puSWoydTk5dXJFSDlGQVFPWGF2OWJBY1dMR3ZhanhFc0xhNmpzR2ZxOUQ1OVhoQzhvekJfb1IzS3h3LWhNQXFMcDN2b1hMY2hsRlN1Ty1lalNIYlNGejF3VlJvbWJKWDFhdnltT21rQWVScDFNakNsQ1FVbDg3VnVxVERDamhkYmVOYk83dHpPTkw4eEtPZEc1RVMw?oc=5",
-      "source": "PBS",
-      "published": "2026-10-17T16:17:08+00:00"
-    },
-    {
-      "title": "Maine Senate Race Odds and Predictions 2026",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jd2FSbVlrN0pRODdPRTI4Umdpam56eHhEMnBDQ3NoXy03M2dndS1nU29PNEpmMmFiQWJfOWVfN3RMYXUydFdQQUEtS1c5OEs5cjhWZDY2V2JUWndz?oc=5",
-      "source": "Kalshi News",
-      "published": "2026-10-17T16:13:51+00:00"
-    },
-    {
-      "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmdxSmJjdDdhcnRaVDc0SkdDZE5XYUJpYjdpZDR3UV9iYTVXc3lTeWtieXVKNVNCLURTYkpERnBUWHJsVGU0YWx5UHpfbHhXOHRnV0d5aEJYUzhYQkdSUFZpOXg3SkhHRHNiMTVFbTBWNFphN2htUHNKZVIzbWdBM3lDbS1lUUhOZHZUZlpPQmlBdDhIOGF6MA?oc=5",
-      "source": "TelegraphHerald.com",
-      "published": "2026-10-17T16:06:50+00:00"
-    },
-    {
-      "title": "A trader just placed a $16K bet against Republicans winning the Texas Senate race in 2026",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2FMYllHN2x5ODM4dUlpeFFnUzRwSF90c0o4ODFCeUF2UGdmamJGT1ZVM082LWZYbHJPcWEtY2dZMmRGcWRhSUI5d0wweDJMaUltc0R2czF5Qkt5WFpmOXFnNXJZS3RXNkZQemFLcE9NUEdwMnNLNGt6WkZwbzd0Slkwd0lYdWtYNGxYR29FVnFHU19HU2Vma1UtZXRtWG5OcThsak1NU0Y5bGlxMEpnNVA0NFB5SldGX2hCT3pIV05rQQ?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-10-17T16:00:00+00:00"
-    },
-    {
-      "title": "A trader just placed a $32K bet against Republicans winning the Ohio Senate race in 2026",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWi1iWnUySGJtaV96bmJVYW5NNE9vREpqZmhfUmxXVGZZeXkta3pIdTMtNERSRV9meXVQVUdUTHFydzNfZ2c0OThZdGNGd0NLZ3FucjY2NXdFYWR1czhFSHlfY2NpUkhNTFNyUE1lWkhlS2JxWElaVDFmdU1aa0RmTHIzT09Sam5xZGxQSHJNeWlBT3JpaWVxWi10RldSRWJoZ3JibDhPeFhBaHl5RG80LVc2bHNjZW0wNWNFMl80cEM?oc=5",
-      "source": "Quiver Quantitative",
-      "published": "2026-10-17T16:00:00+00:00"
-    },
-    {
-      "title": "Election 2026: It’s the battle of the Sara(h)s in California’s Senate District 26 race",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYlVwQ21EMHJ2WmdVMnNPclJYbWNuRHQ1a0pFLUtUaTV4Q1huUkNGaGVUYVpycjZwV1ZSQXZEZnZKdTdGd3pOYVJrYTRLbnZJMlAyLXlPd21ZY2tNbEkxeXg3Z0x5eVdlTVIzSFdaS05sSFJTX3pyLUdLeUVyOF8xVHNPZzFWeDhrYlV3Q0poSHlxMGd5VGFnMU56X2lwdnozSFdKTDAtLVlyMDloNE1qZ2VtUmU3aFR6MEhJ?oc=5",
-      "source": "Los Angeles Daily News",
-      "published": "2026-10-17T15:32:39+00:00"
-    },
-    {
-      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFFqRlNtSUFCNjVsMjRSV29CSmZFZGIxR1hWTXNpSEQwV0RTSno0Smw0RWpyRjNFRjg3UDIxRkNFaWJNTFk2NHgtbU1HRVhjdHU4ZFpuRDhTNWVrSS0tMlNMRlI4NUpIMUwyWnhtT05TX3JRZ3lvb2dWYWFabnlJSTFHdThiMWFodG9ULTNVbjNxaFEzLTQ5UXVaMWZMLUlNOWtXeURZbUJMNWdTdHlqdG5n0gG3AUFVX3lxTE1MdmJUSzZVMWk5LXNIYThnVmJZYURaOTFqLVpmSUw2eGRDdzd6YkE0clhxUEMyX0VMWWRXZHRVNkVaYUtvemZ0ZGRfUE5QQm9Ndk4weGU2RGJvQXRtaEFSS1E5LWpURVBvTjVKTDRNYk5YOVRlTEdGWEEzWXRIWklMTUE2MnRoSjktR2ZIaFM4YXhpUlhUYk5Ma3ZtWTJvQ0Rlc0VQTUVsd2hJWG44eGtlc2dFZDJpdw?oc=5",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T15:22:02+00:00"
-    },
-    {
-      "title": "FLIPR 2026 midterm election forecast",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWjFMc2tINlY1LWQ1RGZtUUJpZlZlN21hNF9iYU1TME9sSmhNclhGM3pmZW54a1JMX0F1TUZSeEtXWDlidVVDRWpUVUtoT0IzdEMyODhrWVRvSlRKd3pDdkdIOUpodHN5aHlJU2lZbWpweWt0a2ZScENITkJzdnc?oc=5",
-      "source": "Silver Bulletin",
-      "published": "2026-10-17T15:20:46+00:00"
-    },
-    {
-      "title": "Election Dispatches: Ocasio-Cortez Donates $1 Million to Help El-Sayed in Michigan as Democrats Fight for Senate Control",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43UllHVG9vaTBGRW9xWjh4OVRSN0ZSY3ltZTZjTjdmZ2g5clFRZWJkZjdIV3FwX1VobGNmWDJLSU1EUy0tQm1ZRl9KZFZrdDJtYVI2TVl1ejhkYThKREhUWDlpUkE3dHVZWnFzdURn?oc=5",
-      "source": "The New York Times",
-      "published": "2026-10-17T14:47:00+00:00"
-    },
-    {
-      "title": "‘Is this like a hit piece or what?': Dan Sullivan's MAGA balancing act",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN3RCSTdyWGQ5U01BcXluYVlhWW9Rb3hadUxIRnFHNWV5R3I2R2s0RVd0ajliWEFLNEhvQzVZbjBZQVFvOHRSR2NuYV95X0VremZzb1NhMnJobGJuRGE2SUZvcTZvQjE2TFhKbnZrWmpfbXZPY2lOUzYyM0lXUlktMjg0UjR2YTdLaXc0THNJYw?oc=5",
-      "source": "Politico",
-      "published": "2026-10-17T14:45:00+00:00"
-    },
-    {
-      "title": "Here's who The Seattle Times endorses in WA 1st Congressional District | Editorial",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2pFWnZLSlpsaGxtWmJpN2xZREIzUUQwNkU2a3cxOHpMZmlKeDFHSHBES09UT3AtUjlQVGM2elo2dFFlTTNfS1U3WlpkNWg2VklYVnhtWERuQmhURWNVVXg5SGdoY1BVTTVHbzlKeEJlTGJjZk5fRFB6eUVlWDQ0NDhPbVc2ZzhCLUJxdHpSZkZCUGJESFMyZEdHTWxNdmNxOVN4UlNRWE96QjMwTXE5eGdSekRMT2JXMkY2TE55aXo5X0VkQnc?oc=5",
-      "source": "The Seattle Times",
-      "published": "2026-10-17T14:00:00+00:00"
-    },
-    {
-      "title": "Democrats are leading midterm polls — but which party do Americans expect to win?",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUllLaGFRY3U4THBBS1pOSXgwU2twS3ItdzBLQzV3UC02LXdTMzh0VjFHWmE2SU80ekVEcnNQS2RHakg2WXc0OUhJeVBId3NYLVhJUTlEcjFVMUdFR3BTTlYxNFI3RVVHekZyaHJ0MGdvdUpDMWZpblV1Q3RqTXNsNmRGN0xQXzNiQjBBWXlpcWU2SHozVGYxdkEwNE85NEVqSmRRUEd0ZW91a1lmQy1mU0R6MG9tT1VlX0tr?oc=5",
-      "source": "NJ.com",
-      "published": "2026-10-17T14:00:00+00:00"
     }
   ]
 }
