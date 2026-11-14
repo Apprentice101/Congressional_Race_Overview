@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:03:53.693354+00:00",
+  "generated_at": "2026-11-14T12:42:38.930084+00:00",
   "queries": [
     "2026 congressional election",
     "2026 midterm elections House",
@@ -10,28 +10,94 @@
   ],
   "items": [
     {
-      "title": "2026 Mississippi Midterm Election Results",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tMUprSkJTbVc5cUtIT0hsZzlyaFdMcE1mTlBnMk9rTUZmd0M3RGRzZ1hFd29CS0NsSjVhY2dscXVZMVZ2Z3VjTTBaLVZtam1DdjdOeWxjNHRGS3NvdE9VWHZ0SUMxQUZYMkphTzNsekw?oc=5",
-      "source": "AP News",
-      "published": "2026-11-14T03:31:59+00:00"
-    },
-    {
-      "title": "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
-      "source": "The Washington Post",
-      "published": "2026-11-14T03:28:05+00:00"
-    },
-    {
-      "title": "Live updates: Trump set to meet with Xi and Putin at Asia-Pacific summit next week",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjIyaksycGVHOTZaaGlaOTRWZTBBNUtzYTl0SEhOeklPQmxRNnVrWmFvYlJBRXdiVnU1UU9IZU16bDRRSHdhWm1yb2hGSnNiVWVvdFFVWllKWjVhdDc1OU9YcFlIX21hZEZ3TmMxemV4aFRxdFBoTW9GNVZzMjY2ZmlrbG5lbWxiY2EzNEx4RWh5SEwwenpHT1UtRmxUbnBrYTJ0dENLd2VhMmxOVktxdGtXLWNINko4dDhjTWVQNU11YWdLMEhmcE12NE4?oc=5",
+      "title": "U.S. House Elections 2026 Live Results: Democrats Win Control",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zb3FDMGdwaC1OZmxSWVh1cThkeDRQcVlLaFh2NUg1WlJuX19CMV82aHJrajJvM3RrZGpmeHMyWjRzcXptN1V2NWVSb2F0OVZUc19tSXNjb1EyaUgxcmtOeFJhdlJZU3Bob0JWb2xn?oc=5",
       "source": "NBC News",
-      "published": "2026-11-14T03:20:00+00:00"
+      "published": "2026-11-14T11:02:41+00:00"
     },
     {
       "title": "U.S. Senate Election 2026 Live Results: Democrats Win Majority",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HT01FMldrNmE3Z1pmR3lRYmxaMVhxNDN1MF9maXpIV1hiU2xLWnpuWURkeEFhXzVEMmdjR3dreFgyeWZxZDYxTVVxSWh4cUFGMkc4N3Bja2RzQm1KS2x3clhsR0I2WVR4WXVOTUNtRQ?oc=5",
       "source": "NBC News",
-      "published": "2026-11-14T03:08:00+00:00"
+      "published": "2026-11-14T11:02:41+00:00"
+    },
+    {
+      "title": "Richard Fowler wins Washington Examiner election contest",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY01oSFpNdjFabjE0aDZqM1Zoc1JHZnF3dC11MkJoWXFDei03VThLMHF1ZFB4RE9wQ2EyNktXMHBpdDBXdmF6Q3hUMVRSTE8xUzdhWkRhYjBSdzlxRUN1NFROeWJsRmY1NEFrWlpjbndiTnhyb2pXYXpieUdOdGQ3Smd3Unc4cmJyY01MQUtDMDFtdmVZZjEzYVR0MHowRkdOaDE5Q3pZQm9oXzBqQ0FFYVRtUW1MRFd5T1Nvc05BcFdkZ2MtNUNpSQ?oc=5",
+      "source": "Washington Examiner",
+      "published": "2026-11-14T11:00:00+00:00"
+    },
+    {
+      "title": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "source": "AP News",
+      "published": "2026-11-14T10:49:40+00:00"
+    },
+    {
+      "title": "Peltola grows lead in Alaska’s U.S. Senate race after thousands more ballots are counted",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVhNMi1nYlFQV0Z1ajB6UU5RNzBKLXNqUWtNZkYtRUNEeGFKZFFwcHdsV3BGTDBaQVhCSUVtcTZPVU8teVI2WmlBblJrV0FfdkVfVHpZWW9XcWh2cHAwekE2RHhZMWlpbXgtd2pyLW9rV0hBQzhTU2FpaVpodFVtdGVuZ2lHMDR1R2dSc0sya0RveEdEZlh6b3EzNUFsMXdrOG1ZQ0p6OUQ4OGN1MGNTa0YtZ2Flc2Q5UUVudWk2SVJMY3Nz?oc=5",
+      "source": "Anchorage Daily News",
+      "published": "2026-11-14T08:43:09+00:00"
+    },
+    {
+      "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeE1ydjlwSE1Mc2hyektqU214alFSdTQ0cEhhV1ZMaFhHNFFaUkJzZ0FCSDlxZXBNcUZOSU5OaXJBVFJDSzBTc1B4c2xtaWd6WWo4ODd3Y1BENUNPRUdkdVVZY1Y3eGRoRnR3U1dwQXpFQWVOT084YmJ6ME9SUllKLVFnTUlWZk0taTk1QUdQclNFZWVuTlVVck15MUM?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-14T06:59:00+00:00"
+    },
+    {
+      "title": "Peltola extends lead in Alaska Senate race as final count approaches",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1hyZ21raEhDRFFnWWxOaWJLUTd2RGdLeVotRGlRenlvY0s0WmI5VnA4SG5kQjhieEJ3MTIxRHVUdm1oQ21MTlNsYV8tLVZLcUVVcmM1dkFzSHdFRkFEMWFGUUFnRG1KeXA0TFY5c2xLVW1UVWs5WmtjdXAzMHRpRllreVN5UG9Nekw3XzZTOFdFYlZiNEFiZGgwZHoxeVpZQ0J5S1dXM0U5S1k?oc=5",
+      "source": "The Business Standard",
+      "published": "2026-11-14T06:39:12+00:00"
+    },
+    {
+      "title": "REPORTER’S NOTEBOOK: Emmer wins Whip position in U.S. House Republican Caucus vote; State, local voting trends in the 2026 Midterm Elections",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWG1JQUZhcGhuOUlkQ1Q4XzdqSl9SQjhvUmNDb3Uxek1JYm8zUU10WnhURm1nSGZmN1poc3p6SjF6QVJEZWttbVFNXzBvNWxmcHFUVy1Kbk56czNWREZ4eWs5MVFiYjZTTkRCTnYyUWRSSDREX1p0RjRaa2djTnJnUlFDc05KUHZMbVBDOWd3QXI4Q1pLV3M4M3BRMUM0T1REZm9wa3NhNzM5QVNjMVdZTy1lU3RqcHE2Vm1HbF9kOHJTVzBxSEdwYnVLTFdkVW9acXpxUERoTkZ4ZXpnQzY3ek1VU24zb19DT0lDWWR2T2hRdUs5TUozNldZTXVFTTk0bkxvdnlmSy1ZOUxERzdNQ3FoQ003UQ?oc=5",
+      "source": "hometownsource.com",
+      "published": "2026-11-14T06:00:00+00:00"
+    },
+    {
+      "title": "Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGRpUnZKOEtydjhyR1RaNXRaVS1xdUk0MkFZTldVUktXM2xNa2JGS3Y4TG5LbmhkWHZ1VVpaaE43RnBaMElMczBHcGQ3LWpQRjFrTy03Y0FzNGx4RXlEOEtERy16RWJ2TkhDVVFYbVlWZmtvMWJ2dGxxbHQxVXhLdW1ZVERVV3VJbmVkLWpENA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-14T05:31:12+00:00"
+    },
+    {
+      "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDB5emdHREx4VHlzT3BVYlhYcGZ6OExpR01SVzFlWHRaeWxTMHp1UTZyUHF2bFpQbWZMMHZUeTVwZWMwYmNXSS01XzVlSkZyNDM1TW9PTksxNmZySWVGc2Z5RDJoeHBHczlmZ2F6ZUZEQXJRWUpvSF9VTGpLcW1NYWo3WHluMHM4NFlZX3BkaG9TNTA?oc=5",
+      "source": "The New York Times",
+      "published": "2026-11-14T05:14:00+00:00"
+    },
+    {
+      "title": "Alaskans opt to stick with ranked choice voting",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0dqOXhRd1BYQXc5SUtmTE53UlQ4MERWcXhaYlFfTk9RTXU1cnpPRTA3UlRHR2ZfUFhTaFFTVmdfMU9DMmRWaVFQYm40OWVNUWZZT2ZCcDJ1cktCLVU1QnIweFZNa0FHX1o2VEdtdG9faF9JcmtKYXVOUHlXc3VMX1NQMlZsNlZROXgxalNETjRYekIzSlNtenlPWUVFZw?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-14T05:08:58+00:00"
+    },
+    {
+      "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnkyYjBoWS1aV2dpOEZsWm1Rak9SZkVUaEllQVMwai02UlpnYWZ4bzlfckdiaXFEYVhXUEEtSkNVdVhJaFU1T0dIWGhiSk5Kb2ViV2laSC1PbUdrazBiWW5tWmdUajJsSVM3a3FNb1FZa3h1LTdZankxRVpJZkh5eFVMYkpwNUZnZTBQQWZfMWpoclhBSGZScFF1THZRS0hPbVc3X0k2Zmh0dHU3UFR4Q0VaLUFiaW8?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-14T05:05:00+00:00"
+    },
+    {
+      "title": "Peltola leads in U.S. Senate race, nearing 50% mark with almost all ballots counted",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSFhhVEhWdUYwbkhDQkxCM1ZVLWJTUk9mQ1ctV29XMzJXOVdHTjhjLWc0NjRoSjd4OWlDNW9GeG5ILW5aZlZiMjhPbHlIdzZKbEN1UDcwcTh0MlhKMk5PUlR5V2dEY19XcjlsYU5FNVpYdzkwaUZGVlFzcWlFVzhkdGtoVENEX2pKYWRwbUIzaTRMbGszTHRiajhscmIxVU1kbTBHRXBXTC1jT3RTcC1Vcm9Oa2tDa2ZxWXVwNGtVMGR6Vlp4NXo3Y1BJMnFHMkxrUkVLNnVUaw?oc=5",
+      "source": "Alaska Public Media",
+      "published": "2026-11-14T05:02:00+00:00"
+    },
+    {
+      "title": "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnZLbl96QmVGQnZLN1RQQmRWTWdCT3lfMS1ZZlduQVhjQ0ZpQ1hlOTF2REFaMTZNWDZVeWhqbHdPeDdFNmFMWmNtVENhUzNvSThEQ1NlQWl2TnhQbV9yekxvWkRPTHdiX2RzYmdCVDM4VTYtcXdpWEJNRS12TlJDWVI1WEZLQzJVSDNNNFJIZVA3TFByY3lpYTdTTnNlYnVWbTFxNm5tV2t4elEzU3lLWXk1UlctM3RVRl9FNw?oc=5",
+      "source": "The Washington Post",
+      "published": "2026-11-14T03:55:00+00:00"
+    },
+    {
+      "title": "Trump set to meet with Xi and Putin at Asia-Pacific summit next week",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUjIyaksycGVHOTZaaGlaOTRWZTBBNUtzYTl0SEhOeklPQmxRNnVrWmFvYlJBRXdiVnU1UU9IZU16bDRRSHdhWm1yb2hGSnNiVWVvdFFVWllKWjVhdDc1OU9YcFlIX21hZEZ3TmMxemV4aFRxdFBoTW9GNVZzMjY2ZmlrbG5lbWxiY2EzNEx4RWh5SEwwenpHT1UtRmxUbnBrYTJ0dENLd2VhMmxOVktxdGtXLWNINko4dDhjTWVQNU11YWdLMEhmcE12NE4?oc=5",
+      "source": "NBC News",
+      "published": "2026-11-14T03:20:00+00:00"
     },
     {
       "title": "Democrats poised to flip 7 NC congressional seats, though recounts loom",
@@ -40,94 +106,28 @@
       "published": "2026-11-14T02:33:25+00:00"
     },
     {
-      "title": "2026 U.S. Senate Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "source": "AP News",
-      "published": "2026-11-14T01:57:54+00:00"
-    },
-    {
       "title": "JKT tops 50% of first-choice votes for Alaska governor, Republican opponents concede",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGM1aWZldGJLQjFkeEUtekNoMkRHOHZVSlptR3BqeG5FSG5fU1c3ckJkTktzenpGZEJ2WHNtbFRfbk9KMDRkU01zR3FndFFMQm1UeHJpaThvSWhQcEcxeE5LeHlfTGRRZ3NHUklJZ3FuREhoTEtWMGY4WXBVWXJ4dUdteTNQRG9VVDdteVk3cFNadWNoakNySW1RblQ1MUM4ZnZucEIxQTRlUVdjVHRkd0lCRzUzM01wYktr?oc=5",
       "source": "Alaska Beacon",
       "published": "2026-11-14T01:49:15+00:00"
     },
     {
-      "title": "Did the Redistricting Wars Backfire on Republicans? In a Word, No.",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDB5emdHREx4VHlzT3BVYlhYcGZ6OExpR01SVzFlWHRaeWxTMHp1UTZyUHF2bFpQbWZMMHZUeTVwZWMwYmNXSS01XzVlSkZyNDM1TW9PTksxNmZySWVGc2Z5RDJoeHBHczlmZ2F6ZUZEQXJRWUpvSF9VTGpLcW1NYWo3WHluMHM4NFlZX3BkaG9TNTA?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-14T01:18:52+00:00"
+      "title": "Eric Jones Ousts Longtime Incumbent Mike Thompson in California Race",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91ckszUmJGaDVraVhZRWRNTGFGeDZfQ3EwTVRrMkx6WGNuSWJSWHhyc294RWV1UGg1ZnBralRTVVgtWGVad043V3NfNE9JQkplM2c0SGVvT0xhQmh4Y01uSjZXX0VXZHEwV3dUdE5pWQ?oc=5",
+      "source": "Davis Vanguard",
+      "published": "2026-11-14T01:40:00+00:00"
+    },
+    {
+      "title": "Victory for Alaska Voters: Court Rejects Trump/Vance Administration’s Attempt to Interfere in Senate Election",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdEpmcUY2ZEFBbk5ZdVpHbzlzeXNzR1N4ZGlCS1hRN1czRjktOXlnNGgzbnZFVTZjV2hlRlRGS2dYRERFSUI5Ylg1YnBOVWpsTFZwazFEcWNpQnpZWVJ4R093TTdiTThEYTRxeUpva0Y0b0JXLUU3NkVYSFhTTlpkYW5PR0k0cWYtRzVtZUJXVmlHYmg4NGh6WE9hWFItREFlb2w5RHpONUpDQTN0ZDM0Y0J5NzZtdmVlVF9OU0FDd1ZVSTc0ajVJYjVlVGRYN0dYOGwyaHpjQ0tMZ0hVdmc?oc=5",
+      "source": "Common Cause",
+      "published": "2026-11-14T00:59:28+00:00"
     },
     {
       "title": "Alaska Senate race remains uncalled. See live results",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzdQc3RBOWlUc2laeWRhYkxSTG83dXFLdmFLUkpZaFJSVWxaMHRrOGxGRmdRa08wV1cyOTd0SXhnWXRCa1UtQzBHZ1N0N05lZjZMMTRLekF0ZHBvOXJ4a0I1MnFhMHVpcFFsWDR2STlKSFN4U0JDeTViTnpHRmJxYzdHRGxzTFhSV2FSX0tyN0pwcm9WMC02REJaRnFjbU9qQTJyaEpaaVRwQjBGeGJlVnJQUQ?oc=5",
       "source": "USA Today",
       "published": "2026-11-14T00:01:00+00:00"
-    },
-    {
-      "title": "Lauren Boebert will lose her seat in Congress to Democrat Laubacher, AP projects",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ19PSV9QN0hlMVhEZkpwUW5zTjV4LVFlbzJNVVo3MzZLQkQ4aUhUUjRobVQzbUxJQTdyRURBcFpDQWYyNl9ZNl8tT3RTSTdFYk1fNHpuTWxfMGdEbHBoY2MwaXY2MG5pLUtjeXQ5UWFaM1kxMVNPeUEzczhXUEZiczhGTVhsejZKWUVmbUNjX1VnZ2dFY1FuZtIBngFBVV95cUxOeVFEdjExbDZZWkJ3eFZIMnliVEZTemI2NTFQUGgydUg1NFJ5c29MSG9oMHBtdVR3ZEZHLTczY3d4UTlSMmR3Qm1NdE1TR1I3c29aRWlMTWhnM283NzBvQy1Mai1uOTc5akFUVVNTV3dPYktKcnlSWmNHMWxHNDR6VkVFUXJvNUx1dURYNUZEMGJCSURDSUlGbDdXWkYxUQ?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-11-13T23:39:23+00:00"
-    },
-    {
-      "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3NHVjRJVW84Y3Q4UVdiVWRaUlBsTUF2TzQyYW0xWFdKQUMyZGFRYklzc3J6NUFBZzA2VWZsbU56LTYwSHEyV0F6QzJzbXRKR2NuV1ZYVkNjUTktUl9YUE1VZDRwT3I2R1RrSGlKa0RwSGZZQUdMNUM3SS1tcDZ4LXFyUHBjV2VrOS1EV3VuTEtrQnN2RUNMWXpVWlVUdw?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-13T23:18:08+00:00"
-    },
-    {
-      "title": "Democrat wins Alaska governor race, in setback for GOP scheme to steal Senate seat",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS0J6ZGJxdTBsRjBScGpYSEhKVjBVa2p1RnY1emI2X04wRW1aMElSLTFIdm5pbjQ0M2hIa1ZxS1Foc0dub1c3YVMzMEltWUxYZ2VOcHYxNHJsZ2dUTDNwbXF5OUQweGRmNHBiU1VJREc1X0ktNzB5ZWpkU0ppUjUtQUJ1VlN4cURiMnh4UmxQQS00ZEpJbDd2RnptVWZudXNmQTJ1TVEtM040elpWS0ZxQnM2Z2J3Wkc3clNOZlFsLWRCVWtp?oc=5",
-      "source": "Democracy Docket",
-      "published": "2026-11-13T22:33:48+00:00"
-    },
-    {
-      "title": "Lauren Boebert Loses Re-election Bid in Colorado House Race to Eileen Laubacher",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVBIODk1b1l0VXRES1dVN3FUVFVybVFELTVrQS0tOUNHaWlUNjZhTnFKSGJmZmktOXExWk5HRzNkeDFPQV9JNGRQTm93QjN5LWR1WFV2aFVCZGZ0UlFZcmZDa2N4bDBLaUNrakZJbGlGR2dvZWVkQmNDck1zYTNRVHQ4ajJiNWFB?oc=5",
-      "source": "The New York Times",
-      "published": "2026-11-13T22:32:22+00:00"
-    },
-    {
-      "title": "Destiny shadows Lauren Boebert and shines on Cleave Simpson. Perhaps their character is the reason why. (Opinion)",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjVFcXp3X05VelhSU2o0Zm4zLU1HYS1mTHNjWTBZUE5nUHpYZHZKMXF0aDhzV0t2Qk1MQkFBSkpBODhiSnF4d0ZYNEpuOTVxclp1NFp5U2w1OG0tWEpYWFR0N2tfZ1NtTFUyMEo3Sy1xczJrZjJpYUhCcWh2eU1TdUxQMTlFVllPWjljV0V6ZnJNOE93dHc1RVR2N1g?oc=5",
-      "source": "The Denver Post",
-      "published": "2026-11-13T22:05:16+00:00"
-    },
-    {
-      "title": "Potential NLRB and Labor Law Shifts After 2026 Midterms: What Changes",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHItUWhPUW5DRldsYW12Um1vNDJ1TmdndlMzOGl5b0Q3YmRkMVBXV29tcnpHdEpwUFoyZnRGSUZqTWFlX3RKT0JwOWNreFFPcDhMTGlzbG56bHBOUndFcHhZOFRWbGxWb2tEX0hURWE2eXRWUk5IVTVSV0FYVlI0eVBBckxadjVzc2dCWVlSSjd1dzdYWUNYdVE2T05DXzNNdHBfV1R0SXladw?oc=5",
-      "source": "Jackson Lewis",
-      "published": "2026-11-13T21:40:13+00:00"
-    },
-    {
-      "title": "GOP Rep. Lauren Boebert of Colorado loses U.S. House seat to Democrat Eileen Laubacher",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN09LQkc5bGk3RnlmSnZrbTNGemFkN2FpTm5mOC1oMUtYVkMybGVjN1hQbUIxVXpCYXRrcmhkTm1IdzNRWGI5eklRTkdSZ3BHaXVMdUQ3YUYtQTBUR2pFd0xqUDlNdmFEWEdIdDZpRTRDcU1VVDk4S2RUaWJvLXdHVkppaERYZl9YV3NHSkZrcURpVC03eS1sbngtbzdCT0tEem5XdXpNOWdjT2FIMFBhTnc1dXAtVHhtM2JITlJvNA?oc=5",
-      "source": "PBS",
-      "published": "2026-11-13T21:32:51+00:00"
-    },
-    {
-      "title": "Delaware voters sue to expand U.S. House, calling 435-seat limit unconstitutional",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zS09aLXpTaXdWcEpnQTZPakR4b3lHcmExNGtjbjRiSlFwRDJnSlFaazQwX3prazZyajNmZ3RpNWI4WVdwUS01NG9va2xJeDZyUFBoT2l2bjlPM2EtaFNGZnV3cDBwWjhGOGR1UEtTM3VUcmt6Z2lv?oc=5",
-      "source": "WHYY",
-      "published": "2026-11-13T21:26:25+00:00"
-    },
-    {
-      "title": "Vance and Harris top the lists of preferred 2028 presidential candidates among intended primary voters",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGt4bEVPMUM3UlgwUmZ2SzBFWldrTU9kQi14eHNuWUF5QVVMdGJFTTdHMUFSeHdFdFR6ZmFyYUJRMXJDRjBMSFpWUlpaWTV1d3VHemRfZnlyU21saTRiMGJJbGVRa0lETTU0c1c1YjJXQTQwNnJnaFZQUFBIQjlnTmdoU3hCbkZkd0t1LWM0a1REZUdoOEFfY1FVNzZSdlIxZnlkUU1FT0NyMGhoT19BZTBkcE50NFRad1hWdExNX010UlFFeFZXT05SbnVCYXFMbGt0RlRIOE5VU1lSamwweGJGZVQ2amM?oc=5",
-      "source": "YouGov",
-      "published": "2026-11-13T20:49:47+00:00"
-    },
-    {
-      "title": "GOP Rep. Lauren Boebert loses Congressional race for re-election",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcjRHZVZ1czRhRkxCbFNqNHlfLXZFVHNFc0h6cnZzX1BVamVfajNqU0lkS2JzVUxCX1ZTcncwaGpycXlYNkRvZllPTk5mczIyLU8zaHdIU1d6LVF4aDFwc1pKRlN1UzVmeGNReUlSWTM1S2xXUWE3cmJvbGw5RVMwZEtYbDduTy1ZRmJPS3FWb3g?oc=5",
-      "source": "KCRA",
-      "published": "2026-11-13T20:38:00+00:00"
-    },
-    {
-      "title": "Lauren Boebert lost one of the most pro-Trump districts any House Republican lost this year",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUtVVHo0Z2kxWDhpMjhmb0FUbkVyaER5NldjYlBYb1pGeVpvcjRFaFFfWGF5aEo1ZkRNa1p6RlR6dWZwbW5sRk1FRlcxTnl3VWFpRFVqSTNVMlZHbFMtcnBSN2tpS1IyTFp6QVZFLUxrb3VLd3NKQVlLODdlWGNaWWFUR2RjQTQ?oc=5",
-      "source": "The Colorado Sun",
-      "published": "2026-11-13T20:33:13+00:00"
     }
   ]
 }
